@@ -1,0 +1,68 @@
+todaysdate	submitted by	Name for Pin	Department	Budget Authority	Budget Code
+Feb 24, 2010, 16:26:40	brian.litke@sedl.org	Brian Litke	Comm	Chris Moses	kx46x92ba
+Apr  8, 2010, 07:04:34	stacey.joyner@sedl.org	Stacey Joyner	Improving School Performance	TXCC	030-5-D1XX2
+May  4, 2010, 08:43:29	vicki.dimock@sedl.org	Blanca Quiroz	ISP	Vicki Dimock	030-5-D1XX1
+May 17, 2010, 13:51:57	amanda.frenzel@sedl.org	Kate Sullivan	R&E	Michael Vaden-Kiernan	066-9-V1XXX
+May 17, 2010, 15:24:39	brian.litke@sedl.org	Brian Testing Form Litke	Communicaitons	CM	111-222-kxkxkx
+Sep 10, 2010, 11:18:28	jackie.burniske@sedl.org	Jackie Burniske	ISP	TXCC, Goal 1, Haidee Williams, Vicki Dimock	030-5-DIXXI
+Nov 11, 2010, 09:51:56	sharon.malmquist@sedl.org	Sharon Malmquist	DRP	John Westbrook	037-6-J1J1X
+Nov 11, 2010, 14:14:45	sarah.caverly@sedl.org	Carlton Fong	Research and Evaluation	Michael Vaden-Kiernan	066-9-V1XXX
+Nov 11, 2010, 14:15:02	sarah.caverly@sedl.org	Erin Atwood	Research and Evaluation	Michael Vaden-Kiernan	066-9-V1XXX
+Nov 11, 2010, 14:32:11	sarah.caverly@sedl.org	Dewi Smith	Research and Evaluation	Michael Vaden-Kiernan	066-9-V1XXX
+Nov 11, 2010, 14:32:44	sarah.caverly@sedl.org	Sarah Henriquez	Research and Evaluation	Michael Vaden-Kiernan	066-9-V1XXX
+Nov 11, 2010, 15:41:38	maria.rodriguez@sedl.org	April Wilson	AFC	Zena Rudo	071-0-L1XXX
+Dec 28, 2010, 15:38:58	tashanda.moreno@sedl.org	Beth Howard	SECC / ISP	D. Brown/ R. Jarvis	031-5-M1XXX
+May 26, 2011, 09:44:36	petra.ramirez@sedl.org	Esmeralda Urquidi	Improving School Performance	Haidee Williams	030-5-D1XX1
+Aug  8, 2011, 08:27:33	esmeralda.urquidi@sedl.org	Esmeralda Urquidi	ISP	Petra Ramirez	030-5-D1XX1
+Aug  9, 2011, 16:35:56	beth.howard@sedl.org	Beth Howard	Improving School Performance	Robin Jarvis	031-5-M1XXX
+Sep 22, 2011, 10:13:04	maria.turner@sedl.org	Maria Turner	Human Resources	Wes Hoover	010-0-K3K3X
+Oct 12, 2011, 21:52:02	melissa.dodson@sedl.org	Melissa Dodson	Research & Evaluation	Melissa Dodson	031-5-E1XXX
+Oct 13, 2011, 09:02:50	brenda.arellano@sedl.org	Brenda Arellano	Research & Evaluation	Melissa Dodson 	030-5-D1XX1
+Oct 13, 2011, 10:03:01	ann.williams@sedl.org	Ann Williams	Disability Research to Practice	John Westbrook	054-8-J1xxx
+Oct 13, 2011, 16:24:37	veronica.brinson@sedl.org	Verónica Brinson	R & E	Michael Vaden-Kiernan	070-0-V1XXX
+Dec 13, 2011, 10:02:45	connie.rios@sedl.org	Connie Laizure	Administrative Services	Arnold Kriegel	010-0-K2K2X
+Feb  7, 2012, 09:38:52	debra.rodriguez@sedl.org	Debra Rodriguez	R&E	scaverly	059-9-V1XXX
+Feb 24, 2012, 08:52:16	leida.tolentino@sedl.org	Leida C. Tolentino	Afterschool, Family, and Community	Cathy Jordan	071-0-L1xxx
+Jun 27, 2012, 14:19:35	laura.torres@sedl.org	Laura Torres Costello 	Research and Evaluation 	Melissa Dodson	071-0-V1XXX
+Jun 27, 2012, 14:29:40	laura.torres@sedl.org	Laura Costello	Research and Evaluation	Melissa Dodson	071-0-V1XXX
+Nov  9, 2012, 10:51:50	amanda.frenzel@sedl.org	Sarah Caverly	R&E	Michael Vaden-Kiernan	059-9-V1XXX
+Nov  9, 2012, 10:52:20	amanda.frenzel@sedl.org	Debra Rodriguez	R&E	Michael Vaden-Kiernan	070-0-V1XXX
+Nov 12, 2012, 16:20:05	tashanda.moreno@sedl.org	Beth Howard-Brown	ISP	Robin Jarvis	021-2-M1XXX
+Nov 28, 2012, 10:10:13	loretta.king@sedl.org	Dale Lewis	Improving School performance (ISP)	Robin jarvis	020-2-D1XXX
+Nov 28, 2012, 14:54:00	loretta.king@sedl.org	Don D. Doggett	Improving School performance (ISP)	Robin Jarvis	021-2-M1XXX
+Dec 10, 2012, 11:06:16	shana.shaw@sedl.org	Shana Shaw	R&E	Melissa Dodson	021-2-E1XXX
+Jan  2, 2013, 09:48:07	tashanda.moreno@sedl.org	Tashanda Riley	ISP	Robin Jarvis	021-2-M1XXX
+Jan 16, 2013, 14:50:15	debra.meibaum@sedl.org	Debra Meibaum	ISP	Beth Howard	021-2-M1XXX
+Jan 28, 2013, 08:03:09	sylvia.pirtle@sedl.org	Sylvia Segura Pirtle, PhD	Improving School Performance	Robin Jarvis	031-5-M1xxx
+Feb  6, 2013, 14:26:57	tracy.bauman@sedl.org	Steven Boydston	DRP	John Westbrook	018-2-J1XXX
+Mar 22, 2013, 16:16:56	grace.fleming@sedl.org	Grace Fleming	Research & Evaluation	Michael Vaden-Kiernan	070-0-V1XXX-EM
+Apr 25, 2013, 15:21:07	connie.laizure@sedl.org	Matt Shuss	Administrative Services	Stuart Ferguson	010-0-K2K2X
+Apr 26, 2013, 10:26:31	crystal.darby@sedl.org	Crystal Darby	Education Systems Support	Robin Jarvis	021-2-M1XXX
+May 20, 2013, 16:34:36	petra.ramirez@sedl.org	Rita Ghazal	ESS	Ed Tobia	020-2-D1XXX
+May 22, 2013, 14:16:16	amanda.frenzel@sedl.org	Ginger Stoker	R&E	Michael Vaden-Kiernan	012-2-A41XX
+May 22, 2013, 14:26:04	april.west@sedl.org	April Smith West	Communications	Chris Moses-Egan	010-0-K6XX8
+May 22, 2013, 16:38:44	leslie.nail@sedl.org	Leslie Nail	REL-SW and AFC	Sandy Rodriguez	012-2-A21XX (70%) & 027-2-D1XXX (30%)
+May 23, 2013, 13:32:08	norma.salas@sedl.org	Norma Salas	REL-Southwest	012-2-A21XX	srodrig
+Jun  4, 2013, 14:51:37	robin.zuniga@sedl.org	Robin E. Zuniga	Research and Evaluation	TXCC	020-2-E2XXX
+Jun  7, 2013, 16:15:55	janice.esau@sedl.org	Janice Esau	REL	Vicki Dimock	Task 2  012-2-A21XX
+Jun 27, 2013, 10:26:32	amanda.frenzel@sedl.org	Chad Henry	R&E	Michael Vaden-Kiernan	012-2-A41XX
+Jun 27, 2013, 10:27:11	amanda.frenzel@sedl.org	Deborah Jones	R&E	Michael Vaden-Kiernan	012-2-A41XX
+Jun 28, 2013, 12:15:33	tashanda.riley@sedl.org	Tammie Causey-Konate	REL  ( 50% SE / 50%  SW)	D.Brown / A.Muoneke	014-2-A2XXX / 012-2-A21XX
+Jul 12, 2013, 07:54:25	crystal.darby@sedl.org	Heidi T. Goertzen	Education Systems Support	Robin Jarvis	021-2-M1XXX
+Jul 18, 2013, 08:19:29	heidi.wagner@sedl.org	Heidi Wagner	ESS	Dale Lewis	020-2-D1xxx
+Jul 29, 2013, 18:25:18	amanda.frenzel@sedl.org	Lynn Mellor	Research & Evaluation	Michael Vaden-Kiernan	012-2-A41XX
+Aug  6, 2013, 10:30:46	christopher.cox@sedl.org	Chris Cox	Administrative Services	cpierron	010-0-K2K2
+Aug  7, 2013, 11:03:03	janice.esau@sedl.org	Janice Keizer	REL	Vicki Dimock	012-2-A21xx
+Sep 16, 2013, 16:25:30	petra.ramirez@sedl.org	Garry Davis	ESS	Ed Tobia	020-2-D1XXX
+Sep 23, 2013, 14:39:08	garry.davis@sedl.org	Garry Davis	Education Systems Support	Dale Lewis	020-2-D1xxx
+Oct  7, 2013, 09:34:29	sylvia.pirtle@sedl.org	Sylvia Segura Pirtle	ESS	ESS	0000
+Oct  9, 2013, 15:40:38	kati.timmons@sedl.org	Kati Timmons	Development	Martha Boethel	010-0-k5k5x
+Oct  9, 2013, 15:47:22	shannon.lasserre-cortez@sedl.org	Shannon Lasserre-Cortez	R & E	Melissa Dodson	012-2-A31XX
+Nov  8, 2013, 13:22:29	amanda.frenzel@sedl.org	Tracy Long	R&E	Michael Vaden-Kiernan	070-0-V1XXX
+Nov 13, 2013, 09:51:03	crystal.darby@sedl.org	Beth Howard-Brown	Education Systems Support	Beth Howard-Brown	021-2-M1XXX
+Nov 14, 2013, 08:59:42	veronica.brinson@sedl.org	Verónica Ruiz de Castilla	Research and Evaluation	Michael Vaden-Kiernan	070-0-V1XXX
+Nov 15, 2013, 10:20:27	ann.neeley@sedl.org	Ann Neeley	TXCC	Dale Lewis	020-2-D1xxx
+Jan 15, 2014, 08:15:21	norma.salas@sedl.org	Patricia Latham, Ed. D.	Consultant	Vicki Dimock	012-2-A21XX
+Jan 15, 2014, 08:15:42	norma.salas@sedl.org	Patricia Latham, Ed. D.	Consultant	Vicki Dimock	012-2-A21XX
+Feb  4, 2014, 15:02:42	margaret.alvarez@sedl.org	Felice Trirogoff	ESS	Dale Lewis	020-2-D1XXX
+Feb  4, 2014, 15:15:40	john.spence@sedl.org	John Spence	ESS	Dale Lewis	020-2-D1XXX

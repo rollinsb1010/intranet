@@ -1,0 +1,6 @@
+<chart caption='Staff Time Summary by Budget Code: 10/1/2012 - 9/30/2013' subcaption='Staff: kmurphy' xAxisName='Budget Code' yAxisName='Hours Charged' numberPrefix=''>
+<set label='018-2-J1XXX' value='737.2' />
+	<set label='026-2-J1XXX' value='5' />
+	<set label='029-2-J1XXX' value='417.3' />
+	<set label='076-0-J1XXX' value='559.2' />
+	</chart>

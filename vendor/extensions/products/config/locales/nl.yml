@@ -1,0 +1,51 @@
+nl:
+  refinery:
+    plugins:
+      products:
+        title: Products
+    products:
+      admin:
+        products:
+          actions:
+            create_new: Nieuwe Product toevoegen
+            reorder: De volgorde van de Products wijzigen
+            reorder_done: Klaar met het wijzingen van de van de Product-volgorde
+          records:
+            title: Products
+            sorry_no_results: Helaas! Er zijn geen resultaten gevonden.
+            no_items_yet: Er zijn nog geen Products. Druk op 'Nieuwe Product toevoegen' om de eerste toe te voegen.
+          product:
+            view_live_html: Deze product op de website bekijken <br/><em>(opent in een nieuw venster)</em>
+            edit: Bewerk deze product
+            delete: Deze product definitief verwijderen
+      products:
+        show:
+          other: Andere Products
+  activerecord:
+    attributes:
+      'refinery/products/product':
+        name: Name
+        authors: Authors
+        categories: Categories
+        rel_categories: Rel Categories
+        assigned_to: Assigned To
+        title: Title
+        title2: Title2
+        sales_id: Sales
+        online_id: Online
+        price: Price
+        weight: Weight
+        year_published: Year Published
+        type: Type
+        media: Media
+        description: Description
+        meta_desc: Meta Desc
+        meta_keywords: Meta Keywords
+        pages: Pages
+        runtime: Runtime
+        language: Language
+        sedl_program: Sedl Program
+        testimonial: Testimonial
+        citation: Citation
+        update_content: Update Content
+        last_updated_by: Last Updated By

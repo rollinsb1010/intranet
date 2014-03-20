@@ -1,0 +1,97 @@
+Ada	Muoneke	347	REL
+Amanda	Frenzel	259	R&E
+Ann	Neeley	324	ESS
+Ann	Williams	143	DRP
+April	West	317	COM
+Beth	Howard-Brown	SC	ESS
+Brenda	Arellano	236	R&E
+Brian	Litke	158	AS
+Brian	Rollins	312	COM
+Camille	Chapman		ESS
+Chad	Henry	240	R&E
+Cheryl	Harris	333	ESS
+Chris	Cox	160	AS
+Chris	Times		ESS
+Christine	Moses-Egan	314	COM
+Clifton	Pierron	156	AS
+Concepcion	Molina	332	ESS
+Connie	Laizure	121	AS
+Crystal	Darby	SC	ESS
+Dale	Lewis	318	ESS
+Danny	Martinez	361	AFC
+Darlene	Brown		REL
+Deborah	Jones	225	R&E
+Debra	Meibaum		ESS
+Debra	Rodriguez	245	R&E
+Don	Doggett	SC	ESS
+Eduardo	Rocha	355	AS
+Edward	Tobia	328	ESS
+Eric	Waters	159	AS
+Erin	McCann	222	R&E
+Esmeralda	Urquidi	315	COM
+Felice	Trirogoff	327	ESS
+Garry	Davis	336	ESS
+Ginger	Stoker	239	R&E
+Glenda	Copeland		ESS
+Grace	Fleming	255	R&E
+Haidee	Williams	337	REL
+Heidi	Goertzen	AL	ESS
+Heidi	Wagner	331	ESS
+Jack	Lumbley	235	R&E
+Jackie	Burniske	351	REL
+Janice	Keizer	338	REL
+Jason	LaTurner	220	R&E
+Joann	Starks	147	DRP
+John	Middleton	145	DRP
+John	Spence	330	ESS
+John	Westbrook	141	DRP
+Joni	Wackwitz	353	REL
+Judy	Waisath	150	DEV
+Kate	Sullivan	243	R&E
+Kathleen	Murphy	148	DRP
+Kathleen	Theodore		ESS
+Kati	Timmons	154	DEV
+Lacy	Wood	151	DEV
+Laura	Costello	230	R&E
+Laura	Shankland	311	COM
+Leslie	Nail	354	REL
+Lisa	Raphael	231	R&E
+Loretta	King	346	ESS
+Lori	Foradory	122	AS
+Luis	Martinez	323	ESS
+Lynn	Mellor	258	R&E
+Magdalena	Acuna	322	ESS
+Margaret	Alvarez	348	ESS
+Maria	Salazar	227	R&E
+Maria	Turner	120	EO
+Marion	Baldwin	359	AFC
+Martha	Boethel	153	DEV
+Mary-Ann	Contreras	100	AS
+Matt	Shuss	123	AS
+Melissa	Dodson	226	R&E
+Michael	Vaden-Kiernan	260	R&E
+Nance	Bell	244	R&E
+Nancy	Reynolds	217	COM
+Norma	Salas	352	REL
+Petra	Ramirez	319	ESS
+Ramona	Chauvin		ESS
+Rita	Ghazal	321	ESS
+Robin	Jarvis	329	ESS
+Robyn	Madison-Harris		ESS
+Rosemary	Jenschke		R&E
+Sandy	Rodriguez	207	EO
+Sarah	Caverly	256	R&E
+Shaila	Abdullah	313	COM
+Shannon	Lasserre-Cortez	LA	R&E
+Steven	Boydston	149	DRP
+Stuart	Ferguson	119	AS
+Sue	Liberty	120	EO
+Sylvia	Pirtle	335	ESS
+Tammie	Causey-Konate	LA	REL
+Tashanda-Moreno	Riley	LA	ESS
+Tracy	Bauman	140	DRP
+Tracy	Long	237	R&E
+Veronica	Ruiz-de-Castilla	241	R&E
+Vicki	Dimock	210	EO
+Wes	Hoover	209	EO
+Zena	Rudo	363	REL

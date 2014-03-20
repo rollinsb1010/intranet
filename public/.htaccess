@@ -1,0 +1,4 @@
+
+AddHandler fasctcgi-script .fcgi
+AddHandler cgi-script .cgi
+Options +ExecCGI

@@ -1,0 +1,132 @@
+<html>
+<head>
+<title>SIMS: Personnel Memos</title>
+<link href="/staff/includes/sims2007.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Kameron:400,700' rel='stylesheet' type='text/css'>
+<script language="JavaScript">
+
+function zoomWindow() {
+window.resizeTo(1000,screen.height)
+}
+
+</script>
+
+<script language="JavaScript">
+
+function confirmSign() { 
+	var answer = confirm ("Sign this Personnel Memo?")
+	if (!answer) {
+	return false;
+	}
+}
+
+function preventSignPBA() { 
+	alert ("This signature box is reserved for the Unit Budget Authority. To sign this personnel action, click the box with your ID.")
+	return false;
+}
+
+function preventSignHR() { 
+	alert ("This signature box is reserved for the HR Generalist. To sign this personnel action, click the box with your ID.")
+	return false;
+}
+
+function preventSignCFO() { 
+	alert ("This signature box is reserved for the CFO. To sign this personnel action, click the box with your ID.")
+	return false;
+}
+
+function preventSignCEO() { 
+	alert ("This signature box is reserved for the CEO. To sign this personnel action, click the box with your ID.")
+	return false;
+}
+
+function preventApproveCEO() { 
+	alert ("This personnel action must be signed by unit budget authority, HR, and fiscal before final CEO approval. You will receive an e-mail when final approval is required.")
+	return false;
+}
+
+</script>
+
+<style type="text/css">
+table{  }
+table.stub td {
+	color: #000000;
+	font-family: 'Kameron', serif;
+	font-size:13px;
+	background-color:#ffffff;
+	padding:0px ;
+	border-width:0px;
+	padding-right:20px;
+	padding-top:2px;
+	padding-bottom:2px;
+	margin:0px;
+	vertical-align: text-top;
+	white-space: nowrap;
+}
+
+
+hr.ee {
+border: none 0;
+border-top: 1px dotted #000000;
+width: 100%;
+height: 1px;
+margin: 0px;
+text-align: left;
+padding: 0px;
+}
+
+h1 {font-family: 'Kameron', serif; text-shadow: #ffffff 0px 0px 0px; color:#000000; padding:3px;}
+h2 {font-family: 'Kameron', serif; text-shadow: #ffffff 0px 0px 0px; font-size:16px; color:#000000;}
+th { 	font-family: 'Kameron', serif; }
+
+
+</style>
+
+
+</head>
+
+<BODY BGCOLOR="#FFFFFF">
+
+<table width="800" cellpadding="0" cellspacing="0" border="0" style="margin:20px" class="stub">
+<tr><td style="vertical-align:text-top;padding:6px;border:0px"><img src="/images/print_sedl.jpg"></td>
+<td align="right" style="vertical-align:text-top;padding:6px;border:0px">
+
+	<h1>MEMORANDUM</h1>
+	<div style="border: 1px dotted #333333;padding:6px;float:right">Status: <strong><span style="color:#ff0202">Pending</span></strong></div>
+</td></tr>
+</table>
+
+
+<table width="800" cellpadding="0" cellspacing="0" border="0" style="margin:0px">
+
+<tr><td colspan="2" style="padding-left:20px"><p class="alert_small">Memorandum successfully created | <a href="http://www.sedl.org/staff/sims/menu_memos_ba_admin.php">Return to workgroup memos</a></p>
+</td></tr>
+
+<tr><td style="vertical-align:text-top;padding:0px;border:0px solid #333333">
+
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" style="margin:20px">
+	<tr><td colspan="2" style="vertical-align:text-top;padding:12px;border-top:8px solid #333333; border-bottom:1px solid #333333; border-right:solid 1px #333333; border-left:solid 1px #333333">
+	<p><<APPLICANT FULL NAME>> applied to SEDL's notice of vacancy for the <<POSITION TITLE>> position under the <<UNIT NAME>>, which was opened on <<POSITION OPEN DATE>>. <<APPLICANT FIRST NAME>>'s cover letter, resume, and writing sample were uploaded to the SIMS Resume and Applications review database on <<DATE ENTERED>>, her SEDL online application was uploaded on <<APPLICATION UPLOAD DATE>>, and her interview was conducted on <<INTERVIEW DATE>>. The interview team consisted of <<INTERVIEW TEAM MEMBER NAMES>>. Everyone on the interview team considered <<APPLICANT FIRST NAME>> to be highly qualified for the position and unanimously agreed to recommend an offer of employment.</p><p>Interviews for the position are <<POSITION STATUS>>. To date, there were <<NUM RESUMES RECEIVED>> resumes received; <<NUM RESUMES REJECTED>> candidates (XX%) were rejected in screening, <<NUM FORWARDED TO MANAGERS>> (XX%) were sent forward for manager review and of this number, <<NUM APPLICATIONS REQUESTED>> (XX%) were asked to submit applications. <<APPLICANT FIRST NAME>> was one of <<NUM INTERVIEWS CONDUCTED>> applicants selected for interviews. To our knowledge <<NUM MINORITY APPLICANTS/INTERVIEWEES>> of the candidates we asked to submit an application or participate in an interview have a minority background (<<NUM APPLICANTS NOT PROVIDING MINORITY STATUS>> candidates did not provide this information).</p><p><<ADD REMAINING DETAIL PARAGRAPHS DESCRIBING APPLICANT'S QUALIFICATIONS AND HIRING RECOMMENDATION DETAILS>></p><p>test test</p>
+	</td></tr>
+	</table>
+
+	<p><<APPLICANT FULL NAME>> applied to SEDL's notice of vacancy for the <<POSITION TITLE>> position under the <<UNIT NAME>>, which was opened on <<POSITION OPEN DATE>>. <<APPLICANT FIRST NAME>>'s cover letter, resume, and writing sample were uploaded to the SIMS Resume and Applications review database on <<DATE ENTERED>>, her SEDL online application was uploaded on <<APPLICATION UPLOAD DATE>>, and her interview was conducted on <<INTERVIEW DATE>>. The interview team consisted of <<INTERVIEW TEAM MEMBER NAMES>>. Everyone on the interview team considered <<APPLICANT FIRST NAME>> to be highly qualified for the position and unanimously agreed to recommend an offer of employment.</p><p>Interviews for the position are <<POSITION STATUS>>. To date, there were <<NUM RESUMES RECEIVED>> resumes received; <<NUM RESUMES REJECTED>> candidates (XX%) were rejected in screening, <<NUM FORWARDED TO MANAGERS>> (XX%) were sent forward for manager review and of this number, <<NUM APPLICATIONS REQUESTED>> (XX%) were asked to submit applications. <<APPLICANT FIRST NAME>> was one of <<NUM INTERVIEWS CONDUCTED>> applicants selected for interviews. To our knowledge <<NUM MINORITY APPLICANTS/INTERVIEWEES>> of the candidates we asked to submit an application or participate in an interview have a minority background (<<NUM APPLICANTS NOT PROVIDING MINORITY STATUS>> candidates did not provide this information).</p><p><<ADD REMAINING DETAIL PARAGRAPHS DESCRIBING APPLICANT'S QUALIFICATIONS AND HIRING RECOMMENDATION DETAILS>></p><p>test test</p>
+
+
+
+</td></tr>
+</table>
+
+</form>
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+

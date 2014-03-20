@@ -1,0 +1,461 @@
+/* Padding happens in this order: TOP, RIGHT, BOTTOM, LEFT */
+/* Padding is the space inside the div box and margin is the space outside the div box */
+
+
+/* HIDE THESE ELEMENTS */
+.intranet_footer_print_section { display: none;  }
+
+/* NEW CSS LAYOUT ELEMENTS */
+.intranet_header_section1 {}
+.intranet_header_section2 {}
+
+.hanging-indent {
+	text-indent: -3em; margin-left: 3em;
+}
+
+#wrapper {
+	background: #fff url(http://www.sedl.org/staff/images/background_navbar_97B038.gif) repeat-y 50% 0; 
+}
+
+#leftcol{
+	width:180px; 
+	float:left; 
+	position:relative; 
+	background-color:#97B038; 
+}
+
+#maincol{background-color: #;  
+	float: right;
+	display:inline;
+	position: relative;
+	width:601px;
+}
+
+/* *** Float containers fix:
+http://www.csscreator.com/attributes/containedfloat.php *** */ 
+.clearfix:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+
+.clearfix{display: inline-block;}
+
+/* Hides from IE-mac \*/
+* html .clearfix{height: 1%;}
+.clearfix{display: block;}
+/* End hide from IE-mac */  
+
+
+/*Make an images of style "declaration" by BLOCK instead of INLINE, preventing unwanted spaces below the image */ 
+img.decoration {display: block;}
+
+
+
+/* NORMAL CSS ELEMENTS */
+sup {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px}
+body {  
+	background-color:#ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;  
+	font-size: 11px; 
+	padding: 0; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+}
+p {  font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 15px;}
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; line-height: 22px; color: #a73329}
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; line-height: 19px; background: transparent; color: #839b28}
+h3 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; line-height: 19px; background: transparent; color: #a98242}
+h4 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; line-height: 18px;background: transparent; color: #53897e}
+h5 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF}
+h6 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; line-height: 13px; color: #3C648F}
+.class1 A:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.class1 A:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.class1 A:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #CCCCCC;
+	text-decoration: none;
+}
+.class1 A:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:link {
+	background: transparent;
+	color: #3b7365; 
+}
+
+a {
+	background: transparent;
+	color: #3b7365; 
+}
+a:visited {
+	background: transparent;
+	color: #234f46; 
+}
+a:active {
+	background: transparent;
+	color: #3b7365; 
+}
+a:hover {
+	background: #e8dcb7;
+	color: #3b7365; 
+}
+
+.nu {  text-decoration: none}
+ul {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px;}
+ol {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px;}
+.small {  font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 12px}
+.tiny {  font-size: 9px; font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 12px}
+.big {  font-size: 14px}
+.first {  padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px; border: 2px #105F4D dotted; background: #D9D9D9; color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px}
+.float {  float: right; padding-top: 0px; padding-right: 5px; padding-bottom: 5px; padding-left: 11px; font-size: 10px; background: transparent; color: #105F4D; font-weight: bold; clip:  rect(   ); width: 180px}
+.floatimg { float: right; padding-top: 0px; padding-right: 9px; padding-bottom: 9px; padding-left: 11px; clip:  rect(   )}
+li { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px ; white-space: normal; padding-bottom: 7px; list-style-position: outside; background: transparent}
+.last { padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px; border: 2px #000033 dotted; background: #EDE8DD; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 13px}
+.table-dotted {  border: 1px #105F4D dotted; font-size: 10px}
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px; }
+th { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px; }
+.resources { padding-top: 8px; padding-right: 8px; padding-bottom: 8px; padding-left: 8px; border: 2px #000000 dotted; color: #333333; font-family: Arial, Helvetica, sans-serif; font-size: 11px; line-height: 13px ; background-color: #F5F5F5}
+.floatimghz { float: left; padding-top: 0px; padding-right: 9px; padding-bottom: 9px; padding-left: 11px; clip: rect( ) }
+.white { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; ; font-weight: normal; color: #CCCCCC}
+
+.lispaced { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 15px ; white-space: normal; padding-bottom: 4px; list-style-position: outside; background: transparent}
+.indent {  font-family: Verdana, Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 15px; padding-left: 25px;}
+
+
+
+/*************************************************
+/ Left Menues
+*************************************************/
+#menu-main {
+	width: 179px;
+	border-right: 1px solid #092129;
+	padding: 0;
+	margin-bottom: 0;
+	font-family: 'Trebuchet MS', 'Lucida Grande',
+	  Verdana, Lucida, Geneva, Helvetica, 
+	  Arial, sans-serif;
+	background-color: #97B03A;
+	color: #333;
+	}
+/** 	background-color: #97B03A; **/ 
+	
+#menu-main ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		border: none;
+}
+		
+#menu-main li {
+		border-top: 1px solid #97B03A;
+		margin: 0;
+		padding: 0 0 0 10px;
+}
+
+#menu-main li a {
+		display: block;
+		padding: 5px 5px 5px 0.5em;
+		border-left: 10px solid #20554D;
+		background-color: #50867B;
+		color: #fff;
+		text-decoration: none;
+		width: 100%;
+		font-size: 12px;
+}
+
+html>body #menu-main li a {
+		width: auto;
+}
+
+#menu-main li a:hover {
+		border-left: 10px solid #092129;
+		background-color: #AC3939;
+		color: #fff;
+		font-size: 12px;
+}
+
+#menu-main #active_menu {
+		border-left: 10px solid #092129;
+		background-color: #AC3939;
+		color: #fff;
+}
+
+
+
+
+
+#menu-main2 {
+	width: 169px;
+	border-right: 1px solid #092129;
+	padding: 0;
+	margin-bottom: 0;
+	font-family: 'Trebuchet MS', 'Lucida Grande',
+	  Verdana, Lucida, Geneva, Helvetica, 
+	  Arial, sans-serif;
+	background-color: #97B03A;
+	color: #333;
+	}
+/** 	background-color: #97B03A; **/ 
+	
+#menu-main2 ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		border: none;
+}
+		
+#menu-main2 li {
+		border-top: 1px solid #97B03A;
+		margin: 0;
+		padding: 0 0 0 10px;
+}
+
+#menu-main2 li a {
+		display: block;
+		padding: 5px 5px 5px 0.5em;
+		border-left: 10px solid #825E22;
+		background-color: #A98141;
+		color: #fff;
+		text-decoration: none;
+		width: 100%;
+		font-size: 12px;
+}
+
+html>body #menu-main2 li a {
+		width: auto;
+}
+
+#menu-main2 li a:hover {
+		border-left: 10px solid #092129;
+		background-color: #AC3939;
+		color: #fff;
+		font-size: 12px;
+}
+
+#menu-main2 #active_menu {
+		border-left: 10px solid #092129;
+		background-color: #AC3939;
+		color: #fff;
+}
+
+
+
+.sidebar {
+float:right;
+width: 200px; 
+padding: 10px; 
+margin: 10px 10px 10px 10px; 
+border: 1px dashed #333333; 
+background-color: #FFFFFF;
+font: 12px/16px verdana,sans-serif;
+color: black;
+z-index: 2;
+}
+
+
+.ircnews3 {
+float:right;
+width: 180px; 
+padding: 10px; 
+margin: 10px 10px 10px 10px; 
+border: 1px dotted #a73329; 
+background-color: #CCCCCC;
+font: 11px/15px verdana,sans-serif;
+color: black;
+z-index: 2;
+}
+.ircnews {  
+float:right;
+width: 180px; 
+padding-top: 8px; 
+padding-right: 0px; 
+padding-bottom: 8px; 
+padding-left: 8px; 
+border: 1px #a73329 dotted; 
+background: #FAF4ED; 
+color: #000000; 
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size: 11px; 
+line-height: 15px
+}
+
+
+
+.alert {
+	background: #fff6bf url(/common/images/bullets/exclamation.gif) 15px 50% no-repeat;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #ffd324;
+	border-bottom: 2px solid #ffd324;
+	}
+
+.info {
+	background: #f8fafc url(/common/images/bullets/information.gif) 15px 50% no-repeat;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #b5d4fe;
+	border-bottom: 2px solid #b5d4fe;
+	}
+	
+.alert_small { /* used on SIMS timesheets */
+	background: #fff6bf url(/common/images/bullets/exclamation.png) 15px 50% no-repeat;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #ffd324;
+	border-bottom: 2px solid #ffd324;
+	}
+
+.info_small { /* used on SIMS timesheets */
+	background: #f8fafc url(/common/images/bullets/information.png) 15px 50% no-repeat;
+	padding: 5px 20px 5px 45px;
+	border-top: 2px solid #b5d4fe;
+	border-bottom: 2px solid #b5d4fe;
+	}
+.outline_border {
+	border: #666666 1px solid;
+}
+
+.noBorder {
+	border: 0px;
+}
+
+.oneBorder {  border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+
+
+TEXTAREA {
+	border: #666666 1px solid;
+}
+
+.pad15 {  
+	border: none;
+	background: #FFFFFF; 
+	padding-top: 15px; 
+	padding-right: 15px; 
+	padding-bottom: 15px; 
+	padding-left: 15px
+}
+
+.tagline { 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #FFFFFF; 
+	text-align: left;
+	padding-bottom: 2px;
+}
+
+sub, sup { line-height: 0.1em; }
+
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+/*	margin-top: -25px; */
+	padding-top: 5px;
+}
+
+.dottedBox {
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	/*	margin-left: 30px; */
+	border: 2px #003366 dotted;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 15px;
+	background-color: #D1E8F0;
+}
+
+.dottedBoxyw {
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	/*	margin-left: 30px; */
+	border: 2px #003366 solid;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 15px;
+	background-color: #FEFCE3;
+}
+
+.quote {
+	float: right;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 15px;
+	line-height: 17px;
+	font-style: italic;
+	color: #0D4350;
+	padding-top: 8px;
+	padding-right: 8px;
+	padding-bottom: 8px;
+	padding-left: 8px;
+	width: 163px;
+		
+}
+
+.text_white {
+	color: #ffffff;
+}
+
+.text_white a:visited {
+	color: #FFFFFF;
+}
+.text_white a:active {
+	color: #FFFFFF;
+}
+.text_white a:hover {
+	color: #FFFFFF;
+}
+
+
+.text_grey {
+	color: #999999;
+}
+.text_grey a:visited {
+	color: #999999;
+}
+.text_grey a:active {
+	color: #999999;
+}
+.text_grey a:hover {
+	color: #999999;
+}
+
+.text_red {
+	color: #cc0000;
+}
+.text_red a:visited {
+	color: #cc0000;
+}
+.text_red a:active {
+	color: #cc0000;
+}
+.text_red a:hover {
+	color: #cc0000;
+}
+.intranet_width782 {
+	width:782px;
+}
+
+

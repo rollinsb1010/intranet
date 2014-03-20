@@ -1,0 +1,22 @@
+newbooks=<a href="http://www.sedl.org/staff/information/newbooks.cgi"><span style="color:#AD2F2A;">New books for February 2014</span></a>
+<span style="color:#06202A;">Associated Press stylebook and briefing on media law 2013. </span>
+
+<span style="color:#06202A;">Content everywhere : strategy and structure for future-ready content.</span>
+
+<span style="color:#06202A;">Content strategy at work : real-world stories to strengthen every interactive project.</span>
+
+<span style="color:#06202A;">Content strategy for the Web.</span>
+
+<span style="color:#06202A;">Effective teacher induction and mentoring : assessing the evidence.</span>
+
+<span style="color:#06202A;">Evidence-based practices for children, youth, and young adults with autism spectrum disorder. </span>
+
+<span style="color:#06202A;">New teacher mentoring : hopes and promise for improving teacher effectiveness.</span>
+
+<span style="color:#06202A;">School turnarounds : the essential role of districts.</span>
+
+<span style="color:#06202A;">Transforming teaching and learning through data-driven decision making.</span>
+
+<span style="color:#06202A;">Writing a successful thesis or dissertation : tips and strategies for students in the social and behavioral sciences.</span>
+
+(Click for definitions of the <span style="color:#AD2F2A;"><a href="/staff/information/resources/locationcodes.html" target="_blank">resource location codes</A></span>)

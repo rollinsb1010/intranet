@@ -1,0 +1,48 @@
+CC_DMS GLOBAL VARIABLES (FMP)
+
+$$current_user
+$$current_user_workgroup
+$$current_user_access
+$$current_user_events_access
+$$current_user_menu_pref
+$$window_zoom_pref
+$$sudoers
+
+
+
+SIMS GLOBAL VARIABLES (FMP)
+
+$$ip
+$$user
+$$user_ID
+$$unit
+
+
+INTRANET COOKIES (CGI)
+
+$_COOKIE['ss_session_id']
+$_COOKIE['staffid']
+
+
+SIMS SESSION VARIABLES (PHP)
+
+$_SESSION['login_status'] = 'active';
+$_SESSION['staff_ID'] = $recordData['staff_ID'][0];
+$_SESSION['user_ID'] = $recordData['sims_user_ID'][0];
+$_SESSION['staff_name'] = stripslashes($recordData['c_full_name_first_last'][0]);
+$_SESSION['staff_email'] = $recordData['email'][0];
+$_SESSION['timesheet_name'] = $recordData['name_timesheet'][0];
+$_SESSION['workgroup'] = $recordData['primary_SEDL_workgroup'][0];
+$_SESSION['PrimarySEDLWorkgroup'] = $recordData['primary_SEDL_workgroup'][0];
+$_SESSION['payperiod_type'] = $recordData['payperiod_type'][0];
+$_SESSION['immediate_supervisor'] = $recordData['immediate_supervisor_sims_user_ID'][0];
+$_SESSION['primary_bgt_auth'] = $recordData['bgt_auth_primary_sims_user_ID'][0];
+$_SESSION['employee_type'] = $recordData['employee_type'][0];
+$_SESSION['title'] = $recordData['job_title'][0];
+$_SESSION['employee_FTE_status'] = $recordData['FTE_status'][0];
+$_SESSION['svc_log_admin_wg'] = $recordData['cwp_sims_access_staff_svc_log_admin_wg'][0];
+$_SESSION['svc_log_admin_sedl'] = $recordData['cwp_sims_access_staff_svc_log_admin_sedl'][0];
+$_SESSION['svc_log_admin_prgms'] = $recordData['cwp_sims_access_staff_svc_log_admin_pgms'][0];
+$_SESSION['svc_log_admin_spvsr'] = $recordData['cwp_sims_access_staff_svc_log_admin_spvsr'][0];
+$_SESSION['svc_log_admin_allow_surrogates'] = $recordData['cwp_sims_access_staff_svc_log_allow_surrogate_entries'][0];
+

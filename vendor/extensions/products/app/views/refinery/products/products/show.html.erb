@@ -1,0 +1,171 @@
+<% content_for :body_content_title do %>
+  <%= @product.name %>
+<% end %>
+
+<% content_for :body do %>
+  <section>
+    <h1>Name</h1>
+    <p>
+      <%=raw @product.name %>
+    </p>
+  </section>
+  <section>
+    <h1>Authors</h1>
+    <p>
+      <%=raw @product.authors %>
+    </p>
+  </section>
+  <section>
+    <h1>Categories</h1>
+    <p>
+      <%=raw @product.categories %>
+    </p>
+  </section>
+  <section>
+    <h1>Rel Categories</h1>
+    <p>
+      <%=raw @product.rel_categories %>
+    </p>
+  </section>
+  <section>
+    <h1>Assigned To</h1>
+    <p>
+      <%=raw @product.assigned_to %>
+    </p>
+  </section>
+  <section>
+    <h1>Title</h1>
+    <p>
+      <%=raw @product.title %>
+    </p>
+  </section>
+  <section>
+    <h1>Title2</h1>
+    <p>
+      <%=raw @product.title2 %>
+    </p>
+  </section>
+  <section>
+    <h1>Sales</h1>
+    <p>
+      <%=raw @product.sales_id %>
+    </p>
+  </section>
+  <section>
+    <h1>Online</h1>
+    <p>
+      <%=raw @product.online_id %>
+    </p>
+  </section>
+  <section>
+    <h1>Price</h1>
+    <p>
+      <%=raw @product.price %>
+    </p>
+  </section>
+  <section>
+    <h1>Weight</h1>
+    <p>
+      <%=raw @product.weight %>
+    </p>
+  </section>
+  <section>
+    <h1>Year Published</h1>
+    <p>
+      <%=raw @product.year_published %>
+    </p>
+  </section>
+  <section>
+    <h1>Type</h1>
+    <p>
+      <%=raw @product.type %>
+    </p>
+  </section>
+  <section>
+    <h1>Media</h1>
+    <p>
+      <%=raw @product.media %>
+    </p>
+  </section>
+  <section>
+    <h1>Description</h1>
+    <p>
+      <%=raw @product.description %>
+    </p>
+  </section>
+  <section>
+    <h1>Meta Desc</h1>
+    <p>
+      <%=raw @product.meta_desc %>
+    </p>
+  </section>
+  <section>
+    <h1>Meta Keywords</h1>
+    <p>
+      <%=raw @product.meta_keywords %>
+    </p>
+  </section>
+  <section>
+    <h1>Pages</h1>
+    <p>
+      <%=raw @product.pages %>
+    </p>
+  </section>
+  <section>
+    <h1>Runtime</h1>
+    <p>
+      <%=raw @product.runtime %>
+    </p>
+  </section>
+  <section>
+    <h1>Language</h1>
+    <p>
+      <%=raw @product.language %>
+    </p>
+  </section>
+  <section>
+    <h1>Sedl Program</h1>
+    <p>
+      <%=raw @product.sedl_program %>
+    </p>
+  </section>
+  <section>
+    <h1>Testimonial</h1>
+    <p>
+      <%=raw @product.testimonial %>
+    </p>
+  </section>
+  <section>
+    <h1>Citation</h1>
+    <p>
+      <%=raw @product.citation %>
+    </p>
+  </section>
+  <section>
+    <h1>Update Content</h1>
+    <p>
+      <%=raw @product.update_content %>
+    </p>
+  </section>
+  <section>
+    <h1>Last Updated By</h1>
+    <p>
+      <%=raw @product.last_updated_by %>
+    </p>
+  </section>
+<% end %>
+
+<% content_for :side_body do %>
+  <aside>
+    <h2><%= t('.other') %></h2>
+    <ul id="products">
+      <% @products.each do |product| %>
+        <li>
+          <%= link_to product.name, refinery.products_product_path(product) %>
+        </li>
+      <% end %>
+    </ul>
+  </aside>
+<% end %>
+
+<%= render '/refinery/content_page' %>

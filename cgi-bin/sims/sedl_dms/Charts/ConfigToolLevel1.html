@@ -1,0 +1,660 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FusionCharts For FileMaker Documentation</title>
+<link rel="stylesheet" href="Style.css" type="text/css" />
+</head>
+
+<body>
+<table width="98%" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td> 
+      <h2 class="pageHeader">FusionCharts Visual Configuration Tool&gt;  Level 1 Properties </h2>    </td>
+  </tr>
+  <tr> 
+    <td valign="top" class="text"> <p> We will look at the properties based on the tabs in which they are present. In Level1, the tabs that are present are shown below.</p>
+      <p class="header"><a name="Level1_Tabs"></a>Level 1 Tabs  </p>
+      <table width="100%" cellpadding="3" class="tableAlternate text" cellspacing="2" border="0">
+        <tr class="tableAlternateHeader">
+          <td width="16%" valign="top"><strong>Tab Name</strong></td>
+          <td width="44%" valign="top"><strong>Description</strong></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="codeInline">General</td>
+          <td width="44%" valign="top">Chart level configuration can be done in this tab. The type, width and height of the chart, caption, sub-caption, x-axis name etc that need to be displayed on the chart, can be configured from this tab. </td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Labels</td>
+          <td valign="top">In this tab, you can modify whether the labels, values have to be shown on the chart or not, also configure how they appear on the chart </td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Number</td>
+          <td valign="top">We can configure the way, the numbers, look in the chart by changing the properties in this tab. </td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Look &amp; Feel</td>
+          <td valign="top">We can control the way the chart and canvas looks by changing the properties in this tab.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Script Variables</td>
+          <td valign="top">Sometimes, we would like to pick the values for some attributes from script variables present in the caller application. This can be achieved by setting values in this tab. </td>
+        </tr>
+      </table>      
+      <p class="text">Each tab may have basic and advanced properties. We will now try to understand all the fields placed in these tabs. Note that the options Yes/No taken from the Value List YesNoList are internally converted to 0/1 to suit the FusionCharts QueryString format.</p>
+      <p class="text"><span class="header">Level 1 Properties</span></p>
+      <p class="text"><strong>&nbsp;<a name="_GeneralTab" id="_GeneralTab"></a><span class="header">General Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of Values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>General Tab : Configure genera/functional properties of the chart </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Chart Type</td>
+          <td align="left" valign="top" class="codeInline">chartType</td>
+          <td align="left" valign="top">Type of the chart.</td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Chart Width </td>
+          <td align="left" valign="top" class="codeInline">chartWidth</td>
+          <td align="left" valign="top">Width of the chart. </td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Chart Height </td>
+          <td align="left" valign="top" class="codeInline">chartHeight</td>
+          <td align="left" valign="top">Height of the chart. </td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Animate Chart </td>
+          <td align="left" valign="top" class="codeInline">animation</td>
+          <td align="left" valign="top"> This attribute lets you set the configuration whether the chart should appear in an animated fashion. If you do not want to animate any part of the chart, set this as &quot;No&quot;. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top" class="text">Palette</td>
+          <td align="left" valign="top" class="codeInline">palette</td>
+          <td align="left" valign="top" class="text"> FusionCharts v3 introduces the concept of Color Palettes. Each chart has 5 pre-defined color palettes which you can choose from. Each palette renders the chart in a different color theme. Valid values are 1-5. </td>
+          <td align="left" valign="top" class="text">1-5</td>
+          <td align="left" valign="top" class="text">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Chart Tool Tips Enabled </td>
+          <td align="left" valign="top" class="codeInline">showToolTips</td>
+          <td align="left" valign="top"> A tool-tip is shown when the mouse is hovered over a particular data point. 
+
+
+ You can opt not to show the tool tip by setting this to &quot;No&quot;.</td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Number of Visible Plot </td>
+          <td align="left" valign="top" class="codeInline">numVisiblePlot</td>
+          <td align="left" valign="top"><p>This attribute lets you control how the number of columns to show in the visible area of the scroll pane. </p>
+            <p>For example, if you're plotting a chart with 10 columns each in 3 dataset, totaling to 30 columns, and you wish to show only 10 columns in the visible area, set this attribute as 10. You would now see only 10 columns in the chart - rest of the columns would be visible upon scrolling. </p>
+            <p>If you want to show all the columns on the chart irrespective of the number of data points in your XML data document, set this value as 0. </p>          </td>
+          <td align="left" valign="top">2 - number of data items present</td>
+          <td align="left" valign="top">ScrollColumn2D<br>
+            ScrollArea2D<br>
+            ScrollLine2D<br>
+            ScrollStackedColumn2D<br>
+            ScrollCombi2D<br>
+          ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Caption</td>
+          <td align="left" valign="top" class="codeInline">caption</td>
+          <td align="left" valign="top">Caption refers to the heading of the chart.</td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top" class="text">Sub Caption </td>
+          <td align="left" valign="top" class="codeInline">subCaption</td>
+          <td align="left" valign="top" class="text">SUBCAPTION refers to the sub-heading of the chart.</td>
+          <td align="left" valign="top" class="text">String</td>
+          <td align="left" valign="top" class="text">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">X-Axis Name </td>
+          <td align="left" valign="top" class="codeInline">xAxisName</td>
+          <td align="left" valign="top">X-Axis Title of the Chart. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top"><p>Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+  StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+  MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+  ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D<br>
+  ( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </p>          </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Y-Axis Name </td>
+          <td align="left" valign="top" class="codeInline">yAxisName or pyAxisName(For DualY charts) </td>
+          <td align="left" valign="top">Y-Axis Title of the Chart. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D<br> 
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Secondary Y-Axis Name </td>
+          <td align="left" valign="top" class="codeInline">SYAxisName</td>
+          <td align="left" valign="top">For Dual-Y charts. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top"><p>              MS CombiDY2D, Column3DLineDY, ScrollCombiDY2D, StackedColumn3DLineDY <br>
+            (DualY Charts)</p>
+          </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">ClickURL</td>
+          <td align="left" valign="top" class="codeInline">clickURL</td>
+          <td align="left" valign="top"> The entire chart can now act as a hotspot. Use this URL to define the hotspot link for the chart. The link can be specified in FusionCharts Link Format. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Extra Attributes </td>
+          <td align="left" valign="top" class="codeInline">any attribute </td>
+          <td align="left" valign="top">Any other chart attribute which is not present in the layout, can be placed here. The attributes need to be separated by the delimiter used. Example: showHoverCap=1; hoverCapBgColor=FFFFFF;</td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">Please check with the documentation whether the attribute specified here, is supported by the selected chart type <span class="codeInline"></span></td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_LabelsTab" id="_LabelsTab"></a></strong><span class="header">Labels Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Labels Tab : Lets you configure how labels and values appear on the chart </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top" class="text">Show Labels </td>
+          <td align="left" valign="top" class="codeInline">showLabels</td>
+          <td align="left" valign="top" class="text">It sets the configuration whether the x-axis labels will be displayed or not. </td>
+          <td align="left" valign="top" class="text">Yes/No</td>
+          <td align="left" valign="top" class="text">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Label Step</td>
+          <td align="left" valign="top" class="codeInline">labelStep</td>
+          <td align="left" valign="top"> By default, all the labels are displayed on the chart. However, if you've a set of streaming data (like name of months or days of week), you can opt to hide every n-th label for better clarity. This attributes just lets you do so. It allows to skip every n(th) X-axis label. </td>
+          <td align="left" valign="top">1 or above </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Label Display </td>
+          <td align="left" valign="top" class="codeInline">labelDisplay</td>
+          <td align="left" valign="top"> Using this attribute, you can control how your data labels (x-axis labels) would appear on the chart. There are 4 options: WRAP, STAGGER, ROTATE or NONE. WRAP wraps the label text if it's longer than the allotted area. ROTATE rotates the label in vertical or slanted position. STAGGER divides the labels into multiple lines. </td>
+          <td align="left" valign="top"> WRAP, STAGGER, ROTATE or NONE </td>
+          <td align="left" valign="top">Area2D,  Column2D, Column3D, Line2D, <br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Rotate Labels </td>
+          <td align="left" valign="top" class="codeInline">rotateLabels</td>
+          <td align="left" valign="top"> This attribute lets you set whether the data labels would show up as rotated labels on the chart. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Column2D, Column3D, Line2D, <br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Number of lines to stagger </td>
+          <td align="left" valign="top" class="codeInline">staggerLines</td>
+          <td align="left" valign="top"> If you've opted for STAGGER mode as labelDisplay, using this attribute you can control how many lines to stagger the label to. By default, all labels are displayed in a single line. </td>
+          <td align="left" valign="top">1 or above </td>
+          <td align="left" valign="top">Area2D, Column2D, Column3D, Line2D, <br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Slant Labels </td>
+          <td align="left" valign="top" class="codeInline">slantLabels</td>
+          <td align="left" valign="top"> If you've opted to show rotated labels on chart, this attribute lets you set the configuration whether the labels would show as slanted labels or fully vertical ones. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Column2D, Column3D, Line2D, <br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Values </td>
+          <td align="left" valign="top" class="codeInline">showValues</td>
+          <td align="left" valign="top">Sets the configuration whether data values would be displayed along with the data plot on chart. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Rotate Values </td>
+          <td align="left" valign="top" class="codeInline">rotateValues</td>
+          <td align="left" valign="top"> If you've opted to show data values, you can rotate them using this attribute. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Column2D, Column3D, Line2D, <br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Place Values Inside </td>
+          <td align="left" valign="top" class="codeInline">placeValuesInside</td>
+          <td align="left" valign="top"> If you've opted to show data values, you can show them inside the columns/bars using this attribute. By default, the data values show outside the column/bar. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"> Bar2D, Column2D, Column3D, 
+MS Column2D, MS Column3D,  MS Bar2D, MS Bar3D, 
+StackedBar3D, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, <br>
+ScrollColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Advanced  : Configure more properties related to labels and values </strong></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Show Limits</td>
+          <td align="left" valign="top" class="codeInline">showLimits</td>
+          <td align="left" valign="top"> Whether to show chart limit values? showYAxisValues is the single new attribute in v3 which over-rides this value. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D,<br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D,  StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Div Line Values </td>
+          <td align="left" valign="top" class="codeInline"> showDivLineValues </td>
+          <td align="left" valign="top"> Whether to show div line values? showYAxisValues is the single new attribute in v3 which over-rides this value. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D,<br>
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Set Adaptive Y Min </td>
+          <td align="left" valign="top" class="codeInline">setAdaptiveYMin</td>
+          <td align="left" valign="top"> This attribute lets you set whether the y-axis lower limit would be 0 (in case of all positive values on chart) or should the y-axis lower limit adapt itself to a different figure based on values provided to the chart. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+  ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Y Axis Min Value </td>
+          <td align="left" valign="top" class="codeInline">yAxisMinValue</td>
+          <td align="left" valign="top"> This attribute helps you explicitly set the lower limit of the chart. If you don't specify this value, it is automatically calculated by FusionCharts based on the data provided by you. </td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, StackedColumn3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Y Axis Max Value </td>
+          <td align="left" valign="top" class="codeInline">yAxisMaxValue</td>
+          <td align="left" valign="top"> This attribute helps you explicitly set the upper limit of the chart. If you don't specify this value, it is automatically calculated by FusionCharts based on the data provided by you. </td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top"><p>Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+  StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+  MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+  ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+  ( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D )
+          </p>          </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Y Axis Values </td>
+          <td align="left" valign="top" class="codeInline">showYAxisValues</td>
+          <td align="left" valign="top"> FusionCharts y-axis is divided into vertical sections using div (divisional) lines. Each div line assumes a value based on its position. Using this attribute you can set whether to show those div line (y-axis) values or not. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Y Axis Values Step </td>
+          <td align="left" valign="top" class="codeInline">yAxisValuesStep</td>
+          <td align="left" valign="top"> By default, all div lines show their values. However, you can opt to skip every x(th) div line value using this attribute. </td>
+          <td align="left" valign="top">1 or above</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Rotate Y Axis Name</td>
+          <td align="left" valign="top" class="codeInline">rotateYAxisName</td>
+          <td align="left" valign="top"> If you do not wish to rotate y-axis name, set this as No. It specifically comes to use when you've special characters (UTF8) in your y-axis name that do not show up in rotated mode. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D,  Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D,StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Y Axis Name Width </td>
+          <td align="left" valign="top" class="codeInline">yAxisNameWidth</td>
+          <td align="left" valign="top"> If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to y-axis name. </td>
+          <td align="left" valign="top">Number (in pixels)</td>
+          <td align="left" valign="top">Area2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D,StackedColumn3D, StackedColumn2D, StackedArea2D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_NumberTab" id="_NumberTab"></a></strong><span class="header">Number Tab </span></strong></p>
+      <p>The number attributes are arranged in the layout as shown below: </p>
+      <p><img src="Images/Level1_Number.jpg" width="485" height="497" class="imageBorder"></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Number Tab: Configure the way numbers appear on the chart </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Format Number Scale </td>
+          <td align="left" valign="top" class="codeInline">formatNumberScale</td>
+          <td align="left" valign="top">Using this you can set whether to add K (thousands) and M (millions) to a number after truncating and rounding it - e.g., if <span class="codeInline">formatNumberScale</span> is set to 1, 1043 would become 1.04K (with decimals set to 2 places). Same with numbers in millions - a M will added at the end. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Format Number </td>
+          <td align="left" valign="top" class="codeInline">formatNumber</td>
+          <td align="left" valign="top">This configuration determines whether the numbers displayed on the chart will be formatted using commas, e.g. 40,000 if <span class="codeInline">formatNumber=1</span> and 40000 if <span class="codeInline">formatNumber=0.</span></td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Decimals</td>
+          <td align="left" valign="top" class="codeInline">decimals</td>
+          <td align="left" valign="top">This property lets you set the number of decimal places to which all numbers on the chart would be rounded to. </td>
+          <td align="left" valign="top">0-10</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Force Decimals </td>
+          <td align="left" valign="top" class="codeInline">forceDecimals</td>
+          <td align="left" valign="top"> Whether to add 0 padding at the end of decimal numbers? For example, if you set decimals as 2 and a number is 23.4. If forceDecimals is set to 1, FusionCharts will convert the number to 23.40 (note the extra 0 at the end) </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Decimal Separator</td>
+          <td align="left" valign="top" class="codeInline">decimalSeparator</td>
+          <td align="left" valign="top"> This option helps you specify the character to be used as the decimal separator in a number </td>
+          <td align="left" valign="top">Character</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Thousand Separator</td>
+          <td align="left" valign="top" class="codeInline">thousandSeparator</td>
+          <td align="left" valign="top"> This option helps you specify the character to be used as the thousands separator in a number. </td>
+          <td align="left" valign="top">Character</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Number Prefix </td>
+          <td align="left" valign="top" class="codeInline">numberPrefix</td>
+          <td align="left" valign="top">Using this parameter, you could add prefix to all the numbers visible on the graph. For example, to represent all dollars figure on the chart, you could specify this attribute to '$' to show like $40000, $50000. </td>
+          <td align="left" valign="top">Character</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Number Suffix </td>
+          <td align="left" valign="top" class="codeInline">numberSuffix</td>
+          <td align="left" valign="top">Using this parameter, you could add suffix to all the numbers visible on the graph. For example, to represent all figure quantified as per annum on the chart, you could specify this attribute to ' /a' to show like 40000/a, 50000/a. </td>
+          <td align="left" valign="top">Character</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Advanced : Configure more properties related to number formatting </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Number Scale Value </td>
+          <td align="left" valign="top" class="codeInline">numberScaleValue</td>
+          <td align="left" valign="top"> Range of the various blocks that constitute the scale. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Default Scale Value </td>
+          <td align="left" valign="top" class="codeInline">defaultScaleValue</td>
+          <td align="left" valign="top"> Range of the various blocks that constitute the scale. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Number Scale Unit </td>
+          <td align="left" valign="top" class="codeInline">numberScaleUnit</td>
+          <td align="left" valign="top"> Unit of each block of the scale. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">In Decimal Separator </td>
+          <td align="left" valign="top" class="codeInline">inDecimalSeparator</td>
+          <td align="left" valign="top"> In some countries, commas are used as decimal separators and dots as thousand separators. In XML, if you specify such values, it will give a error while converting to number. So, FusionCharts accepts the input decimal and thousand separator from user, so that it can covert it accordingly into the required format. This attribute lets you input the decimal separator. </td>
+          <td align="left" valign="top">. or , </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">In Thousand Separator </td>
+          <td align="left" valign="top" class="codeInline">inThousandSeparator</td>
+          <td align="left" valign="top"> In some countries, commas are used as decimal separators and dots as thousand separators. In XML, if you specify such values, it will give a error while converting to number. So, FusionCharts accepts the input decimal and thousand separator from user, so that it can covert it accordingly into the required format. This attribute lets you input the thousand separator. </td>
+          <td align="left" valign="top">, or . </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Y Axis Values Decimals </td>
+          <td align="left" valign="top" class="codeInline">yAxisValueDecimals</td>
+          <td align="left" valign="top"> If you've opted to not adjust div lines, you can specify the div line values decimal precision using this attribute. </td>
+          <td align="left" valign="top">0-10</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_LookAndFeelTab" id="_LookAndFeelTab"></a></strong><span class="header">Look&amp;Feel Tab</span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Look&amp;Feel Tab : Configure the way the chart looks by setting values to properties like bgColor </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Background Color</td>
+          <td align="left" valign="top" class="codeInline">bgColor</td>
+          <td align="left" valign="top"> This attribute sets the background color for the chart. You can set any hex color code as the value of this attribute. Example: FFFFFF. Remember to remove # and any spaces in between. Can set a gradient also. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Background Alpha </td>
+          <td align="left" valign="top" class="codeInline">bgAlpha</td>
+          <td align="left" valign="top"> Sets the alpha (transparency) for the background. If you've opted for gradient background, you need to set a list of alpha(s) separated by comma. Can set a gradient also. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Border </td>
+          <td align="left" valign="top" class="codeInline">showBorder</td>
+          <td align="left" valign="top"> Whether to show a border around the chart or not? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Border Color </td>
+          <td align="left" valign="top" class="codeInline">borderColor</td>
+          <td align="left" valign="top"> Whether to show a border around the chart or not? </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Canvas Background Color </td>
+          <td align="left" valign="top" class="codeInline">canvasBgColor</td>
+          <td align="left" valign="top"> Sets Canvas background color. Example: FFFFFF. Remember to remove # and any spaces in between. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Number Of Div Lines </td>
+          <td align="left" valign="top" class="codeInline">numDivLines</td>
+          <td align="left" valign="top"> Number of horizontal axis division lines that you want on the chart. </td>
+          <td align="left" valign="top">Numerical value &gt;0 </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Canvas Border Color </td>
+          <td align="left" valign="top" class="codeInline">canvasBorderColor</td>
+          <td align="left" valign="top"> Lets you specify canvas border color. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D,  MS Line2D, MS Area2D, MS Bar2D,  StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Advanced : Configure more properties related to Look &amp; Feel of the chart </strong></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Border Alpha </td>
+          <td align="left" valign="top" class="codeInline">borderAlpha</td>
+          <td align="left" valign="top"> Border alpha of the chart. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">BG Ratio </td>
+          <td align="left" valign="top" class="codeInline">bgRatio</td>
+          <td align="left" valign="top"> If you've opted for a gradient background, this attribute lets you set the ratio of each color constituent. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">BG Angle</td>
+          <td align="left" valign="top" class="codeInline">bgAngle</td>
+          <td align="left" valign="top"> Angle of the background color, in case of a gradient. </td>
+          <td align="left" valign="top">0-360</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">BG SWF </td>
+          <td align="left" valign="top" class="codeInline">bgSWF</td>
+          <td align="left" valign="top"> To place any Flash movie as background of the chart, enter the (path and) name of the background SWF. It should be in the same domain as the chart. </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">BG SWF Alpha </td>
+          <td align="left" valign="top" class="codeInline">bgSWFAlpha</td>
+          <td align="left" valign="top"> Helps you specify alpha for the loaded background SWF. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Canvas Border Thickness </td>
+          <td align="left" valign="top" class="codeInline">canvasBorderThickness</td>
+          <td align="left" valign="top"> Lets you specify canvas border thickness. </td>
+          <td align="left" valign="top">0-5</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D,  Line2D, MS Column2D, MS Line2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Canvas Border Color </td>
+          <td align="left" valign="top" class="codeInline">canvasBorderColor</td>
+          <td align="left" valign="top"> Lets you specify canvas border color. </td>
+          <td align="left" valign="top">Hex code without the #</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Line2D, MS Column2D, MS Line2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Canvas Border Alpha</td>
+          <td align="left" valign="top" class="codeInline">canvasBorderAlpha</td>
+          <td align="left" valign="top"> Lets you control transparency of canvas border. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Line2D, MS Column2D, MS Line2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Show Canvas Base </td>
+          <td align="left" valign="top" class="codeInline">showCanvasBase</td>
+          <td align="left" valign="top"> Whether to show canvas base? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Column3D, MS Column3D,  MS Bar3D, <br>
+StackedColumn3D,  StackedBar3D, StackedColumn3DLineDY, <br>
+ Column3DLineSingleY, Column3DLineDY</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Canvas Base Color</td>
+          <td align="left" valign="top" class="codeInline">canvasBaseColor</td>
+          <td align="left" valign="top"> Helps you specify the color for canvas base.</td>
+          <td align="left" valign="top">Hex code without the #</td>
+          <td align="left" valign="top">Column3D, MS Column3D, MS Bar3D, <br>
+StackedColumn3D, StackedBar3D, StackedColumn3DLineDY, <br>
+Column3DLineSingleY, Column3DLineDY</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Canvas Base Depth </td>
+          <td align="left" valign="top" class="codeInline">canvasBaseDepth</td>
+          <td align="left" valign="top"> Height of canvas base (in pixels) </td>
+          <td align="left" valign="top">Number (in pixels)</td>
+          <td align="left" valign="top">Column3D, MS Column3D, MS Bar3D, <br>
+StackedColumn3D, StackedBar3D, StackedColumn3DLineDY, <br>
+Column3DLineSingleY, Column3DLineDY</td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_ScriptVarsTab" id="_ScriptVarsTab"></a></strong><span class="header">Script Variables Tab</span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Script Variables Tab : Assign Values From Your Application Using Script Variables </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Script Variables </td>
+          <td align="left" valign="top" class="text">any attribute </td>
+          <td align="left" valign="top">
+            <p>This is a special field. In this field, you can specify any attribute with the value coming from a script variable in the caller application. Basically, whatever is entered in this field as value, will remain un-processed by the tool. It is appended to the attribute list as it is, without any modification. On returning to the caller application, if the same script variable is found with a value, that will get automatically substituted and the chart will show up with those values. </p>
+            <p>Commonly, this field can be used to specify Caption, subCaption etc which are specific to the caller application and take values based on some condition in the caller application. </p>
+            <p>Example: SubCaption=$ProductName where caption is the attribute to which we want to assign the value $ProductName is a variable accessible in the script of the caller application. </p>
+            <p>Note that the preview of the chart in the tool will not show the values for these variables. </p></td>
+          <td align="left" valign="top">String in the format attrName=<br>
+          $ScriptVariable</td>
+          <td align="left" valign="top"><p>Depends on the attribute being specified. Please check the documentation to see if the attribute specified is supported by the selected chart type. </p></td>
+        </tr>
+      </table>      
+      <p>&nbsp; </p></td>
+  </tr>
+</table>
+    
+  
+
+</body>
+</html>

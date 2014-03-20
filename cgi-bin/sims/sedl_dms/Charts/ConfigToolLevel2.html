@@ -1,0 +1,713 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FusionCharts For FileMaker Documentation</title>
+<link rel="stylesheet" href="Style.css" type="text/css" />
+</head>
+
+<body>
+<table width="98%" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td> 
+      <h2 class="pageHeader">FusionCharts Visual Configuration Tool&gt;  Level 2 Properties </h2>    </td>
+  </tr>
+  <tr> 
+    <td valign="top" class="text"> <p> We will look at the properties based on the tabs in which they are present. In Level 2 , the tabs that are present are shown below.</p>
+      <p class="header"><a name="Level2_Tabs" id="Level2_Tabs"></a>Level 2 Tabs  </p>
+      <table width="100%" cellpadding="3" class="tableAlternate text" cellspacing="2" border="0">
+        <tr class="tableAlternateHeader">
+          <td width="16%" valign="top"><strong>Tab Name</strong></td>
+          <td width="44%" valign="top"><strong>Description</strong></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="codeInline">Div/Grid</td>
+          <td width="44%" valign="top"> Using this set of attributes, you can control the properties of divisional lines, 
+		  zero plane and alternate color bands. <br>
+		Divisional Lines are horizontal or vertical lines running through the canvas. 
+		Each divisional line signifies a smaller unit of the entire axis thus aiding the users in interpreting the chart. <br>
+		The zero plane is a 2D/3D plane that signifies the 0 position on the chart. If there are no negative numbers on the chart, you won't see a visible zero plane. <br>
+		
+		Alternate color bands are colored blocks between two successive divisional lines. 
+		</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Trend/Vlines</td>
+          <td valign="top">In this tab, you can configure trendlines and vertical separator lines. 
+
+
+ Trend lines are horizontal/vertical lines spanning the chart canvas which aid in interpretation of data with respect to some pre-determined value. 
+
+
+ VLines are vertical separator lines that help you separate blocks of data. These lines run through the height of the chart, thereby segregating data into different blocks. In case of bar charts, they are horizontal and run through the width of chart.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Font/ToolTips</td>
+          <td valign="top"> Using the font-related attributes present in this tab, you can define the generic font properties for all the text on the chart. These attributes allow you a high level control over font properties. 
+
+
+ The tooltips specific attributes let you control the tool tip. You can set the background color, border color, separator character and few other details.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Anchor/VDiv</td>
+          <td valign="top">We can control the way anchors appear on the chart, by changing the values in this tab. Anchors are polygons that appear at the joint of two consecutive data points in line/ area charts.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Plot Cosmetics</td>
+          <td valign="top">Configure how your plot (Line, area , column or pie) look by setting values in this tab. </td>
+        </tr>
+      </table>      
+      <p class="text">Each tab may have basic and advanced properties. We will now try to understand all the fields placed in these tabs. Note that the options Yes/No taken from the Value List <span class="codeInline">YesNoList</span> are internally converted to 0/1 to suit the FusionCharts QueryString format.</p>
+      <p class="text"><span class="header">Level 2 Properties</span></p>
+      <p class="text"><strong>&nbsp;<a name="_DivTab" id="_DivTab"></a><span class="header">Div/Grid Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of Values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Div/Grid Tab : Shows fields from Div Configuration table </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Div Line Color</td>
+          <td align="left" valign="top" class="codeInline">divLineColor</td>
+          <td align="left" valign="top"> Color for divisional lines. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Div Line Thickness </td>
+          <td align="left" valign="top" class="codeInline">divLineThickness</td>
+          <td align="left" valign="top"> Thickness of divisional lines </td>
+          <td align="left" valign="top">1-5 </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Div Line Alpha </td>
+          <td align="left" valign="top" class="codeInline">divLineAlpha</td>
+          <td align="left" valign="top"> Alpha of divisional lines. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Div Line Is Dashed</td>
+          <td align="left" valign="top" class="codeInline">divLineIsDashed</td>
+          <td align="left" valign="top"> Whether the divisional lines should display as dash?</td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top" class="text">Div Line Dash Length </td>
+          <td align="left" valign="top" class="codeInline">divLineDashLen</td>
+          <td align="left" valign="top" class="text"> If the divisional lines are to be displayed as dash, this attribute lets you control the length of each dash.</td>
+          <td align="left" valign="top" class="text">Number (in pixels) </td>
+          <td align="left" valign="top" class="text">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Div Line Dash Gap </td>
+          <td align="left" valign="top" class="codeInline">divLineDashGap</td>
+          <td align="left" valign="top"> If the divisional lines are to be displayed as dash, this attribute lets you control the length of each gap between dash.</td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Zero Plane</td>
+          <td align="left" valign="top" class="codeInline">showZeroPlane</td>
+          <td align="left" valign="top"><p>Zero Plane can be removed for a line chart by setting this value to No. </p>
+          </td>
+          <td align="left" valign="top">2 - number of data items present</td>
+          <td align="left" valign="top">Line2D, MSLine2D, ScrollLine2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td colspan="5" align="left" valign="top"><strong>Advanced : Configure more properties related to zero plane and alternate color bands </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Zero Plane Color</td>
+          <td align="left" valign="top" class="codeInline">zeroPlaneColor</td>
+          <td align="left" valign="top"> Color for the Zero Plane. Zero Plane is the line/plane that appears at 0 y-position on canvas, when negative data is being shown on the chart.</td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Zero Plane Alpha</td>
+          <td align="left" valign="top" class="codeInline">zeroPlaneAlpha</td>
+          <td align="left" valign="top"> Alpha of zero plane. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Zero Plane Thickness </td>
+          <td align="left" valign="top" class="codeInline">zeroPlaneThickness</td>
+          <td align="left" valign="top"> Thickness of zero plane. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Zero Plane Show Border </td>
+          <td align="left" valign="top" class="codeInline">zeroPlaneShowBorder</td>
+          <td align="left" valign="top"> Whether to show border of zero plane? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Column3D, MSBar3D, MSColumn3D, StackedColumn3D, StackedBar3D, StackedColumn3DLineDualY, Column3DLineSingleY, MSColumn3DLineDualY</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Zero Plane Border Color </td>
+          <td align="left" valign="top" class="codeInline">zeroPlaneBorderColor</td>
+          <td align="left" valign="top"> Sets the border color of zero plane. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Column3D, MSBar3D, MSColumn3D, StackedColumn3D, StackedBar3D, StackedColumn3DLineDualY, Column3DLineSingleY, MSColumn3DLineDualY</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Show Alternate HGrid Color </td>
+          <td align="left" valign="top" class="codeInline">showAlternateHGridColor</td>
+          <td align="left" valign="top">Whether to show alternate colored horizontal grid bands? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Column2D, Line2D, MSArea2D, MSColumn2D, MSLine2D, StackedArea2D, StackedColumn2D, Combi2D, CombiDY2D, ScrollArea2D, ScrollColumn2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D, ScrollStackedColumn2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Alternate HGrid Color </td>
+          <td align="left" valign="top" class="codeInline">alternateHGridColor</td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Color of the alternate horizontal grid bands. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Column2D, Line2D, MSArea2D, MSColumn2D, MSLine2D, StackedArea2D, StackedColumn2D, Combi2D, CombiDY2D, ScrollArea2D, ScrollColumn2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D, ScrollStackedColumn2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Alternate HGrid Alpha </td>
+          <td align="left" valign="top" class="codeInline">alternateHGridAlpha</td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Alpha (transparency) of the alternate horizontal grid bands. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Column2D, Line2D, MSArea2D, MSColumn2D, MSLine2D, StackedArea2D, StackedColumn2D, Combi2D, CombiDY2D, ScrollArea2D, ScrollColumn2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D, ScrollStackedColumn2D</td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_TLVLTab" id="_TLVLTab"></a></strong><span class="header">Trend/VLines Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Trend/VLines Tab : Lets you configure trendlines and vlines</strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top" class="text">TrendLine &gt; <br>
+          Start Value</td>
+          <td align="left" valign="top" class="codeInline">startValue</td>
+          <td align="left" valign="top" class="text">It sets the configuration whether the x-axis labels will be displayed or not. </td>
+          <td align="left" valign="top" class="text">Yes/No</td>
+          <td align="left" valign="top" class="text">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">TrendLine &gt; <br>
+End Value</td>
+          <td align="left" valign="top" class="codeInline">endValue</td>
+          <td align="left" valign="top"> By default, all the labels are displayed on the chart. However, if you've a set of streaming data (like name of months or days of week), you can opt to hide every n-th label for better clarity. This attributes just lets you do so. It allows to skip every n(th) X-axis label. </td>
+          <td align="left" valign="top">1 or above </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">TrendLine &gt; <br>
+Display Value</td>
+          <td align="left" valign="top" class="codeInline">displayValue</td>
+          <td align="left" valign="top"> Using this attribute, you can control how your data labels (x-axis labels) would appear on the chart. There are 4 options: WRAP, STAGGER, ROTATE or NONE. WRAP wraps the label text if it's longer than the allotted area. ROTATE rotates the label in vertical or slanted position. STAGGER divides the labels into multiple lines. </td>
+          <td align="left" valign="top"> WRAP, STAGGER, ROTATE or NONE </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">TrendLine &gt; <br> 
+            Color
+</td>
+          <td align="left" valign="top" class="codeInline">color</td>
+          <td align="left" valign="top"> This attribute lets you set whether the data labels would show up as rotated labels on the chart. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">TrendLine &gt; <br> 
+            Is Trend Zone
+</td>
+          <td align="left" valign="top" class="codeInline">isTrendZone</td>
+          <td align="left" valign="top"> If you've opted for STAGGER mode as labelDisplay, using this attribute you can control how many lines to stagger the label to. By default, all labels are displayed in a single line. </td>
+          <td align="left" valign="top">1 or above </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">TrendLine &gt; <br> 
+            Show On Top
+</td>
+          <td align="left" valign="top" class="codeInline">showOnTop</td>
+          <td align="left" valign="top"> If you've opted to show rotated labels on chart, this attribute lets you set the configuration whether the labels would show as slanted labels or fully vertical ones. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D ( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Vertical Line &gt;<br>
+            Lines On/Off </td>
+          <td align="left" valign="top" class="codeInline">vLines (it is a tag, not an attribute) </td>
+          <td align="left" valign="top">Currently, we can only specify whether the particular vLine is on / off. For example, if you do not want the second vline to appear, you would specify, 1;0;1</td>
+          <td align="left" valign="top">Delimiter separated 0/1 values </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Line2D, MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D <br>
+( All Except Pie2D, Pie3D, Doughnut2D, Doughnut3D ) </td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_FontTab" id="_FontTab"></a></strong><span class="header">Font/ToolTips Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Font/ToolTips Tab: Configure the overall font for the text that appears on the chart. Also, configure the look and feel of the ToolTips </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Base Font </td>
+          <td align="left" valign="top" class="codeInline">baseFont</td>
+          <td align="left" valign="top"> This attribute lets you set the font face (family) of all the text (data labels, values etc.) on chart. If you specify outCnvBaseFont attribute also, then this attribute controls only the font face of text within the chart canvas bounds. </td>
+          <td align="left" valign="top">String representing Font Name. </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Base Font Color </td>
+          <td align="left" valign="top" class="codeInline">baseFontColor</td>
+          <td align="left" valign="top"> This attribute sets the base font color of the chart i.e., all the values and the names in the chart which lie on the canvas will be displayed using the font color provided here. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Base Font Size </td>
+          <td align="left" valign="top" class="codeInline">baseFontSize</td>
+          <td align="left" valign="top"> This attribute sets the base font size of the chart i.e., all the values and the names in the chart which lie on the canvas will be displayed using the font size provided here. </td>
+          <td align="left" valign="top">0-72</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Outside Canvas Base&gt; <br>
+            Font</td>
+          <td align="left" valign="top" class="codeInline">outCnvBaseFont</td>
+          <td align="left" valign="top"> This attribute sets the base font family of the chart font which lies outside the canvas i.e., all the values and the names in the chart which lie outside the canvas will be displayed using the font name provided here.</td>
+          <td align="left" valign="top">String representing Font Name. </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Outside Canvas Base&gt; Font Color </td>
+          <td align="left" valign="top" class="codeInline">outCnvBaseFontColor</td>
+          <td align="left" valign="top"> This attribute sets the base font color of the chart i.e., all the values and the names in the chart which lie outside the canvas will be displayed using the font color provided here.</td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Outside Canvas Base&gt; Font Size </td>
+          <td align="left" valign="top" class="codeInline">outCnvBaseFontSize</td>
+          <td align="left" valign="top"> This attribute sets the base font size of the chart i.e., all the values and the names in the chart which lie outside the canvas will be displayed using the font size provided here.</td>
+          <td align="left" valign="top">0-72</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">ToolTips &gt; <br>
+          BG Color </td>
+          <td align="left" valign="top" class="codeInline">toolTipBgColor</td>
+          <td align="left" valign="top"> Background Color for tool tip. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">ToolTips &gt; <br>
+          Border Color </td>
+          <td align="left" valign="top" class="codeInline">toolTipBorderColor</td>
+          <td align="left" valign="top"> Border Color for tool tip. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">ToolTips &gt; <br>
+            Separator Character </td>
+          <td align="left" valign="top" class="codeInline">toolTipSepChar</td>
+          <td align="left" valign="top"> The character specified as the value of this attribute separates the name and value displayed in tool tip.</td>
+          <td align="left" valign="top">Character</td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">ToolTips &gt; <br>
+          Show Series Name </td>
+          <td align="left" valign="top" class="codeInline"> seriesNameInToolTip</td>
+          <td align="left" valign="top"> For multi-series and combination charts, FusionCharts shows the following information in tool tip (unless tool text is explicitly defined): "Series Name, Category Name, Data Value". This attribute lets you control whether series name would show up in tool tip or not? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, 
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, 
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D<br></td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_AnchorTab" id="_AnchorTab"></a></strong><span class="header">Anchor/VDiv Tab</span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Anchor/VDiv tab: Configure how the anchors and vertical axis divisional lines should appear </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Draw Anchors</td>
+          <td align="left" valign="top" class="codeInline">drawAnchors</td>
+          <td align="left" valign="top"> Whether to draw anchors on the chart? If the anchors are not shown, then the tool tip and links won't work.</td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Anchor &gt; <br>
+            Sides</td>
+          <td align="left" valign="top" class="codeInline">anchorSides</td>
+          <td align="left" valign="top"> This attribute sets the number of sides the anchor will have. For e.g., an anchor with 3 sides would represent a triangle, with 4 it would be a square and so on.</td>
+          <td align="left" valign="top">3-20</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Anchor &gt; <br> 
+            Radius</td>
+          <td align="left" valign="top" class="codeInline">anchorRadius</td>
+          <td align="left" valign="top"> This attribute sets the radius (in pixels) of the anchor. Greater the radius, bigger would be the anchor size.</td>
+          <td align="left" valign="top">Number (in pixels)</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Anchor &gt; <br> 
+            Border Color
+</td>
+          <td align="left" valign="top" class="codeInline">anchorBorderColor</td>
+          <td align="left" valign="top"> Lets you set the border color of anchors.</td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Anchor &gt; <br> 
+            Border Thickness
+</td>
+          <td align="left" valign="top" class="codeInline">anchorBorderThickness</td>
+          <td align="left" valign="top"> Helps you set border thickness of anchors.</td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Anchor &gt; <br> 
+            BG Color
+</td>
+          <td align="left" valign="top" class="codeInline">anchorBgColor</td>
+          <td align="left" valign="top"> Helps you set the background color of anchors.</td>
+          <td align="left" valign="top">Hex code without the #</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Anchor &gt; <br> 
+            Alpha
+</td>
+          <td align="left" valign="top" class="codeInline">anchorAlpha</td>
+          <td align="left" valign="top"> Helps you set the alpha of entire anchors. If you need to hide the anchors on chart but still enable tool tips, set this as 0.</td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Anchor &gt; <br> 
+            BG Alpha
+</td>
+          <td align="left" valign="top" class="codeInline">anchorBgAlpha</td>
+          <td align="left" valign="top"> Helps you set the alpha of anchor background. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, StackedArea2D, StackedColumn3DLineDY, Combi2D, CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D, ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D </td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>VDiv Lines </strong></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Number Of VDiv Lines</td>
+          <td align="left" valign="top" class="codeInline">numVDivLines</td>
+          <td align="left" valign="top"> Number of vertical axis division lines</td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top"><p>VDiv Line &gt;<br>
+          Color</p>          </td>
+          <td align="left" valign="top" class="codeInline">vDivLineColor</td>
+          <td align="left" valign="top"> Color of vertical axis division lines.</td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">VDiv Line &gt;<br> 
+            Thickness
+</td>
+          <td align="left" valign="top" class="codeInline">vDivLineThickness</td>
+          <td align="left" valign="top"> Thickness of vertical axis division lines</td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">VDiv Line &gt;<br> 
+            Alpha
+</td>
+          <td align="left" valign="top" class="codeInline">vDivLineAlpha</td>
+          <td align="left" valign="top"> Alpha of vertical axis division lines.</td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">VDiv Line &gt;<br> 
+            Is Dashed
+</td>
+          <td align="left" valign="top" class="codeInline">vDivLineIsDashed</td>
+          <td align="left" valign="top"> Whether vertical divisional lines appear as dashed?</td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">VDiv Line &gt;<br> 
+            Dash Length</td>
+          <td align="left" valign="top" class="codeInline">vDivLineDashLen</td>
+          <td align="left" valign="top"> If vertical div lines are dashed, this attribute lets you control the width of dash.</td>
+          <td align="left" valign="top">Numerical value &gt; 0 </td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">VDiv Line &gt;<br> 
+            Dash Gap</td>
+          <td align="left" valign="top" class="codeInline">vDivLineDashGap</td>
+          <td align="left" valign="top"> If vertical div lines are dashed, this attribute lets you control the width of dash gap.</td>
+          <td align="left" valign="top">Numerical Value &gt; 0 </td>
+          <td align="left" valign="top">Area2D, Line2D, MSArea2D, MSLine2D, ScrollArea2D, ScrollLine2D, StackedArea2D</td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_PlotTab" id="_PlotTab"></a></strong><span class="header">Plot Cosmetics Tab</span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Plot Cosmetics  Tab: Configure the properties of the plot (data) </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Use Round Edges </td>
+          <td align="left" valign="top" class="codeInline">useRoundEdges</td>
+          <td align="left" valign="top"><p>If you wish to plot columns with round edges and fill them with a glass effect gradient, set this attribute to 1. </p>
+            <p>The following functionality wouldn't work when this attribute is set to 1: </p>
+            <ul>
+              <li>showShadow attribute doesn't work any more. If you want to remove shadow from columns, you'll have to over-ride the shadow with a new shadow style (applied to DATAPLOT) with alpha as 0.
+              <li>Plot fill properties like gradient color, angle etc. wouldn't work any more, as the colors for gradient are now calculated by the chart itself.
+              <li>Plot border properties also do not work in this mode. Also, you cannot render the border as dash in this mode. </li>
+          </ul></td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"><p>Bar2D, Column2D, MS Column2D,   MS Bar2D,<br>
+ StackedColumn2D, StackedBar2D,  <br>
+MS Combi2D, MS CombiDY2D,<br>
+ScrollColumn2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Column Max Width</td>
+          <td align="left" valign="top" class="codeInline"> maxColWidth </td>
+          <td align="left" valign="top"> Maximum allowed column width </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Column3D, MSColumn3D, StackedColumn3D, StackedColumn3DLineDY, Column3DLineSingleY, MSColumn3DLineDY</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Plot Border </td>
+          <td align="left" valign="top" class="codeInline">showPlotBorder</td>
+          <td align="left" valign="top"> Whether the column, area, pie etc. border would show up. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"> Area2D, Bar2D, Column2D, Column3D, Doughnut2D, Doughnut3D,  Pie2D, Pie3D, <br>
+MS Column2D, MS Column3D, MS Area2D, MS Bar2D, MS Bar3D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Plot Border Color</td>
+          <td align="left" valign="top" class="codeInline">plotBorderColor</td>
+          <td align="left" valign="top"> Color for column, area, pie border </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Doughnut2D, Doughnut3D, Pie2D, Pie3D, <br>
+MS Column2D, MS Column3D, MS Area2D, MS Bar2D, MS Bar3D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Plot Border Alpha</td>
+          <td align="left" valign="top" class="codeInline">plotBorderAlpha</td>
+          <td align="left" valign="top"> Alpha for column, area, pie border </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, Column3D, Doughnut2D, Doughnut3D, Pie2D, Pie3D, <br>
+MS Column2D, MS Column3D, MS Area2D, MS Bar2D, MS Bar3D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Overlap Columns</td>
+          <td align="left" valign="top" class="codeInline">overlapColumns</td>
+          <td align="left" valign="top"> Whether to overlap columns over each other to give a richer 3D look? If there are too many columns on the chart, it will automatically overlap. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Column3D, MSColumn3D, StackedColumn3D, StackedColumn3DLineDY, Column3DLineSingleY, MSColumn3DLineDY</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Show Plot Shadow </td>
+          <td align="left" valign="top" class="codeInline">showShadow</td>
+          <td align="left" valign="top"> Whether to show shadow for the data plot/columns/bars?
+Whether to show column shadows? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"> Area2D, Bar2D, Column2D, Column3D, Doughnut2D,  Line2D, Pie2D, 
+MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, 
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D<br></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Use3D Lighting</td>
+          <td align="left" valign="top" class="codeInline">use3DLighting</td>
+          <td align="left" valign="top"> Whether to use advanced gradients and shadow effects to create better looking 3D charts? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">  Column3D, Doughnut2D, Doughnut3D,  Pie2D, Pie3D, <br>
+MS Column3D,  MS Bar3D, <br>
+StackedColumn3D, StackedBar3D, StackedColumn3DLineDY, Column3DLineSingleY, Column3DLineDY</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Plot &gt; <br>
+          Border Thickness </td>
+          <td align="left" valign="top" class="codeInline">plotBorderThickness</td>
+          <td align="left" valign="top"> Thickness for column, area, pie border </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top"> Area2D, Bar2D, Column2D,  Doughnut2D, Doughnut3D,  Pie2D, Pie3D, <br>
+MS Column2D,  MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D,<br>
+MS Combi2D, MS CombiDY2D, <br>
+ScrollColumn2D, ScrollArea2D,  ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D<br></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Plot &gt; <br>
+          Is Border Dashed </td>
+          <td align="left" valign="top" class="codeInline">plotBorderDashed</td>
+          <td align="left" valign="top"> Whether the plot border should appear as dashed? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, MS Column2D,  MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D,  ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Plot Border &gt; Dash Length </td>
+          <td align="left" valign="top" class="codeInline">plotBorderDashLen</td>
+          <td align="left" valign="top"> If plot border is to appear as dash, this attribute lets you control the length of each dash. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, MS Column2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Plot Border &gt; Dash Gap </td>
+          <td align="left" valign="top" class="codeInline">plotBorderDashGap</td>
+          <td align="left" valign="top"> If plot border is to appear as dash, this attribute lets you control the length of each gap between two dash. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, MS Column2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Plot &gt; Fill Angle </td>
+          <td align="left" valign="top" class="codeInline">plotFillAngle</td>
+          <td align="left" valign="top"> If you've opted to fill the plot (column, area etc.) as gradient, this attribute lets you set the fill angle for gradient. </td>
+          <td align="left" valign="top">0-360</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, MS Column2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Plot &gt; Fill Ratio </td>
+          <td align="left" valign="top" class="codeInline">plotFillRatio</td>
+          <td align="left" valign="top"> If you've opted to fill the plot (column, area etc.) as gradient, this attribute lets you set the ratio for gradient. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, MS Column2D, MS Bar2D, StackedColumn2D,  StackedBar2D,ScrollColumn2D, ScrollArea2D, ScrollStackedColumn2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Plot &gt; Gradient Color </td>
+          <td align="left" valign="top" class="codeInline">plotGradientColor</td>
+          <td align="left" valign="top"> You can globally add a gradient color to the entire plot of chart by specifying the second color as this attribute. For example, if you've specified individual colors for your columns and now you want a gradient that ends in white. So, specify FFFFFF (white) as this color and the chart will now draw plots as gradient. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Area2D, Bar2D, Column2D, MS Column2D, MS Area2D, MS Bar2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollColumn2D, ScrollArea2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Plot Fill Alpha </td>
+          <td align="left" valign="top" class="codeInline">plotFillAlpha</td>
+          <td align="left" valign="top"> If you've opted to fill the plot (column, area etc.) as gradient, this attribute lets you set the fill alpha for gradient. </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top"> Area2D, Bar2D, Column2D, Column3D, Doughnut2D, Doughnut3D,  Pie2D, Pie3D, <br>
+MS Column2D, MS Column3D,  MS Area2D, MS Bar2D, MS Bar3D, <br>
+StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDY, <br>
+MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, <br>
+ScrollColumn2D, ScrollArea2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+      </table>      
+      <p>&nbsp; </p></td>
+  </tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<HTML><HEAD>
+ <script language="JavaScript" type="text/javascript" src="FusionMaps.js"></script>
+ <script language="JavaScript"  type="text/javascript" src="FusionMapsCreator.js"></script>
+</HEAD>
+<BODY style="margin:0px; overflow:hidden;border:0px;">
+<div id="Mapdiv" align="left">
+<p>This text will be replaced by the map.</p>
+<p>If you do not see the map, make sure that:
+<UL>
+<LI>You've Flash Player 8 (or above) installed for this browser. If not, you may install it for FREE from <a href='http://www.adobe.com/products/flashplayer/'>http://www.adobe.com/products/flashplayer</a>
+<LI>The FusionMaps URL (Querystring) built by your FileMaker code is correct. If not, use the FusionMaps debugger to debug it.
+<LI>You've JavaScript enabled for your browser.
+</UL>
+</p>
+</div>
+    <script type="text/javascript" >
+		var rawData = unescape(document.location.search);
+		//alert(rawData);
+		/* This variable would accept any custom XML data 
+			which will be appended just before end of </Map> element. 
+			This would specifically be useful when user wants to create 
+			a global STYLE for all their Maps in the solution. 
+			That ways, he can just define it here and all Maps take it from here. */
+
+		var customXML = "";
+	
+		if (rawData!="")
+		{
+			var FMC= new FusionMapsCreator(rawData);
+			var Map = new FusionMaps("./"+FMC.getSWF()+FMC.getMapMSG() , "MapId" , FMC.getWidth() , FMC.getHeight(), FMC.getDebugMode(), "0" );
+	        //We pass customXML to getXML function only – and not to FusionMapsCreator constructor.
+    	    Map.setDataXML(FMC.getXML(customXML));
+			
+			Map.render("Mapdiv");
+		}
+
+	</script>
+
+</body>
+</html>

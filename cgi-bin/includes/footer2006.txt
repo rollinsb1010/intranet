@@ -1,0 +1,21 @@
+<div class="intranet_footer_section2 intranet_width782" style="margin:0;padding:0;"><IMG SRC="/staff/images/template/intranet_09.jpg" WIDTH=782 HEIGHT=11 ALT="" class="intranet_footer_section1 decoration">
+</div>
+</div>
+
+<!-- START: SEDL Standard Footer Navigation Links -->
+<div class="intranet_footer_section2">
+	<table style="width:773px;" class="noBorder" cellspacing="0" cellpadding="3">
+	<tr><td style="width:399px;" class="white">Copyright &copy;2014 SEDL</td>
+		<td style="width:374px;" class="class1" align="right"><a href="/about/">About SEDL</a> <span style="color:#FFFFFF;">|</span> 
+			<a href="/cgi-bin/mysql/corp/contact.cgi">Contact SEDL</a> <span style="color:#FFFFFF;">|</span>
+			<a href="/support/">Support SEDL</a><span style="color:#FFFFFF;"> | </span>
+			<a href="/about/termsofuse.html">Terms of Use</a></td></tr>
+	</table>
+</div>
+
+<div class="intranet_footer_print_section">
+This page was printed from the SEDL intranet. Contact Brian Litke at ext. 6529 if you have updates for this page.
+</div>
+
+</body>
+</html>

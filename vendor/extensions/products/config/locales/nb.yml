@@ -1,0 +1,51 @@
+nb:
+  refinery:
+    plugins:
+      products:
+        title: Products
+    products:
+      admin:
+        products:
+          actions:
+            create_new: Lag en ny Product
+            reorder: Endre rekkefølgen på Products
+            reorder_done: Ferdig å endre rekkefølgen Products
+          records:
+            title: Products
+            sorry_no_results: Beklager! Vi fant ikke noen resultater.
+            no_items_yet: Det er ingen Products enda. Klikk på "Lag en ny Product" for å legge til din første product.
+          product:
+            view_live_html: Vis hvordan denne product ser ut offentlig <br/><em>(åpner i et nytt vindu)</em>
+            edit: Rediger denne product
+            delete: Fjern denne product permanent
+      products:
+        show:
+          other: Andre Products
+  activerecord:
+    attributes:
+      'refinery/products/product':
+        name: Name
+        authors: Authors
+        categories: Categories
+        rel_categories: Rel Categories
+        assigned_to: Assigned To
+        title: Title
+        title2: Title2
+        sales_id: Sales
+        online_id: Online
+        price: Price
+        weight: Weight
+        year_published: Year Published
+        type: Type
+        media: Media
+        description: Description
+        meta_desc: Meta Desc
+        meta_keywords: Meta Keywords
+        pages: Pages
+        runtime: Runtime
+        language: Language
+        sedl_program: Sedl Program
+        testimonial: Testimonial
+        citation: Citation
+        update_content: Update Content
+        last_updated_by: Last Updated By

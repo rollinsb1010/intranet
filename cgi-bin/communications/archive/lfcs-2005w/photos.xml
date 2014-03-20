@@ -1,0 +1,211 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "10/6/05">
+	<sitename>LFCS-2005</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "5" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "DSC00156.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00156.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00157.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00157.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00158.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00158.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00159.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00159.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00160.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00160.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00161.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00161.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00162.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00162.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00163.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00163.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00164.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00164.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00165.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00165.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00166.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00166.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00167.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00167.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00168.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00168.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00169.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00169.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00170.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00170.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00176.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00176.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00177.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00177.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00178.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00178.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+
+<image
+path = "DSC00179.jpg"
+width = "450"
+height = "337"
+thumbpath = "DSC00179.jpg"
+thumbwidth = "120"
+thumbheight = "90">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,259 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FusionCharts For FileMaker Documentation</title>
+<link rel="stylesheet" href="Style.css" type="text/css" />
+</head>
+
+<body>
+<table width="98%" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td> 
+      <h2 class="pageHeader">FusionCharts Visual Configuration Tool&gt; Dataset Properties </h2>    </td>
+  </tr>
+  <tr> 
+    <td valign="top" class="text"> <p> Let us take a look at the Dataset Properties. There are two tabs in the DataSet Properties Layout. Let us take a look at these: </p>
+      <p class="header"><a name="DataSet_Tabs" id="DataSet_Tabs"></a>DataSet Properties  Tabs  </p>
+      <table width="100%" cellpadding="3" class="tableAlternate text" cellspacing="2" border="0">
+        <tr class="tableAlternateHeader">
+          <td width="16%" valign="top"><strong>Tab Name</strong></td>
+          <td width="44%" valign="top"><strong>Description</strong></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="codeInline">General</td>
+          <td width="44%" valign="top">Configure the general properties of the dataset by setting values in this tab.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Anchor</td>
+          <td valign="top">In this tab, you can modify the look and feel of anchors (if any) </td>
+        </tr>
+      </table>      
+      <p class="text">We will now try to understand all the fields placed in these tabs. Note that the options Yes/No taken from the Value List YesNoList are internally converted to 0/1 to suit the FusionCharts QueryString format. &quot;Chart Types Supporting This Property&quot; indicates the Chart types ( among the list of charts presented by the tool ) which support the property. </p>
+      <p class="text">The List of charts for which the dataset properties can be configured are: MS Column2D, 
+        MS Column3D, 
+        MS Line2D, 
+        MS Area2D, 
+        MS Bar2D, 
+        MS Bar3D, StackedColumn3D, 
+        StackedColumn2D, 
+        StackedArea2D, 
+        StackedBar2D, 
+        StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, 
+        MS CombiDY2D, 
+        Column3DLineSingleY, 
+        Column3DLineDY, 
+        ScrollStackedColumn2D, 
+        ScrollCombi2D, 
+      ScrollCombiDY2D.</p>
+      <p class="text"> Note: The final block of parameters will not contain Chart Type and DataSet Number To Configure. These are used by the tool internally to generate a better preview of your dataset. </p>
+      <p class="text"><span class="header">DataSet Properties</span></p>
+      <p class="text"><strong>&nbsp;<a name="_GeneralTab" id="_GeneralTab"></a><span class="header">General Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of Values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>General Tab : Configure general properties of the dataset </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Chart Type</td>
+          <td align="left" valign="top" class="codeInline">chartType</td>
+          <td align="left" valign="top">Type of the chart.</td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top"><p> MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D.</p>
+          <p>(All Charts) </p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Which DataSet To Configure </td>
+          <td align="left" valign="top" class="codeInline">&nbsp;</td>
+          <td align="left" valign="top">DataSet Number. Whether you are configuring for dataset 1 or 2 or 3. For any dataset number &gt; 3 you would select 3 as the value for this. This number will not appear anywhere in your final list of attributes. </td>
+          <td align="left" valign="top">1,2,3</td>
+          <td align="left" valign="top">All<span class="codeInline"></span></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Parent Y Axis </td>
+          <td align="left" valign="top" class="codeInline">parentYAxis</td>
+          <td align="left" valign="top">Type of the chart.</td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top"><p>StackedColumn3DLineDualY, Combi2D, Combi2DDY, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+              <p>&nbsp;</p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Render As</td>
+          <td align="left" valign="top" class="codeInline">renderAs</td>
+          <td align="left" valign="top">DataSet Number. Whether you are configuring for dataset 1 or 2 or 3. For any dataset number &gt; 3 you would select 3 as the value for this. This number will not appear anywhere in your final list of attributes. </td>
+          <td align="left" valign="top">1,2,3</td>
+          <td align="left" valign="top"><p>Combi2D, Combi2DDY, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>&nbsp;</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Series Name </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> seriesName </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Lets you specify the series name for a particular data-set. For example, if you're plotting a chart to indicate monthly sales analysis for 2005 and 2006, the seriesName for the first dataset would be 2005 and that of the second would be 2006. The seriesName of a data-set is shown in legend. </span> </td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top"><p> MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D.</p>
+          <p>(All Charts) </p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Color </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> color </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> This attribute sets the color using which columns, lines, area of that data-set would be drawn. <strong>For column chart,</strong> you can specify a list of comma separated hex codes to get a gradient plot. </span> </td>
+          <td align="left" valign="top">Hex Code (Or Comma separated list) </td>
+          <td align="left" valign="top"><p> MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D.</p>
+          <p>(All Charts) </p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Alpha </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> alpha </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> This attribute sets the alpha (transparency) of the entire data-set. </span> </td>
+          <td align="left" valign="top">0-100 or Comma separated list</td>
+          <td align="left" valign="top"><p> MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D.</p>
+          <p>(All Charts) </p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Ratio </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> ratio </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> If you've opted to show columns as gradients, this attribute lets you control the ratio of each color. </span> </td>
+          <td align="left" valign="top">Comma separated list of ratios </td>
+          <td align="left" valign="top">&nbsp;</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Show Values </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> showValues </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Whether to show the values for this data-set? </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"><p> MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D.</p>
+          <p>(All Charts) </p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Dashed </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> dashed </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Whether this data-set would appear as dashed? </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"><p>MS Column2D, MS Bar2D, MS Line2D, MS Area2D, StackedColumn2D, StackedArea2D, StackedBar2D, MS Combi2D, MS CombiDY2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All except 3D charts)</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Include In Legend </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> includeInLegend </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Whether to include the seriesName of this data-set in legend? This can be particularly useful when you're using combination charts and you've used the area/line chart to plot a trend, and you do not want the seriesName of that trend to appear in legend. </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"><p> MS Column2D, MS Column3D, MS Line2D, MS Area2D, MS Bar2D, MS Bar3D, StackedColumn3D, StackedColumn2D, StackedArea2D, StackedBar2D, StackedBar3D, StackedColumn3DLineDualY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D.</p>
+          <p>(All Charts) </p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Line Thickness </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> lineThickness </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Thickness of the lines for the particular data-set. </span> </td>
+          <td align="left" valign="top">Number (In Pixels) </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY,  ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Line Dash Length</span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> lineDashLen </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> If the lines are to be shown as dash for the particular data-set, this attribute defines the length of dash. </span> </td>
+          <td align="left" valign="top">Number (In Pixels) </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Line Dash Gap </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> lineDashGap </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> If the lines are to be shown as dash for the particular data-set, this attribute defines the length of dash gap. </span> </td>
+          <td align="left" valign="top">Number (In Pixels) </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_LabelsTab" id="_LabelsTab"></a></strong><span class="header">Anchor Tab</span></strong><br> 
+      </p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Anchor Tab : Lets you configure how anchors appear for the dataset (Only for charts that include a dataset rendered as line) </strong></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Draw Anchors </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> drawAnchors </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Whether to draw anchors for the particular data-set? If the anchors are not shown, then the tool tip and links won't work for the data-set. </span> </td>
+          <td align="left" valign="top" class="text">Yes/No</td>
+          <td align="left" valign="top" class="text"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Anchor Sides </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> anchorSides </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Sets the number of sides that the anchors of the particular data-set will have. For e.g., an anchor with 3 sides would represent a triangle, with 4 it would be a square and so on. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> 3-20 </span> </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Anchor Radius </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> anchorRadius </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> This attribute sets the radius (in pixels) of the anchors of the particular data-set. Greater the radius, bigger would be the anchor size. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> Number (In Pixels)</span> </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Anchor Border Color </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> anchorBorderColor </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Lets you set the border color of anchors of the particular data-set. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> Hex Code </span> </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Anchor Border Thickness </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> anchorBorderThickness </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Helps you set border thickness of anchors of the particular data-set. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> Number (In Pixels) </span></td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Anchor Bg Color </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> anchorBgColor </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Helps you set the background color of anchors of the particular data-set. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> Hex Code </span> </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Anchor Alpha </span> </td>
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> anchorAlpha </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Helps you set the alpha of entire anchors of the particular data-set. If you need to hide the anchors for the data-set but still enable tool tips, set this as 0. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> 0-100 </span> </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Anchor Bg Alpha </span> </td>
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> anchorBgAlpha </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Helps you set the alpha of anchor background of the particular data-set. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> 0-100 </span> </td>
+          <td align="left" valign="top"><p>MS Line2D, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollCombi2D, ScrollCombiDY2D</p>
+          <p>(All charts which include a line)</p></td>
+        </tr>
+      </table>      
+      <p>&nbsp; </p>
+    </td>
+  </tr>
+</table>
+    
+  
+
+</body>
+</html>

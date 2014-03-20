@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+<purchase_attempt>
+	<transaction_date>02/27/2014</transaction_date>
+	<transaction_timestamp>Feb 27, 2014, 08:30:58</transaction_timestamp>
+	<PNREF>VPEAA72ED561</PNREF>
+	<DESCRIPTION>(450*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VPEAA72ED561-1</lineitem_id><PNREF>VPEAA72ED561</PNREF><item_qty>450</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VPEAA72ED561-2</lineitem_id><PNREF>VPEAA72ED561</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>225.00</AMOUNT>
+	<NAME>Mark Lemer</NAME>
+	<first_name>Mark</first_name>
+	<last_name>Lemer</last_name>
+	<ADDRESS>207 Main Ave W</ADDRESS>
+	<CITY>West Fargo</CITY>
+	<STATE>ND</STATE>
+	<ZIP>58078</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>701-356-2002</PHONE> 
+	<FAX></FAX>
+	<EMAIL>lemer@west-fargo.k12.nd.us</EMAIL>
+	<EMAILTOSHIP>ahenry@west-fargo.k12.nd.us</EMAILTOSHIP>
+	<NAMETOSHIP>Amanda Henry</NAMETOSHIP>
+	<ADDRESSTOSHIP>Sheyenne High School800 40th Ave E</ADDRESSTOSHIP>
+	<CITYTOSHIP>West Fargo</CITYTOSHIP> 
+	<STATETOSHIP>ND</STATETOSHIP>
+	<ZIPTOSHIP>58078</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>701-356-2160</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>095785</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Referred by friend</how_heard>
+	<SEDL_USE8>west-fargo.pat.k12.nd.us</SEDL_USE8>
+	<SEDL_USE9>165.234.180.5</SEDL_USE9>
+	<user_ip_address>20130607131525host89140296stat</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip>west-fargo.pat.k12.nd.us 165.234.180.5</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>02/26/2014</transaction_date>
+	<transaction_timestamp>Feb 26, 2014, 12:01:40</transaction_timestamp>
+	<PNREF>VSHAB6D01F02</PNREF>
+	<DESCRIPTION>(1*REA-18@$20) (1*REA-12@$15) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VSHAB6D01F02-1</lineitem_id><PNREF>VSHAB6D01F02</PNREF><item_qty>1</item_qty><item_id>REA-18</item_id><item_unit_cost>20</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VSHAB6D01F02-2</lineitem_id><PNREF>VSHAB6D01F02</PNREF><item_qty>1</item_qty><item_id>REA-12</item_id><item_unit_cost>15</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VSHAB6D01F02-3</lineitem_id><PNREF>VSHAB6D01F02</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>42.00</AMOUNT>
+	<NAME>Karen Kemper</NAME>
+	<first_name>Karen</first_name>
+	<last_name>Kemper</last_name>
+	<ADDRESS>1050 Ricky Ridge Lane</ADDRESS>
+	<CITY>Orefield</CITY>
+	<STATE>PA</STATE>
+	<ZIP>18069</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>6104175646</PHONE> 
+	<FAX></FAX>
+	<EMAIL>karen.kemper@svpanthers.org</EMAIL>
+	<EMAILTOSHIP>karen.kemper@svpanthers.org</EMAILTOSHIP>
+	<NAMETOSHIP>Karen Kemper</NAMETOSHIP>
+	<ADDRESSTOSHIP>1050 Ricky Ridge Lane</ADDRESSTOSHIP>
+	<CITYTOSHIP>Orefield</CITYTOSHIP> 
+	<STATETOSHIP>PA</STATETOSHIP>
+	<ZIPTOSHIP>18069</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>6104175646</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>03816C</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>7.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>7.00</Shipping>
+	<marketing_campaign_ids>banner-html banner-read</marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Internet search</how_heard>
+	<SEDL_USE8>webmail.svpanthers.org</SEDL_USE8>
+	<SEDL_USE9>204.186.5.98</SEDL_USE9>
+	<user_ip_address>20140226115448webmailsvpanther</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>02/03/2014</transaction_date>
+	<transaction_timestamp>Feb  3, 2014, 13:28:08</transaction_timestamp>
+	<PNREF>VQEAA5FA5ACB</PNREF>
+	<DESCRIPTION>(200*PLC-01@$1) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VQEAA5FA5ACB-1</lineitem_id><PNREF>VQEAA5FA5ACB</PNREF><item_qty>200</item_qty><item_id>PLC-01</item_id><item_unit_cost>1</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VQEAA5FA5ACB-2</lineitem_id><PNREF>VQEAA5FA5ACB</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>200.00</AMOUNT>
+	<NAME>Karen Palmer</NAME>
+	<first_name>Karen</first_name>
+	<last_name>Palmer</last_name>
+	<ADDRESS>17714 Garden Spot Drive </ADDRESS>
+	<CITY>Hagerstown</CITY>
+	<STATE>MD</STATE>
+	<ZIP>21740</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>301-739-4134</PHONE> 
+	<FAX></FAX>
+	<EMAIL>palmekar@wcps.k12.md.us</EMAIL>
+	<EMAILTOSHIP>palmekar@wcps.k12.md.us</EMAILTOSHIP>
+	<NAMETOSHIP>Karen Palmer</NAMETOSHIP>
+	<ADDRESSTOSHIP>17714 Garden Spot Drive </ADDRESSTOSHIP>
+	<CITYTOSHIP>Hagerstown</CITYTOSHIP> 
+	<STATETOSHIP>MD</STATETOSHIP>
+	<ZIPTOSHIP>21740</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>301-739-4134</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>02711Z</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Internet search</how_heard>
+	<SEDL_USE8>dyn-69-88-47-154.myactv.net</SEDL_USE8>
+	<SEDL_USE9>69.88.47.154</SEDL_USE9>
+	<user_ip_address>20140203132205dyn698847154myac</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/28/2014</transaction_date>
+	<transaction_timestamp>Jan 28, 2014, 10:23:55</transaction_timestamp>
+	<PNREF>VTHAB6E300BE</PNREF>
+	<DESCRIPTION>(25*PLC-01@$1) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VTHAB6E300BE-1</lineitem_id><PNREF>VTHAB6E300BE</PNREF><item_qty>25</item_qty><item_id>PLC-01</item_id><item_unit_cost>1</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VTHAB6E300BE-2</lineitem_id><PNREF>VTHAB6E300BE</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>25.00</AMOUNT>
+	<NAME>Emily Spear</NAME>
+	<first_name>Emily</first_name>
+	<last_name>Spear</last_name>
+	<ADDRESS>22 Bay Street</ADDRESS>
+	<CITY>Northfield</CITY>
+	<STATE>NH</STATE>
+	<ZIP>03276</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>6032868383</PHONE> 
+	<FAX></FAX>
+	<EMAIL>espear@sau80.org</EMAIL>
+	<EMAILTOSHIP>espear@sau80.org</EMAILTOSHIP>
+	<NAMETOSHIP>Emily Spear</NAMETOSHIP>
+	<ADDRESSTOSHIP>22 Bay Street</ADDRESSTOSHIP>
+	<CITYTOSHIP>Northfield</CITYTOSHIP> 
+	<STATETOSHIP>NH</STATETOSHIP>
+	<ZIPTOSHIP>03276</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>6032868383</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>412544</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Trade Publication</how_heard>
+	<SEDL_USE8>d-65-175-202-243.cpe.metrocast.</SEDL_USE8>
+	<SEDL_USE9>65.175.202.243</SEDL_USE9>
+	<user_ip_address>20140128095406d65175202243cpem</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/27/2014</transaction_date>
+	<transaction_timestamp>Jan 27, 2014, 17:53:37</transaction_timestamp>
+	<PNREF>VQCAA584E794</PNREF>
+	<DESCRIPTION>(1*REA-12@$15) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VQCAA584E794-1</lineitem_id><PNREF>VQCAA584E794</PNREF><item_qty>1</item_qty><item_id>REA-12</item_id><item_unit_cost>15</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VQCAA584E794-2</lineitem_id><PNREF>VQCAA584E794</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>20.00</AMOUNT>
+	<NAME>GILDA DENIRO</NAME>
+	<first_name>GILDA</first_name>
+	<last_name>DENIRO</last_name>
+	<ADDRESS>2090 BLOOMFIELD ROAD</ADDRESS>
+	<CITY>SEBASTOPOL</CITY>
+	<STATE>CA </STATE>
+	<ZIP>94572</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>650-922-1076</PHONE> 
+	<FAX></FAX>
+	<EMAIL>gopascua123@aol.com</EMAIL>
+	<EMAILTOSHIP>gopascua123@aol.com</EMAILTOSHIP>
+	<NAMETOSHIP>GILDA DENIRO</NAMETOSHIP>
+	<ADDRESSTOSHIP>2090 BLOOMFIELD ROAD</ADDRESSTOSHIP>
+	<CITYTOSHIP>SEBASTOPOL</CITYTOSHIP> 
+	<STATETOSHIP>CA </STATETOSHIP>
+	<ZIPTOSHIP>94572</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>650-922-1076</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>834176</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YNY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>5.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>5.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8></SEDL_USE8>
+	<SEDL_USE9>209.129.227.63</SEDL_USE9>
+	<user_ip_address>2014012717482420912922763</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 209.129.227.63</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/25/2014</transaction_date>
+	<transaction_timestamp>Jan 25, 2014, 11:12:53</transaction_timestamp>
+	<PNREF>VUJAB62A9487</PNREF>
+	<DESCRIPTION>(100*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VUJAB62A9487-1</lineitem_id><PNREF>VUJAB62A9487</PNREF><item_qty>100</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VUJAB62A9487-2</lineitem_id><PNREF>VUJAB62A9487</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>50.00</AMOUNT>
+	<NAME>Rebecca Merhar</NAME>
+	<first_name>Rebecca</first_name>
+	<last_name>Merhar</last_name>
+	<ADDRESS>1517 Birdie Drive</ADDRESS>
+	<CITY>Naples</CITY>
+	<STATE>FL</STATE>
+	<ZIP>34120</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>239-2482921</PHONE> 
+	<FAX></FAX>
+	<EMAIL>rsmerhar@ufl.edu</EMAIL>
+	<EMAILTOSHIP>rsmerhar@ufl.edu</EMAILTOSHIP>
+	<NAMETOSHIP>Rebecca Merhar</NAMETOSHIP>
+	<ADDRESSTOSHIP>1517 Birdie Drive</ADDRESSTOSHIP>
+	<CITYTOSHIP>Naples</CITYTOSHIP> 
+	<STATETOSHIP>FL</STATETOSHIP>
+	<ZIPTOSHIP>34120</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>239-2482921</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>344364</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8>c-98-208-217-183.hsd1.fl.comcas</SEDL_USE8>
+	<SEDL_USE9>98.208.217.183</SEDL_USE9>
+	<user_ip_address>20130312112959c691362375hsd1fl</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip>c-98-208-217-183.hsd1.fl.comcast.net 98.208.217.183</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/21/2014</transaction_date>
+	<transaction_timestamp>Jan 21, 2014, 12:36:15</transaction_timestamp>
+	<PNREF>VTJAB678A045</PNREF>
+	<DESCRIPTION>(1*CBAM-01@$18) (1*CHA-22@$25) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VTJAB678A045-1</lineitem_id><PNREF>VTJAB678A045</PNREF><item_qty>1</item_qty><item_id>CBAM-01</item_id><item_unit_cost>18</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VTJAB678A045-2</lineitem_id><PNREF>VTJAB678A045</PNREF><item_qty>1</item_qty><item_id>CHA-22</item_id><item_unit_cost>25</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VTJAB678A045-3</lineitem_id><PNREF>VTJAB678A045</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>50.00</AMOUNT>
+	<NAME>Scott Hand</NAME>
+	<first_name>Scott</first_name>
+	<last_name>Hand</last_name>
+	<ADDRESS>611 Field Club Road</ADDRESS>
+	<CITY>Pittsburgh</CITY>
+	<STATE>PA</STATE>
+	<ZIP>15238</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>4129672453</PHONE> 
+	<FAX></FAX>
+	<EMAIL>catherine_pietropaolo@fcasd.edu</EMAIL>
+	<EMAILTOSHIP>catherine_pietropaolo@fcasd.edu</EMAILTOSHIP>
+	<NAMETOSHIP>Scott Hand</NAMETOSHIP>
+	<ADDRESSTOSHIP>Fox Chapel Area School District611 Field Club Road</ADDRESSTOSHIP>
+	<CITYTOSHIP>Pittsburgh</CITYTOSHIP> 
+	<STATETOSHIP>PA</STATETOSHIP>
+	<ZIPTOSHIP>15238</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>4129672453</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>064538</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>7.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>7.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8></SEDL_USE8>
+	<SEDL_USE9>64.58.240.126</SEDL_USE9>
+	<user_ip_address>201401211233366458240126</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 64.58.240.126</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/20/2014</transaction_date>
+	<transaction_timestamp>Jan 20, 2014, 15:34:51</transaction_timestamp>
+	<PNREF>VPCAA4C2C8D6</PNREF>
+	<DESCRIPTION>(1*CBAM-01@$18) (1*CBAM-11@$18) (100*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VPCAA4C2C8D6-1</lineitem_id><PNREF>VPCAA4C2C8D6</PNREF><item_qty>1</item_qty><item_id>CBAM-01</item_id><item_unit_cost>18</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VPCAA4C2C8D6-2</lineitem_id><PNREF>VPCAA4C2C8D6</PNREF><item_qty>1</item_qty><item_id>CBAM-11</item_id><item_unit_cost>18</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VPCAA4C2C8D6-3</lineitem_id><PNREF>VPCAA4C2C8D6</PNREF><item_qty>100</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VPCAA4C2C8D6-4</lineitem_id><PNREF>VPCAA4C2C8D6</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>95.00</AMOUNT>
+	<NAME>Debra Lynch</NAME>
+	<first_name>Debra</first_name>
+	<last_name>Lynch</last_name>
+	<ADDRESS>7319 N McVicker</ADDRESS>
+	<CITY>Chicago</CITY>
+	<STATE>IL</STATE>
+	<ZIP>60646</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>7736319991</PHONE> 
+	<FAX></FAX>
+	<EMAIL>dlynch@sd113a.oerg</EMAIL>
+	<EMAILTOSHIP>dlynch@sd113a.oerg</EMAILTOSHIP>
+	<NAMETOSHIP>Debra Lynch</NAMETOSHIP>
+	<ADDRESSTOSHIP>7319 N McVicker</ADDRESSTOSHIP>
+	<CITYTOSHIP>Chicago</CITYTOSHIP> 
+	<STATETOSHIP>IL</STATETOSHIP>
+	<ZIPTOSHIP>60646</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>7736319991</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>72604P</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>9.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>9.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8>99-138-173-162.lightspeed.cicri</SEDL_USE8>
+	<SEDL_USE9>99.138.173.162</SEDL_USE9>
+	<user_ip_address>2014012014163199138173162light</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/19/2014</transaction_date>
+	<transaction_timestamp>Jan 19, 2014, 12:28:59</transaction_timestamp>
+	<PNREF>VPCAA4B398ED</PNREF>
+	<DESCRIPTION>(100*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VPCAA4B398ED-1</lineitem_id><PNREF>VPCAA4B398ED</PNREF><item_qty>100</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VPCAA4B398ED-2</lineitem_id><PNREF>VPCAA4B398ED</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>54.13</AMOUNT>
+	<NAME>Angela Bedingfield</NAME>
+	<first_name>Angela</first_name>
+	<last_name>Bedingfield</last_name>
+	<ADDRESS>2524 Oak Dale Way</ADDRESS>
+	<CITY>Seabrook</CITY>
+	<STATE>TX</STATE>
+	<ZIP>77586</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>713-471-6264</PHONE> 
+	<FAX></FAX>
+	<EMAIL>abedingfield@dpisd.org</EMAIL>
+	<EMAILTOSHIP>abedingfield@dpisd.org</EMAILTOSHIP>
+	<NAMETOSHIP>Angela Bedingfield</NAMETOSHIP>
+	<ADDRESSTOSHIP>2524 Oak Dale Way</ADDRESSTOSHIP>
+	<CITYTOSHIP>Seabrook</CITYTOSHIP> 
+	<STATETOSHIP>TX</STATETOSHIP>
+	<ZIPTOSHIP>77586</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>713-471-6264</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>072813</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX>4.13</TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>No</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>SEDL Store</how_heard>
+	<SEDL_USE8>c-50-175-77-101.hsd1.tx.comcast</SEDL_USE8>
+	<SEDL_USE9>50.175.77.101</SEDL_USE9>
+	<user_ip_address>20130720135810c981972245hsd1tx</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/15/2014</transaction_date>
+	<transaction_timestamp>Jan 15, 2014, 15:49:54</transaction_timestamp>
+	<PNREF>VLCAA6618E0A</PNREF>
+	<DESCRIPTION>(100*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VLCAA6618E0A-1</lineitem_id><PNREF>VLCAA6618E0A</PNREF><item_qty>100</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VLCAA6618E0A-2</lineitem_id><PNREF>VLCAA6618E0A</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>50.00</AMOUNT>
+	<NAME>Gracious</NAME>
+	<first_name></first_name>
+	<last_name>Gracious</last_name>
+	<ADDRESS>14206 Quay St. NW</ADDRESS>
+	<CITY>Andover</CITY>
+	<STATE>MN</STATE>
+	<ZIP>55304</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>7634395626</PHONE> 
+	<FAX></FAX>
+	<EMAIL>gracious.msuya@gmail.com</EMAIL>
+	<EMAILTOSHIP>gracious.msuya@gmail.com</EMAILTOSHIP>
+	<NAMETOSHIP>Gracious</NAMETOSHIP>
+	<ADDRESSTOSHIP>14206 Quay St. NW</ADDRESSTOSHIP>
+	<CITYTOSHIP>Andover</CITYTOSHIP> 
+	<STATETOSHIP>MN</STATETOSHIP>
+	<ZIPTOSHIP>55304</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>7634395626</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>054913</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Internet search</how_heard>
+	<SEDL_USE8>stma-204-169-21-130.stma.k12.mn</SEDL_USE8>
+	<SEDL_USE9>204.169.21.130</SEDL_USE9>
+	<user_ip_address>20140115153435stma20416921130s</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/11/2014</transaction_date>
+	<transaction_timestamp>Jan 11, 2014, 08:00:43</transaction_timestamp>
+	<PNREF>VUJAB561933B</PNREF>
+	<DESCRIPTION>(100*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VUJAB561933B-1</lineitem_id><PNREF>VUJAB561933B</PNREF><item_qty>100</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VUJAB561933B-2</lineitem_id><PNREF>VUJAB561933B</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>50.00</AMOUNT>
+	<NAME>Rita Henriquez-Green</NAME>
+	<first_name>Rita</first_name>
+	<last_name>Henriquez-Green</last_name>
+	<ADDRESS>26 Castle-view Dr</ADDRESS>
+	<CITY>Ringgold</CITY>
+	<STATE>GA</STATE>
+	<ZIP>30736-6901</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>334-730-4608</PHONE> 
+	<FAX></FAX>
+	<EMAIL>drrita7713@gmail.com</EMAIL>
+	<EMAILTOSHIP>drrita7713@gmail.com</EMAILTOSHIP>
+	<NAMETOSHIP>Rita Henriquez-Green</NAMETOSHIP>
+	<ADDRESSTOSHIP>26 Castle-view Dr</ADDRESSTOSHIP>
+	<CITYTOSHIP>Ringgold</CITYTOSHIP> 
+	<STATETOSHIP>GA</STATETOSHIP>
+	<ZIPTOSHIP>30736-6901</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>334-730-4608</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>652443</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8></SEDL_USE8>
+	<SEDL_USE9>116.93.59.209</SEDL_USE9>
+	<user_ip_address>201401110747351169359209</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/10/2014</transaction_date>
+	<transaction_timestamp>Jan 10, 2014, 13:13:49</transaction_timestamp>
+	<PNREF>VSYAB3E85CBD</PNREF>
+	<DESCRIPTION>(1*FAM-33@$26) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VSYAB3E85CBD-1</lineitem_id><PNREF>VSYAB3E85CBD</PNREF><item_qty>1</item_qty><item_id>FAM-33</item_id><item_unit_cost>26</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VSYAB3E85CBD-2</lineitem_id><PNREF>VSYAB3E85CBD</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>33.00</AMOUNT>
+	<NAME>Matthew Kujovsky</NAME>
+	<first_name>Matthew</first_name>
+	<last_name>Kujovsky</last_name>
+	<ADDRESS>po box 162</ADDRESS>
+	<CITY>weston</CITY>
+	<STATE>VT</STATE>
+	<ZIP>05161</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>802-824-4357</PHONE> 
+	<FAX></FAX>
+	<EMAIL>mkujovsky@burrburton.org</EMAIL>
+	<EMAILTOSHIP>mkujovsky@burrburton.org</EMAILTOSHIP>
+	<NAMETOSHIP>Matthew Kujovsky</NAMETOSHIP>
+	<ADDRESSTOSHIP>po box 162</ADDRESSTOSHIP>
+	<CITYTOSHIP>weston</CITYTOSHIP> 
+	<STATETOSHIP>VT</STATETOSHIP>
+	<ZIPTOSHIP>05161</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>802-824-4357</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>015387</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>NYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>7.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>7.00</Shipping>
+	<marketing_campaign_ids>banner-conn</marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>SEDL Store</how_heard>
+	<SEDL_USE8></SEDL_USE8>
+	<SEDL_USE9>132.198.9.150</SEDL_USE9>
+	<user_ip_address>201401101310241321989150</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/10/2014</transaction_date>
+	<transaction_timestamp>Jan 10, 2014, 17:57:51</transaction_timestamp>
+	<PNREF>VREAA49EFE27</PNREF>
+	<DESCRIPTION>(25*PLC-01@$1) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VREAA49EFE27-1</lineitem_id><PNREF>VREAA49EFE27</PNREF><item_qty>25</item_qty><item_id>PLC-01</item_id><item_unit_cost>1</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VREAA49EFE27-2</lineitem_id><PNREF>VREAA49EFE27</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>25.00</AMOUNT>
+	<NAME>Hairon Salleh</NAME>
+	<first_name>Hairon</first_name>
+	<last_name>Salleh</last_name>
+	<ADDRESS>1 Nanyang Walk</ADDRESS>
+	<CITY>Singapore</CITY>
+	<STATE>Singapore</STATE>
+	<ZIP>637616</ZIP>
+	<COUNTRY>Singapore</COUNTRY>
+	<PHONE>+65-67903248</PHONE> 
+	<FAX></FAX>
+	<EMAIL>haironsalleh23@gmail.com</EMAIL>
+	<EMAILTOSHIP>haironsalleh23@gmail.com</EMAILTOSHIP>
+	<NAMETOSHIP>Hairon Salleh</NAMETOSHIP>
+	<ADDRESSTOSHIP>National Institute of Education1 Nanyang Walk</ADDRESSTOSHIP>
+	<CITYTOSHIP>Singapore</CITYTOSHIP> 
+	<STATETOSHIP>Singapore</STATETOSHIP>
+	<ZIPTOSHIP>637616</ZIPTOSHIP>
+	<COUNTRYTOSHIP>Singapore</COUNTRYTOSHIP>
+	<PHONETOSHIP>+65-67903248</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>949932</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>XXN</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids>banner-html</marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8></SEDL_USE8>
+	<SEDL_USE9>171.207.226.50</SEDL_USE9>
+	<user_ip_address>2014011017442117120722650</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/10/2014</transaction_date>
+	<transaction_timestamp>Jan 10, 2014, 22:35:57</transaction_timestamp>
+	<PNREF>VUHAB55CE292</PNREF>
+	<DESCRIPTION>(1*CHA-22@$25) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VUHAB55CE292-1</lineitem_id><PNREF>VUHAB55CE292</PNREF><item_qty>1</item_qty><item_id>CHA-22</item_id><item_unit_cost>25</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VUHAB55CE292-2</lineitem_id><PNREF>VUHAB55CE292</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>32.00</AMOUNT>
+	<NAME>Jessica Boswell</NAME>
+	<first_name>Jessica</first_name>
+	<last_name>Boswell</last_name>
+	<ADDRESS>82 SW Eston Ct.</ADDRESS>
+	<CITY>Oak Harbor</CITY>
+	<STATE>WA</STATE>
+	<ZIP>98277</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>3609297171</PHONE> 
+	<FAX></FAX>
+	<EMAIL>jesskate19@aol.com</EMAIL>
+	<EMAILTOSHIP>jesskate19@aol.com</EMAILTOSHIP>
+	<NAMETOSHIP>Jessica Boswell</NAMETOSHIP>
+	<ADDRESSTOSHIP>82 SW Eston Ct.</ADDRESSTOSHIP>
+	<CITYTOSHIP>Oak Harbor</CITYTOSHIP> 
+	<STATETOSHIP>WA</STATETOSHIP>
+	<ZIPTOSHIP>98277</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>3609297171</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>H26804</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>7.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>7.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Referred by friend</how_heard>
+	<SEDL_USE8>c-67-168-71-35.hsd1.wa.comcast.</SEDL_USE8>
+	<SEDL_USE9>67.168.71.35</SEDL_USE9>
+	<user_ip_address>20140110211721c671687135hsd1wa</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip> 173.0.81.65</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/03/2014</transaction_date>
+	<transaction_timestamp>Jan  3, 2014, 16:25:56</transaction_timestamp>
+	<PNREF>VQEAA431CA28</PNREF>
+	<DESCRIPTION>(340*CBAM-21@$0.50) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VQEAA431CA28-1</lineitem_id><PNREF>VQEAA431CA28</PNREF><item_qty>340</item_qty><item_id>CBAM-21</item_id><item_unit_cost>0.50</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VQEAA431CA28-2</lineitem_id><PNREF>VQEAA431CA28</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>170.00</AMOUNT>
+	<NAME>Chris M Olszewski</NAME>
+	<first_name>Chris M</first_name>
+	<last_name>Olszewski</last_name>
+	<ADDRESS>421 Riverview Dr E</ADDRESS>
+	<CITY>Great Falls</CITY>
+	<STATE>MT</STATE>
+	<ZIP>59404</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>406-952-0819</PHONE> 
+	<FAX></FAX>
+	<EMAIL>chris_olszewski@gfps.k12.mt.us</EMAIL>
+	<EMAILTOSHIP>chris_olszewski@gfps.k12.mt.us</EMAILTOSHIP>
+	<NAMETOSHIP>Chris M Olszewski</NAMETOSHIP>
+	<ADDRESSTOSHIP>421 Riverview Dr E</ADDRESSTOSHIP>
+	<CITYTOSHIP>Great Falls</CITYTOSHIP> 
+	<STATETOSHIP>MT</STATETOSHIP>
+	<ZIPTOSHIP>59404</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>406-952-0819</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>00328R</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>0.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>0.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard></how_heard>
+	<SEDL_USE8>gfps193.gfps.k12.mt.us</SEDL_USE8>
+	<SEDL_USE9>69.145.82.193</SEDL_USE9>
+	<user_ip_address>20140103162059gfps193gfpsk12mt</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip>gfps193.gfps.k12.mt.us 69.145.82.193</customerip>
+</purchase_attempt>
+<purchase_attempt>
+	<transaction_date>01/02/2014</transaction_date>
+	<transaction_timestamp>Jan  2, 2014, 21:21:50</transaction_timestamp>
+	<PNREF>VUYAB4EBDB8C</PNREF>
+	<DESCRIPTION>(1*CHA-22@$25) </DESCRIPTION>
+	<LINEITEMS>
+		<LINEITEM><lineitem_id>VUYAB4EBDB8C-1</lineitem_id><PNREF>VUYAB4EBDB8C</PNREF><item_qty>1</item_qty><item_id>CHA-22</item_id><item_unit_cost>25</item_unit_cost></LINEITEM><LINEITEM><lineitem_id>VUYAB4EBDB8C-2</lineitem_id><PNREF>VUYAB4EBDB8C</PNREF><item_qty></item_qty><item_id></item_id><item_unit_cost></item_unit_cost></LINEITEM>
+	</LINEITEMS>
+	<AMOUNT>32.00</AMOUNT>
+	<NAME>Melissa Schmidt</NAME>
+	<first_name>Melissa</first_name>
+	<last_name>Schmidt</last_name>
+	<ADDRESS>503 Meadow Heights Dr.</ADDRESS>
+	<CITY>Black Creek</CITY>
+	<STATE>WI</STATE>
+	<ZIP>54106</ZIP>
+	<COUNTRY>United States</COUNTRY>
+	<PHONE>9202177114</PHONE> 
+	<FAX></FAX>
+	<EMAIL>lewism24@gmail.com</EMAIL>
+	<EMAILTOSHIP>lewism24@gmail.com</EMAILTOSHIP>
+	<NAMETOSHIP>Melissa Schmidt</NAMETOSHIP>
+	<ADDRESSTOSHIP>503 Meadow Heights Dr.</ADDRESSTOSHIP>
+	<CITYTOSHIP>Black Creek</CITYTOSHIP> 
+	<STATETOSHIP>WI</STATETOSHIP>
+	<ZIPTOSHIP>54106</ZIPTOSHIP>
+	<COUNTRYTOSHIP>United States</COUNTRYTOSHIP>
+	<PHONETOSHIP>9202177114</PHONETOSHIP>
+	<FAXTOSHIP></FAXTOSHIP>
+	<TYPE>Sale</TYPE>
+	<RESULT>0</RESULT>
+	<AUTHCODE>03768B</AUTHCODE>
+	<RESPMSG>Approved</RESPMSG>
+	<AVSDATA>YYY</AVSDATA>
+	<CSCMATCH>Y</CSCMATCH>
+	<INVOICE></INVOICE>
+	<TAX></TAX>
+	<SHIPAMOUNT>7.00</SHIPAMOUNT>
+	<METHOD>CC</METHOD>
+	<PONUM>b25</PONUM>
+	<CUSTID>b11</CUSTID>
+	<pub_or_trainingregist>PUBLICATIONS</pub_or_trainingregist>
+	<tax_exempt>Yes</tax_exempt>
+	<Shipping>7.00</Shipping>
+	<marketing_campaign_ids></marketing_campaign_ids>
+	<promotional_dicount_id>b31</promotional_dicount_id>
+	<SEDL_USE6>b31</SEDL_USE6>
+	<how_heard>Required for a class</how_heard>
+	<SEDL_USE8>97-86-107-79.dhcp.eucl.wi.chart</SEDL_USE8>
+	<SEDL_USE9>97.86.107.79</SEDL_USE9>
+	<user_ip_address>20140102211800978610779dhcpeuc</user_ip_address>
+	<transaction_referring_ip></transaction_referring_ip>
+	<customerip>97-86-107-79.dhcp.eucl.wi.charter.com 97.86.107.79</customerip>
+</purchase_attempt>
+</sales>

@@ -1,0 +1,931 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="130530187611242441" idplateEnabled="false" 			css="
+				#previewFull {background-color: #666666 !important; width: 1054px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 1024px !important; width: 1054px !important;}
+				#stage2 {width: 1054px !important;}
+				.itemNumber {display: none !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 807px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 1054px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 807px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="5" 
+numRows="4" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Fri May 13 2011 10:51:16 GMT-0500"></creationDate>
+			<groupTitle value="February 2011"></groupTitle>
+			<contactInfo value="" link=""></contactInfo>
+			<siteTitle value="Photo Shoot with SEDL Staff and Children"></siteTitle>
+			<groupDescription value=""></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="1024" width="1024"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="107" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1305301876122" filename="_MG_0414" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0414.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0414.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="1_1305301876123" filename="_MG_0411" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0411.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0411.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="2_1305301876124" filename="_MG_0401" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0401.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0401.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="3_1305301876125" filename="_MG_0405" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0405.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0405.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="4_1305301876126" filename="_MG_0407" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0407.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0407.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="5_1305301876127" filename="_MG_0382" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0382.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0382.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="6_1305301876128" filename="_MG_0412" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0412.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0412.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="7_1305301876128" filename="_MG_0415" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0415.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0415.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="8_1305301876129" filename="_MG_0369" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0369.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0369.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="9_1305301876130" filename="_MG_0417" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0417.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0417.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="10_1305301876131" filename="_MG_0418" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0418.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0418.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="11_1305301876132" filename="_MG_0420" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0420.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0420.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="12_1305301876133" filename="_MG_0424" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0424.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0424.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="13_1305301876134" filename="_MG_0376" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0376.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0376.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="14_1305301876135" filename="_MG_0463" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0463.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0463.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="15_1305301876136" filename="_MG_0464" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0464.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0464.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="16_1305301876136" filename="_MG_0468" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0468.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0468.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="17_1305301876137" filename="_MG_0476" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0476.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0476.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="18_1305301876138" filename="_MG_0478" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0478.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0478.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="19_1305301876139" filename="_MG_0479" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0479.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0479.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="20_1305301876140" filename="_MG_0480" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0480.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0480.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="21_1305301876141" filename="_MG_0482" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0482.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0482.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="22_1305301876142" filename="_MG_0484" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0484.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0484.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="23_1305301876143" filename="_MG_0494" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0494.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0494.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="24_1305301876260" filename="_MG_0495" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0495.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0495.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="25_1305301876261" filename="_MG_0496" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0496.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0496.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="26_1305301876262" filename="_MG_0498" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0498.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0498.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="27_1305301876263" filename="_MG_0504" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0504.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0504.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="28_1305301876264" filename="_MG_0505" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0505.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0505.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="29_1305301876265" filename="_MG_0510" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0510.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0510.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="30_1305301876266" filename="_MG_0515" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0515.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0515.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="31_1305301876267" filename="_MG_0518" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0518.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0518.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="32_1305301876268" filename="_MG_0526" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0526.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0526.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="33_1305301876269" filename="_MG_0528" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0528.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0528.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="34_1305301876270" filename="_MG_0530-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0530-ret.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0530-ret.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="35_1305301876271" filename="_MG_0533" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0533.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0533.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="36_1305301876272" filename="_MG_0534" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0534.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0534.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="37_1305301876273" filename="_MG_0535" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0535.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0535.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="38_1305301876274" filename="_MG_0536" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0536.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0536.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="39_1305301876275" filename="_MG_0538" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0538.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0538.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="40_1305301876276" filename="_MG_0539" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0539.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0539.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="41_1305301876278" filename="_MG_0540" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0540.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0540.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="42_1305301876279" filename="_MG_0542" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0542.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0542.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="43_1305301876280" filename="_MG_0545-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0545-ret.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0545-ret.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="44_1305301876281" filename="_MG_0552" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0552.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0552.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="45_1305301876282" filename="_MG_0553" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0553.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0553.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="46_1305301876283" filename="_MG_0561" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0561.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0561.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="47_1305301876284" filename="_MG_0562-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0562-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0562-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="48_1305301876285" filename="_MG_0565" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0565.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0565.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="49_1305301876286" filename="_MG_0570" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0570.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0570.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="50_1305301876287" filename="_MG_0630-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0630-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0630-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="51_1305301876288" filename="_MG_0579-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0579-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0579-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="52_1305301876289" filename="_MG_0590" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0590.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0590.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="53_1305301876290" filename="_MG_0604" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0604.jpg" height="673" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0604.jpg" height="84" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="54_1305301876291" filename="_MG_0616" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0616.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0616.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="55_1305301876292" filename="_MG_0619" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0619.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0619.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="56_1305301876293" filename="_MG_0621" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0621.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0621.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="57_1305301876293" filename="_MG_0633-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0633-ret.jpg" height="1024" width="797" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0633-ret.jpg" height="129" width="100" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="58_1305301876294" filename="_MG_0636-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0636-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0636-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="59_1305301876296" filename="_MG_0637-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0637-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0637-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="60_1305301876296" filename="_MG_0644" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0644.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0644.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="61_1305301876298" filename="_MG_0645" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0645.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0645.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="62_1305301876299" filename="_MG_0646" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0646.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0646.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="63_1305301876301" filename="_MG_0648-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0648-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0648-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="64_1305301876302" filename="_MG_0651-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0651-ret.jpg" height="1024" width="827" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0651-ret.jpg" height="129" width="104" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="65_1305301876303" filename="_MG_0654" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0654.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0654.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="66_1305301876304" filename="_MG_0656" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0656.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0656.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="67_1305301876305" filename="_MG_0660" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0660.jpg" height="1024" width="683" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0660.jpg" height="129" width="86" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="68_1305301876306" filename="_MG_0664" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0664.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0664.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="69_1305301876308" filename="_MG_0665-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0665-ret.jpg" height="848" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0665-ret.jpg" height="106" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="70_1305301876309" filename="_MG_0666" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0666.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0666.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="71_1305301876310" filename="_MG_0667" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0667.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0667.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="72_1305301876311" filename="_MG_0668" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0668.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0668.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="73_1305301876313" filename="_MG_0670" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0670.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0670.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="74_1305301876315" filename="_MG_0671" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0671.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0671.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="75_1305301876315" filename="_MG_0672" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0672.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0672.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="76_1305301876316" filename="_MG_0674" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0674.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0674.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="77_1305301876317" filename="_MG_0675" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0675.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0675.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="78_1305301876318" filename="_MG_0678" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0678.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0678.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="79_1305301876319" filename="_MG_0679" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0679.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0679.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="80_1305301876320" filename="_MG_0685" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0685.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0685.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="81_1305301876321" filename="_MG_0689" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0689.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0689.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="82_1305301876322" filename="_MG_0695" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0695.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0695.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="83_1305301876323" filename="_MG_0697" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0697.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0697.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="84_1305301876334" filename="_MG_0700" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0700.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0700.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="85_1305301876335" filename="_MG_0701" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0701.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0701.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="86_1305301876336" filename="_MG_0703" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0703.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0703.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="87_1305301876337" filename="_MG_0708" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0708.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0708.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="88_1305301876338" filename="_MG_0713" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0713.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0713.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="89_1305301876339" filename="_MG_0719" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0719.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0719.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="90_1305301876340" filename="_MG_0720" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0720.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0720.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="91_1305301876341" filename="_MG_0728" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0728.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0728.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="92_1305301876342" filename="_MG_0731" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0731.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0731.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="93_1305301876343" filename="_MG_0734" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0734.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0734.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="94_1305301876343" filename="_MG_0735" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0735.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0735.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="95_1305301876344" filename="_MG_0739" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0739.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0739.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="96_1305301876345" filename="_MG_0740" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0740.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0740.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="97_1305301876346" filename="_MG_0745" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0745.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0745.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="98_1305301876347" filename="_MG_0746" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0746.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0746.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="99_1305301876348" filename="_MG_0752" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0752.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0752.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="100_1305301876349" filename="_MG_0753" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0753.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0753.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="101_1305301876350" filename="_MG_0755" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0755.jpg" height="739" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0755.jpg" height="93" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="102_1305301876352" filename="_MG_0759" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0759.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0759.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="103_1305301876353" filename="_MG_0760" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0760.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0760.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="104_1305301876354" filename="_MG_0761" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0761.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0761.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="105_1305301876354" filename="_MG_0765-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0765-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0765-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="106_1305301876355" filename="_MG_0766-ret" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/_MG_0766-ret.jpg" height="683" width="1024" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/_MG_0766-ret.jpg" height="86" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="107"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>

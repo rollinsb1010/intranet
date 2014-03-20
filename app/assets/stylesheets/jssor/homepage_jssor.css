@@ -1,0 +1,30 @@
+
+.rotator_headline {
+	color: #f7b87b; 
+	height: 22px; 
+	font: 16px Arial, Helvetica, sans-serif; 
+	padding: 10px 10px 0px 20px; 
+
+}
+
+.rotator_byline {
+	color: #fff; 
+	height: 18px; 
+	font: 13px Arial, Helvetica, sans-serif; 
+	padding: 0px 10px 10px 20px;
+	border-bottom: solid 1px #fff;
+}
+
+#bottom-nav {
+	border: none;
+}
+
+.jssort11 .p:hover, .jssort11 .p:hover {											/* active for prototype class, & normal mouseover (for top section)  */
+    background: #5f9dbf;
+}
+
+.jssort11 .pav, .jssort11 .phv, .jssort11 .pav, .jssort11 .phv .c { 				/* active,i.e. "automatic" & unknown mouse action */
+    background: #5f9dbf;
+}
+
+                

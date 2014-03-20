@@ -1,0 +1,117 @@
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link href="/staff/includes/staff2012.css" rel="stylesheet" type="text/css" media="all">
+<link href="/staff/includes/staff2012_print.css" rel="stylesheet" type="text/css" media="print">
+
+<SCRIPT type="text/javascript">
+<!-- Begin
+function Start(u, l, t, w, h)  {
+var windowprops = "location=no,scrollbars=yes,menubars=yes,toolbars=yes,resizable=yes" +
+",left=" + l + ",top=" + t + ",width=" + w + ",height=" + h;
+window.open(u,"popup",windowprops);
+}
+// End -->
+</SCRIPT>
+
+<script type="text/javascript">
+function hideDiv(objName){
+	var oDiv = document.getElementById(objName).style;
+	if(oDiv.display=="inline")
+		oDiv.display="none"; //hidden
+	else
+		oDiv.display="inline"; //visible
+	}
+</script>
+
+</head>
+<body>
+
+
+
+<div class="intranet_header_section1">
+<table class="noBorder intranet_width960" CELLPADDING="0" CELLSPACING="0">
+<tr><td><IMG SRC="/images/spacer.gif" WIDTH="11" HEIGHT="24" ALT="" class="decoration"></td>
+	<td style="width:100px"> <a href="http://www.sedl.org"><IMG SRC="/staff/images/sedl-logo.jpg" ALT="SEDL Home" WIDTH="86" HEIGHT="34" class="noBorder decoration"></a></td>
+	<td class="tagline noWrap">ADVANCING RESEARCH, IMPROVING EDUCATION</td>
+	<td align="right"><IMG SRC="/images/spacer.gif" WIDTH="300" HEIGHT="24" ALT="" class="decoration">
+		<a href="http://www.sedl.org/staff/sims/menu_help_tickets.php" class="sitebutton blue small">SEDL Help Desk</a></td>
+</tr>
+</table>
+</div>
+
+<p></p>
+
+<div class="intranet_header_section2">
+
+<MAP ID="Map_oneclick_links" NAME="Map_oneclick_links">
+<AREA SHAPE="rect" ALT="Staff" COORDS="0,8,34,27" HREF="/staff/personnel/staffprofiles.cgi?intranetonly=yes&amp;list_view=lastname&amp;showuserid=all">
+<AREA SHAPE="rect" ALT="Calendars" COORDS="48,9,123,25" HREF="/staff/personnel/calendar-inst.cgi">
+<AREA SHAPE="rect" ALT="Rooms" COORDS="132,9,184,25" HREF="/cgi-bin/mysql/scheduler-mueller.cgi">
+<AREA SHAPE="rect" ALT="SIMS" COORDS="194,10,229,25" HREF="http://www.sedl.org/staff/sims/sims_menu.php?src=intr">
+<AREA SHAPE="rect" ALT="Service Log" COORDS="241,9,325,24" HREF="http://www.sedl.org/staff/sims/logs/service_log_menu.php">
+<AREA SHAPE="rect" ALT="Style Guide" COORDS="332,10,419,24" HREF="/cgi-bin/mysql/staff/index.cgi?page=downloads">
+<AREA SHAPE="rect" ALT="SEDL Web Sites" COORDS="425,8,493,25" HREF="http://www.sedl.org/cgi-bin/mysql/staff/index.cgi?location=web_sites">
+<AREA SHAPE="rect" ALT="Listservs" COORDS="510,8,583,27" HREF="/staff/reports/listserv.cgi">
+</MAP>
+
+<MAP ID="Map_section_navigation" NAME="Map_section_navigation">
+<AREA SHAPE="rect" ALT="Personnel and Administration" COORDS="17,6,139,45" HREF="/cgi-bin/mysql/staff/index.cgi?section=personnel_admin">
+<AREA SHAPE="rect" ALT="Communications Services" COORDS="157,6,286,44" HREF="/cgi-bin/mysql/staff/index.cgi?section=comm">
+<AREA SHAPE="rect" ALT="Information Resource Center (IRC)" COORDS="308,5,470,44" HREF="/cgi-bin/mysql/staff/index.cgi?section=irc">
+<AREA SHAPE="rect" ALT="Training Docs and PD Sessions" COORDS="495,6,613,43" HREF="/cgi-bin/mysql/staff/index.cgi?section=training_pd">
+<AREA SHAPE="rect" ALT="Institutional Planning" COORDS="638,5,739,43" HREF="/cgi-bin/mysql/staff/index.cgi?section=inst_planning">
+<AREA SHAPE="rect" ALT="Client Interactions" COORDS="758,6,856,44" HREF="/cgi-bin/mysql/staff/index.cgi?section=clients">
+<AREA SHAPE="rect" ALT="Life at SEDL" COORDS="878,6,940,43" HREF="/cgi-bin/mysql/staff/index.cgi?section=life_at_sedl">
+
+</MAP>
+
+<TABLE class="noBorder intranet_width960" CELLPADDING="0" CELLSPACING="0">
+<TR><TD ROWSPAN="2" style="width:361px">
+		<a href="/cgi-bin/mysql/staff/index.cgi"><IMG SRC="/staff/images/template/header_logo_2012.gif" WIDTH="361" HEIGHT="61" ALT="intranet home page" class="noBorder decoration"></A></TD>
+	<TD style="width:590px; background:#97B03A;" align="right">
+		<form method="GET" action="/cgi-bin/mysql/staff/redirect_intranet_search.cgi" style="margin:0;padding:0;">
+		<p style="margin:0;padding:0;">
+		<select name="searchwhat" title="Select an area to search">
+		<option value="STAFF">Search intranet</option>
+		<option value="5">Search Google</option>
+		<option value="SEDL">Search SEDL</option>
+		<option value="IRC">Search IRC Catalog</option>
+		<option value="Afterschool">Search Afterschool</option>
+		<option value="NCDDR">Search NCDDR</option>
+		<option value="SECC">Search SECC</option>
+		<option value="TXCC">Search TXCC</option>
+		</select>
+		<input type="hidden" name="hopto" value="staff">
+		<input name="q1" id="q1" size="8" title="Enter the text to find">
+		<input type="submit" value="Go">
+		</p>
+		</form>
+		
+	
+	</TD>
+	<TD style="width:9px"><IMG SRC="/staff/images/template/header_rightcorner.gif" WIDTH="9" HEIGHT="34" ALT="" class="decoration"></TD></TR>
+<TR><TD COLSPAN="2" style="background-color:#97B03A;">
+		<IMG SRC="/staff/images/template/header_oneclick_links.gif" WIDTH="599" HEIGHT="27" ALT="" usemap="#Map_oneclick_links" class="noBorder decoration"></TD></TR>
+<TR><TD COLSPAN="3">
+		<IMG SRC="/staff/images/template/header_section_navigation2012.gif" WIDTH="960" HEIGHT="50" ALT="" usemap="#Map_section_navigation" class="noBorder decoration"></TD></TR>
+</table>
+</div>
+
+<div style="margin:0;padding:0;background-color:#ffffff" class="intranet_width960">
+
+
+
+	<div id="wrapper" class="clearfix">
+		<div id="leftcol">
+	
+			QQQ
+			<br>
+			<IMG SRC="/images/spacer.gif" HEIGHT="1" WIDTH = "180" ALT="">
+		</div>
+
+		<div id="maincol">
+			<div style="padding:15px;">
+
+
+

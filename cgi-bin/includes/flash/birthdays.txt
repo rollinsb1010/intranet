@@ -1,0 +1,28 @@
+birthdays=
+March Birthdays----------
+2: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=malvarez">Margaret Alvarez</a></span>
+3: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=mvadenki">Michael Vaden-Kiernan</a></span>
+7: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=amuoneke">Ada Muoneke</a></span>
+8: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=ccox">Chris Cox</a></span>
+18: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=hgoertze">Heidi Goertzen</a></span>
+19: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=slasserr">Shannon Lasserre-Cortez</a></span>
+21: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=cchapman">Camille Chapman</a></span>
+22: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=cmoses">Christine Moses-Egan</a></span>
+28: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=dmartine">Danny Martinez</a></span>
+31: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=hwagner">Heidi Wagner</a></span>
+
+April Birthdays----------
+1: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=ewaters">Eric Waters</a></span>
+2: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=emccann">Erin McCann</a></span>
+4: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=ksulliva">Kate Sullivan</a></span>
+9: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=mbaldwin">Marion Baldwin</a></span>
+9: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=spirtle">Sylvia Pirtle</a></span>
+16: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=jkeizer">Janice Keizer</a></span>
+20: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=dmeibaum">Debra Meibaum</a></span>
+21: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=eurquidi">Esmeralda Urquidi</a></span>
+21: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=triley">Tashanda Moreno Riley</a></span>
+22: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=ktimmons">Kati Timmons</a></span>
+24: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=cpierron">Clifton Pierron</a></span>
+28: <span style="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=bhoward">Beth Howard-Brown</a></span>
+
+Click here to view <span style ="color:#9e2e25;"><a href="/staff/personnel/staffprofiles.cgi?id=all&amp;list_view=birthday">all staff birthdays</a></span>.

@@ -1,0 +1,4 @@
+AuthName "OFTS Staff Only: Enter your intranet logon"
+AuthType Basic
+AuthUserFile /home/httpd/accesslist/fiscalformspasswdlist
+require valid-user

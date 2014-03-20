@@ -1,0 +1,722 @@
+<table border="0" cellpadding="2" cellspacing="0" bordercolor="#BAC979">
+<tr><td valign="top" width="50">03/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/malvarez.jpg\' align=\'right\'><strong>Margaret Alvarez</strong><br><br>On March 01, Margaret celebrates 10 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=malvarez"><span style="color:#9e2e25;">Margaret Alvarez</span></a> celebrates 10 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">03/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mvadenki.jpg\' align=\'right\'><strong>Michael Vaden-Kiernan</strong><br><br>On March 01, Michael celebrates 9 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mvadenki"><span style="color:#9e2e25;">Michael Vaden-Kiernan</span></a> celebrates 9 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">03/02:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/malvarez.jpg\' align=\'right\'><strong>Margaret Alvarez</strong><br><br>On March 02, Margaret celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=malvarez"><span style="color:#9e2e25;">Margaret Alvarez</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/03:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mvadenki.jpg\' align=\'right\'><strong>Michael Vaden-Kiernan</strong><br><br>On March 03, Michael celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mvadenki"><span style="color:#9e2e25;">Michael Vaden-Kiernan</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/03 - 03/05:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>North Carolina Department of Public Instruction Collaborative Conference on Student Achievement (CCSA): Engaging North Carolina in Transforming 21st Century Teaching and Learning</strong><br> <br><strong>Description:</strong> <p><p>The fourth annual conference for student achievement sponsored by the Academic Services and Instructional Support Division of NCDPI will feature various sessions on powerful topics related to the theme, &ldquo;Engaging North Carolina in Transforming 21st Century Teaching and Learning.&rdquo; Conference registration provides attendance admittance to all sessions, a reception, and two luncheons.</p></p><br><strong>Location:</strong> Greensboro, NC<br><strong>Venue:</strong> Sheraton Four Seasons/Koury Convention Center<br><strong>Contact:</strong> Debora Williams, Special Assistant for Graduation and Dropout Prevention Initiat<br><strong>Phone:</strong> 919-807-3913<br><strong>E-mail:</strong> debora.williams@dpi.nc.us', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">North Carolina Department of Public Instruction Collaborative Conference on Student Achievement (CCSA): Engaging North Carolina in Transforming 21st Century Teaching and Learning ..</span></span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_1">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/03 - 03/06:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>SXSWedu Conference</strong><br> <br><strong>Description:</strong> <p><p>SXSWedu seeks to converge the wide variety of stakeholders who share an interest in 21st Century innovation and best practices. Attendees represent not only education professionals including teachers, administrators, and university professors, but also business, industry, and policy leaders who are interested in modernizing teaching and learning.Numerous concurrent sessions will be available, organized by strands, which include accessibility, assessments, best practices, civic engagement, leadership, social and mobile learning, educational equality, data, education policy, global connections, and more.Among featured speakers will be Diane Ravitch, Rod Paige, Wendy Koop, and Nolan Bushnell.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.sxswedu.com/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Austin, TX<br><strong>Venue:</strong> Austin Convention Center<br><strong>Contact:</strong> SXSW staff<br><strong>Phone:</strong> 512-467-7979<br><strong>E-mail:</strong> info@sxswedu.com', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">SXSWedu Conference ..</span></span>
+
+			 (<a href="http://www.sxswedu.com/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_2">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/04:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/lforador.jpg\' align=\'right\'><strong>Lori Foradory</strong><br><br>On March 04, Lori celebrates 23 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=lforador"><span style="color:#9e2e25;">Lori Foradory</span></a> celebrates 23 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">03/06 - 03/08:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Society for Research on Educational Effectiveness (SREE) Spring 2014 Conference: Improving Education Science and Practice: The Role of Replication</strong><br> <br><strong>Web site:</strong>  (<a href=\'https://www.sree.org/conferences/2014s/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Washington, DC, ', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Society for Research on Educational Effectiveness (SREE) Spring 2014 Conference: Improving Education Science and Practice: The Role of Replication ..</span></span>
+
+			 (<a href="https://www.sree.org/conferences/2014s/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_3">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/07:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/amuoneke.jpg\' align=\'right\'><strong>Ada Muoneke</strong><br><br>On March 07, Ada celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=amuoneke"><span style="color:#9e2e25;">Ada Muoneke</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/08:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/ccox.jpg\' align=\'right\'><strong>Chris Cox</strong><br><br>On March 08, Chris celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=ccox"><span style="color:#9e2e25;">Chris Cox</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/10:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>PWA/SharePoint training for DRP staff</strong><br> <br><strong>Description:</strong> SharePoint and PWA training for staff in SEDL\'s Disability Research to Practice (DRP) unit.<br><strong>Web site:</strong>  (<a href=\'http://www.sedl.org/cgi-bin/mysql/staff/index.cgi?page=pwa_faq\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Venue:</strong> Training Room #307<br><strong>Contact:</strong> Brian Litke<br><strong>Phone:</strong> 512-391-6529<br><strong>E-mail:</strong> brian.litke@sedl.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">PWA/SharePoint training for DRP staff</span>
+
+			 (<a href="http://www.sedl.org/cgi-bin/mysql/staff/index.cgi?page=pwa_faq"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_4">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/11:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Support Team meeting (9 a.m.&ndash;11 a.m.)</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Support Team meeting (9 a.m.&ndash;11 a.m.)</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_5">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/11 - 03/20:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>South Carolina Department of Education Common Core State Standards Series: Designing Change</strong><br> <br><strong>Description:</strong> <p><p>The purpose of the SCDE Common Core State Standards (CCSS) series is to provide school leaders with essential information and resources needed to ensure the effective implementation of the CCSS in their schools. Several sessions remain, and materials from previous sessions are available online at the following link (http://ed.sc.gov/agency/programs-services/190/ccss-support/InstructionalLeadersCCSupport.cfm).</p>This session will explore Smarter Balanced Assessments, technology readiness for online assessment, structuring planning time and professional learning communities, developing an implementation plan for 2014&ndash;2015, and using value-added data to enable school improvement.</p>Additional information can be found at this link (https://adobeformscentral.com/?f=Eqs1n1KXDZjmiI8oWZAp5A#).</p>March 11: SCEA, 421 Zimalcrest Drive, Columbia, SC 29210</p>March 12: Lake City Bean Market, 111 Henry St., Lake City, SC 29560 (Florence area)<br /><br />March 17: Whitlock Flexible Learning , 364 Successful Way, Spartanburg, SC 29303<br /><br />March 20: Colleton Adult Education Center Boardroom, 609 Colleton Loop, Walterboro, SC 29488</p>&nbsp;</p>&nbsp;</p></p><br><strong>Location:</strong> Various Cities Around the State, <br><strong>Venue:</strong> None<br><strong>Contact:</strong> Linda Norwood<br><strong>Phone:</strong> 803-734-3461<br><strong>E-mail:</strong> lpnorwood@ed.sc.gov', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">South Carolina Department of Education Common Core State Standards Series: Designing Change ..</span></span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_6">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/13:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>ESS Virtual Unit meeting: 10:00 - 11:00 a.m.</strong><br><strong>Contact:</strong> Robin Jarvis<br><strong>Phone:</strong> 504-838-0606<br><strong>E-mail:</strong> robin.jarvis@sedl.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">ESS Virtual Unit meeting: 10:00 - 11:00 a.m.</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_8">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/13 - 03/14:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>North Carolina Association of School Administrators&#8217; Conference on Educational Leadership: Visionary Leadership: Building Support and Respect for Public Schools</strong><br> <br><strong>Description:</strong> <p><p>The conference will offer powerful general sessions focused on this important theme for all school leaders to embrace as well as 36 breakout sessions highlighting best practices and current trends. The opening general session will feature influential and well respected North Carolinians who are committed to ensuring that the state will continue to have a strong, effective public school system. These thought leaders will share perspectives on the public relations challenges North Carolina's schools now face and offer suggestions for increasing collaboration among stakeholders. The session will end with information designed to help every school district launch a public engagement campaign to increase respect and support for local schools in their community.</p></p><br><strong>Web site:</strong>  (<a href=\'http://m360.ncasa.net/event.aspx?eventID=88669&instance=0\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Raleigh, NC<br><strong>Venue:</strong> Raleigh Convention Center<br><strong>Contact:</strong> Katherine W. Joyce, Executive Director<br><strong>Phone:</strong> 919-828-1426<br><strong>E-mail:</strong> kjoyce@ncasa.net', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">North Carolina Association of School Administrators&#8217; Conference on Educational Leadership: Visionary Leadership: Building Support and Respect for Public Schools ..</span></span>
+
+			 (<a href="http://m360.ncasa.net/event.aspx?eventID=88669&instance=0"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_9">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/13 - 03/15:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Association for Education Finance and Policy 39th Annual Conference: New Players in Education Finance and Policy</strong><br> <br><strong>Description:</strong> <p><p>New Players in Education Finance Policy aims to present, discuss, and evaluate the latest research on education topics as well as encourage debates on current reforms and policy directions. Topics to be discussed include new technology, sources of investment, capital and start-up vendors offering products/services, public-private partnerships, venture philanthropy, growth of new sources of teachers and school leaders, and big data.</p></p><br><strong>Web site:</strong>  (<a href=\'http://www.aefpweb.org/annualconference/home\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> San Antonio, TX<br><strong>Venue:</strong> San Antonio Marriott Rivercenter<br><strong>Contact:</strong> Angie Hull<br><strong>Phone:</strong> 573-814-9878<br><strong>E-mail:</strong> info@aefpweb.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Association for Education Finance and Policy 39th Annual Conference: New Players in Education Finance and Policy ..</span></span>
+
+			 (<a href="http://www.aefpweb.org/annualconference/home"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_7">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/15:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/jwestbro.jpg\' align=\'right\'><strong>John Westbrook</strong><br><br>On March 15, John celebrates 32 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=jwestbro"><span style="color:#9e2e25;">John Westbrook</span></a> celebrates 32 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">03/15 - 03/17:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Association for Supervision and Curriculum Development (ASCD) Annual Conference & Exhibit Show: EveryLearner: Someday Is Now</strong><br> <br><strong>Description:</strong> <p><p>The ASCD Annual Conference and Exhibit Show is education\'s premier professional development event. It features noted educators and hosts more than 550 sessions. One-, two-, and three-day pre-conference institutes are available.<br />Featured speakers include Daniel Pink, Sir Ken Robinson, and Russell Quaglia.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.ascd.org/conferences/Annual-Conference/2014/2014-general-information.aspx\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Los Angeles, CA<br><strong>Venue:</strong> Los Angeles Convention Center<br><strong>Contact:</strong> ASCD Service Center<br><strong>Phone:</strong> 800-933-2723<br><strong>E-mail:</strong> Member@ascd.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Association for Supervision and Curriculum Development (ASCD) Annual Conference & Exhibit Show: EveryLearner: Someday Is Now ..</span></span>
+
+			 (<a href="http://www.ascd.org/conferences/Annual-Conference/2014/2014-general-information.aspx"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_10">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/16 - 03/18:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>North Carolina Association for Middle Level Education 39th Annual Conference: &#8220;Hand in Hand Connecting in the Middle&#8221;</strong><br> <br><strong>Description:</strong> <p><p>The conference typically draws about 2,000 educators from across North Carolina and around the country.&nbsp;In 2013, even with the continuing budget crunch, 1,300 educators from across North Carolina and 15 other states attended.&nbsp;We hope you'll join us in March in Greensboro to learn, network, and share. There will be more than 150 sessions from extraordinary educators, and the keynote speakers include Dr. Debbie Silver, Mr. Brad Fulton, Dr. Laurie Barron, Dr. Irvin Howard, Ms. Linda Hoppings. and Mr. Louis Manjoine.</p></p><br><strong>Web site:</strong>  (<a href=\'http://www.ncmle.org/2014-conference-reg.html\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Greensboro, NC<br><strong>Venue:</strong> Sheraton Four Seasons Koury Convention Center<br><strong>Contact:</strong> John Harrison<br><strong>Phone:</strong> 910-235-3761<br><strong>E-mail:</strong> Harrison@ncmle.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">North Carolina Association for Middle Level Education 39th Annual Conference: &#8220;Hand in Hand Connecting in the Middle&#8221; ..</span></span>
+
+			 (<a href="http://www.ncmle.org/2014-conference-reg.html"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_11">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/18:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/hgoertze.jpg\' align=\'right\'><strong>Heidi Goertzen</strong><br><br>On March 18, Heidi celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=hgoertze"><span style="color:#9e2e25;">Heidi Goertzen</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/19:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/slasserr.jpg\' align=\'right\'><strong>Shannon Lasserre-Cortez</strong><br><br>On March 19, Shannon celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=slasserr"><span style="color:#9e2e25;">Shannon Lasserre-Cortez</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/21:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/cchapman.jpg\' align=\'right\'><strong>Camille Chapman</strong><br><br>On March 21, Camille celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=cchapman"><span style="color:#9e2e25;">Camille Chapman</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/22:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/cmoses.jpg\' align=\'right\'><strong>Christine Moses-Egan</strong><br><br>On March 22, Christine celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=cmoses"><span style="color:#9e2e25;">Christine Moses-Egan</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/23 - 03/25:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Fourth Annual Indistar Summit</strong><br> <br><strong>Description:</strong> <p><p>Participants at this event will (a)&nbsp;share state administration strategies for quality implementation and measurable results, (b)&nbsp;share district and school support strategies to see change through to the classroom, (c)&nbsp;learn about the Center on Innovation in Learning's suggestions for using Indistar as a platform for innovation and instructional technology, (d)&nbsp;develop state plans to enhance quality implementation and measure results, and (e)&nbsp;learn about new Indistar features.</p>&nbsp;</p></p><br><strong>Web site:</strong>  (<a href=\'http://www.centeril.org/registration/registration.aspx\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Albuquerque, NM<br><strong>Venue:</strong> Embassy Suites Albuquerque<br><strong>Contact:</strong> Sam Redding<br><strong>Phone:</strong> 217-732-6462<br><strong>E-mail:</strong> sredding@adi.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Fourth Annual Indistar Summit ..</span></span>
+
+			 (<a href="http://www.centeril.org/registration/registration.aspx"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_12">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/27 - 03/28:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Center for Mexican American Studies and Research 11th Annual Conference: Adding \'Arts\' to STEM: A Culturally Relevant STEAM, Our Lady of the Lake University</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.ollusa.edu/s/1190/ollu-form.aspx?sid=1190&gid=1&pgid=6883\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> San Antonio, TX', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Center for Mexican American Studies and Research 11th Annual Conference: Adding 'Arts' to STEM: A Culturally Relevant STEAM, Our Lady of the Lake University ..</span></span>
+
+			 (<a href="http://www.ollusa.edu/s/1190/ollu-form.aspx?sid=1190&gid=1&pgid=6883"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_13">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/28:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/dmartine.jpg\' align=\'right\'><strong>Danny Martinez</strong><br><br>On March 28, Danny celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=dmartine"><span style="color:#9e2e25;">Danny Martinez</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">03/30 - 04/02:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Association for Research in Science Teaching (NARST) Annual International Conference</strong><br> <br><strong>Description:</strong> <p><p>The National Association for Research in Science Teaching (NARST) is a worldwide organization of professionals committed to the improvement of science teaching and learning through research. Members work to promote universal scientific literacy and cooperate with other educational organizations to influence educational policies.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'https://www.narst.org/annualconference/futureconf.cfm\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Pittsburgh, PA<br><strong>Venue:</strong> Wyndham Grand Pittsburgh Downtown<br><strong>Contact:</strong> NARST staff<br><strong>Phone:</strong> 703-234-4138<br><strong>E-mail:</strong> info@narst.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Association for Research in Science Teaching (NARST) Annual International Conference ..</span></span>
+
+			 (<a href="https://www.narst.org/annualconference/futureconf.cfm"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_14">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">03/31:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/hwagner.jpg\' align=\'right\'><strong>Heidi Wagner</strong><br><br>On March 31, Heidi celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=hwagner"><span style="color:#9e2e25;">Heidi Wagner</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/ewaters.jpg\' align=\'right\'><strong>Eric Waters</strong><br><br>On April 01, Eric celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=ewaters"><span style="color:#9e2e25;">Eric Waters</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/jwackwit.jpg\' align=\'right\'><strong>Joni Wackwitz</strong><br><br>On April 01, Joni celebrates 5 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=jwackwit"><span style="color:#9e2e25;">Joni Wackwitz</span></a> celebrates 5 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mshuss.jpg\' align=\'right\'><strong>Matt Shuss</strong><br><br>On April 01, Matt celebrates 1 year at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mshuss"><span style="color:#9e2e25;">Matt Shuss</span></a> celebrates 1 year at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/01 - 04/03:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Early Education and Technology for Children (EETC) Conference</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.eetcconference.org/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Salt Lake City, UT', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Early Education and Technology for Children (EETC) Conference ..</span></span>
+
+			 (<a href="http://www.eetcconference.org/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_15">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/02:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/emccann.jpg\' align=\'right\'><strong>Erin McCann</strong><br><br>On April 02, Erin celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=emccann"><span style="color:#9e2e25;">Erin McCann</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/02:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/scaverly.jpg\' align=\'right\'><strong>Sarah Caverly</strong><br><br>On April 02, Sarah celebrates 7 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=scaverly"><span style="color:#9e2e25;">Sarah Caverly</span></a> celebrates 7 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/03 - 04/05:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Society for Research in Child Development (SRCD) Annual Meeting</strong><br> <br><strong>Location:</strong> Alexandria, VA', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Society for Research in Child Development (SRCD) Annual Meeting ..</span></span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_18">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/03 - 04/06:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Science Teachers Association National Conference: Leading a Science Revolution</strong><br> <br><strong>Description:</strong> <p><p>This year's conference will be organized around 4 program strands:&nbsp; <br />&nbsp;&nbsp;&nbsp; Science and Literacy: A Symbiotic Relationship<br />&nbsp;&nbsp;&nbsp; Teaching Elementary Science with Confidence!<br />&nbsp;&nbsp;&nbsp; Leading from the Classroom<br />&nbsp;&nbsp;&nbsp; Engineering and Science: Technological Partners<br /><p>The meeting will also be the site of the NSTA Professional Development Institutes.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.nsta.org/conferences/2014bos/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Boston, MA<br><strong>Venue:</strong> Renaissance Boston Waterfront and Westin Boston Waterfront<br><strong>Contact:</strong> NSTA Staff<br><strong>Phone:</strong> 703-243-7100<br><strong>E-mail:</strong> conferences@nsta.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Science Teachers Association National Conference: Leading a Science Revolution ..</span></span>
+
+			 (<a href="http://www.nsta.org/conferences/2014bos/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_16">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/03 - 04/07:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>American Educational Research Association (AERA) Annual Meeting: The Power of Education Research for Innovation in Practice and Policy</strong><br> <br><strong>Description:</strong> <p><p>The theme of the meeting this year will be on the &ldquo;possibilities of education research, recognizing how evidence of varying types can be used for tackling persisting issues in education and for their innovative resolution.&rdquo; In addition to the convention center, sessions will be held in the Philadelphia Marriott Downtown, Courtyard Philadelphia Downtown, and Loews Philadelphia hotels.<br /><p>AERA will host a career center and a graduate student resource center in addition to the sessions and other activities that are are a regular part of the meeting<br /><p>Registration opens in mid-December and early-bird rates will be in effect until February 20.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.aera.net/Admin/2014AnnualMeetingTheme/tabid/14871/Default.aspx\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Philadelphia, PA<br><strong>Venue:</strong> Pennsylvania Convention Center<br><strong>Contact:</strong> Samara Fetner<br><strong>Phone:</strong> 202-238-3200 xt. 212<br><strong>E-mail:</strong> annualmtg@aera.net', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">American Educational Research Association (AERA) Annual Meeting: The Power of Education Research for Innovation in Practice and Policy ..</span></span>
+
+			 (<a href="http://www.aera.net/Admin/2014AnnualMeetingTheme/tabid/14871/Default.aspx"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_17">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/04:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/ksulliva.jpg\' align=\'right\'><strong>Kate Sullivan</strong><br><br>On April 04, Kate celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=ksulliva"><span style="color:#9e2e25;">Kate Sullivan</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/04:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/srodrigu.jpg\' align=\'right\'><strong>Sandy Rodriguez</strong><br><br>On April 04, Sandy celebrates 37 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=srodrigu"><span style="color:#9e2e25;">Sandy Rodriguez</span></a> celebrates 37 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/06 - 04/09:</td>
+<td valign="top"> <span onmouseover="Tip('<strong> National Migrant Education Conference  </strong><br> <br><strong>Description:</strong> <p><p>The conference is intended to provide an important, broad, and cutting-edge professional development opportunity to all who work in migrant education and others who provide services to and advocate for migrant children and their families. It is a substantive educational conference with general and workshop sessions, which will help all migrant educators and staff better assist the migrant families, children, and youth, with whom they work. The conference aims to inspire new approaches and new ideas in providing services throughout the Migrant Education Program.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.nasdme.org/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> San Antonio, TX<br><strong>Venue:</strong> (not available)<br><strong>Contact:</strong> NASDME Conference Coordination Office<br><strong>Phone:</strong> 505-508-2999<br><strong>E-mail:</strong> NASDME@mgr-events.com', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;"> National Migrant Education Conference   ..</span></span>
+
+			 (<a href="http://www.nasdme.org/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_19">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/07 - 04/08:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Hispanic Association of Colleges and Universities Annual National Capitol Forum on Hispanic Higher Education</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.hacu.net/hacu/Capitol_Forum3.asp\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Washington, DC', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Hispanic Association of Colleges and Universities Annual National Capitol Forum on Hispanic Higher Education ..</span></span>
+
+			 (<a href="http://www.hacu.net/hacu/Capitol_Forum3.asp"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_21">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/07 - 04/09:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Council of Teachers of Mathematics Research Conference</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.nctm.org/researchconf/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New Orleans, LA', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Council of Teachers of Mathematics Research Conference ..</span></span>
+
+			 (<a href="http://www.nctm.org/researchconf/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_20">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/08:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/gfleming.jpg\' align=\'right\'><strong>Grace Fleming</strong><br><br>On April 08, Grace celebrates 8 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=gfleming"><span style="color:#9e2e25;">Grace Fleming</span></a> celebrates 8 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/08:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Government Relations Team meeting (1 p.m.&ndash;2 p.m.)</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Government Relations Team meeting (1 p.m.&ndash;2 p.m.)</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_22">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/08:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Management Team meeting, 9:00 a.m. - 12:00 p.m.</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Management Team meeting, 9:00 a.m. - 12:00 p.m.</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_23">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/09:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mbaldwin.jpg\' align=\'right\'><strong>Marion Baldwin</strong><br><br>On April 09, Marion celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mbaldwin"><span style="color:#9e2e25;">Marion Baldwin</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/09:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/spirtle.jpg\' align=\'right\'><strong>Sylvia Pirtle</strong><br><br>On April 09, Sylvia celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=spirtle"><span style="color:#9e2e25;">Sylvia Pirtle</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/09 - 04/12:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Council of Teachers of Mathematics Annual Meeting &amp; Exposition</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.nctm.org/neworleans/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New Orleans, LA', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Council of Teachers of Mathematics Annual Meeting &amp; Exposition ..</span></span>
+
+			 (<a href="http://www.nctm.org/neworleans/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_24">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/10:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Quarterly Management Team meeting, 9:00 a.m. - 3:00 p.m.</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Quarterly Management Team meeting, 9:00 a.m. - 3:00 p.m.</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_25">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/13 - 04/15:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Mississippi Association of School Administrators (MASA) Annual Spring Leadership Conference</strong><br> <br><strong>Description:</strong> <p><p>The Mississippi Association of School Administrators will host its 2014&nbsp;Annual Spring Leadership Conference on April 13&ndash;15 in Jackson, Mississippi.</p></p><br><strong>Web site:</strong>  (<a href=\'http://www.msasa.org/subsite/dist/page/2014-masa-annual-spring-leadership-conference-1769\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Jackson, MS<br><strong>Venue:</strong> Jackson Hilton<br><strong>Contact:</strong> Lisa Karmacharya<br><strong>Phone:</strong> 662-574-1147<br><strong>E-mail:</strong> masadirector@aol.com', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Mississippi Association of School Administrators (MASA) Annual Spring Leadership Conference ..</span></span>
+
+			 (<a href="http://www.msasa.org/subsite/dist/page/2014-masa-annual-spring-leadership-conference-1769"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_26">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/15:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Support Team meeting (9 a.m.&ndash;11 a.m.)</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Support Team meeting (9 a.m.&ndash;11 a.m.)</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_27">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/16:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/jkeizer.jpg\' align=\'right\'><strong>Janice Keizer</strong><br><br>On April 16, Janice celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=jkeizer"><span style="color:#9e2e25;">Janice Keizer</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/17:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/charris.jpg\' align=\'right\'><strong>Cheryl Harris</strong><br><br>On April 17, Cheryl celebrates 13 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=charris"><span style="color:#9e2e25;">Cheryl Harris</span></a> celebrates 13 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/17:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>ESS Virtual Unit meeting: 10:00 - 11:00 a.m.</strong><br><strong>Contact:</strong> Robin Jarvis<br><strong>Phone:</strong> 504-838-0606<br><strong>E-mail:</strong> robin.jarvis@sedl.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">ESS Virtual Unit meeting: 10:00 - 11:00 a.m.</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_28">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/18:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/awilliam.jpg\' align=\'right\'><strong>Ann Williams</strong><br><br>On April 18, Ann celebrates 3 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=awilliam"><span style="color:#9e2e25;">Ann Williams</span></a> celebrates 3 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/20:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/dmeibaum.jpg\' align=\'right\'><strong>Debra Meibaum</strong><br><br>On April 20, Debra celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=dmeibaum"><span style="color:#9e2e25;">Debra Meibaum</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/21:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/eurquidi.jpg\' align=\'right\'><strong>Esmeralda Urquidi</strong><br><br>On April 21, Esmeralda celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=eurquidi"><span style="color:#9e2e25;">Esmeralda Urquidi</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/21:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/triley.jpg\' align=\'right\'><strong>Tashanda Moreno Riley</strong><br><br>On April 21, Tashanda Moreno celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=triley"><span style="color:#9e2e25;">Tashanda Moreno Riley</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/22:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/ktimmons.jpg\' align=\'right\'><strong>Kati Timmons</strong><br><br>On April 22, Kati celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=ktimmons"><span style="color:#9e2e25;">Kati Timmons</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/23 - 04/25:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Annual Young Child Expo &amp; Conference, Fordham University, Los Ninos Services</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.youngchildexpo.com/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New York City, NY', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Annual Young Child Expo &amp; Conference, Fordham University, Los Ninos Services ..</span></span>
+
+			 (<a href="http://www.youngchildexpo.com/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_32">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/23 - 04/25:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>STEM Solutions&#8212;National Leadership Conference</strong><br> <br><strong>Description:</strong> <p><p>This is the third national STEM conference, established by U.S. News &amp; World Report. Attendees, including professionals and policy makers from education, government, and business, will gather to promote national change in STEM education, policy, and workforce development. Among topics addressed will be the role of community and technical colleges, common core implementation, college readiness, early learning, revising CTE, improving teacher education, and gender and minority issues.&nbsp; </p></p><br><strong>Web site:</strong>  (<a href=\'http://usnewsstemsolutions.com/conference\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Washington, D.C.<br><strong>Venue:</strong> Walter E. Washington Convention Center<br><strong>Contact:</strong> Jennifer Hoff <br><strong>Phone:</strong> 619-298-1445<br><strong>E-mail:</strong> jhoff@usnewsstemsolutions.com', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">STEM Solutions&#8212;National Leadership Conference ..</span></span>
+
+			 (<a href="http://usnewsstemsolutions.com/conference"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_29">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/23 - 04/25:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>U.S. News STEM Solutions National Conference</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://usnewsstemsolutions.com/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Washington, DC', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">U.S. News STEM Solutions National Conference ..</span></span>
+
+			 (<a href="http://usnewsstemsolutions.com/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_31">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/23 - 04/26:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>New Mexico Association for Bilingual Education 2014 State Conference: Bilingual Education: Common to Our Core</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://nmabe.net/events/2014-state-conference/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Albuquerque, NM', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">New Mexico Association for Bilingual Education 2014 State Conference: Bilingual Education: Common to Our Core ..</span></span>
+
+			 (<a href="http://nmabe.net/events/2014-state-conference/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_30">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/24:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/cpierron.jpg\' align=\'right\'><strong>Clifton Pierron</strong><br><br>On April 24, Clifton celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=cpierron"><span style="color:#9e2e25;">Clifton Pierron</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/24 - 04/25:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>SEDL Board Meeting, New Orleans</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">SEDL Board Meeting, New Orleans</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_33">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">04/28:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/bhoward.jpg\' align=\'right\'><strong>Beth Howard-Brown</strong><br><br>On April 28, Beth celebrates a birthday.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=bhoward"><span style="color:#9e2e25;">Beth Howard-Brown</span></a> celebrates a birthday</span></td></tr>
+<tr><td valign="top" width="50">04/30:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mboethel.jpg\' align=\'right\'><strong>Martha Boethel</strong><br><br>On April 30, Martha celebrates 16 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mboethel"><span style="color:#9e2e25;">Martha Boethel</span></a> celebrates 16 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">04/30:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>All-staff Board Debriefing meeting, 2 p.m., 1st floor Conference Center</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">All-staff Board Debriefing meeting, 2 p.m., 1st floor Conference Center</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_34">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/aneeley.jpg\' align=\'right\'><strong>Ann Neeley</strong><br><br>On May 01, Ann celebrates 13 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=aneeley"><span style="color:#9e2e25;">Ann Neeley</span></a> celebrates 13 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/01:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/awest.jpg\' align=\'right\'><strong>April West</strong><br><br>On May 01, April celebrates 1 year at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=awest"><span style="color:#9e2e25;">April West</span></a> celebrates 1 year at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/02:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>REL Southwest Governing Board Spring Meeting</strong><br> <br><strong>Description:</strong> Governing Board members from our five-state region will convene to review ongoing work, provide guidance on regional priorities, and share ideas for future work.<br><strong>Location:</strong> Location TBD, ', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">REL Southwest Governing Board Spring Meeting</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_35">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/04 - 05/06:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Arkansas Association of Middle Level Education Annual Conference: Polishing the Core</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.aamle.org/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Hot Springs, AR', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Arkansas Association of Middle Level Education Annual Conference: Polishing the Core ..</span></span>
+
+			 (<a href="http://www.aamle.org/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_36">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/05:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/dbrown.jpg\' align=\'right\'><strong>Darlene Brown</strong><br><br>On May 05, Darlene celebrates 6 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=dbrown"><span style="color:#9e2e25;">Darlene Brown</span></a> celebrates 6 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/05 - 05/07:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National School Boards Association (NSBA) Annual Conference: Transform Leadership: Imagine. Inspire. Empower.</strong><br> <br><strong>Description:</strong> <p><p>NSBA represents its state association members and their more than 90,000 local school board members. The conference brings together school board leaders and administrators from across the country to learn about education issues from a national perspective, understand how federal legislation and court decisions will affect their districts, and gain insights into strategies to raise student achievement.<br /><p>General session speakers will include Thomas Friedman, Sir Ken Robinson, Nikhil Goyal, and Angela Maiers.<br /><br /></p><br><strong>Web site:</strong>  (<a href=\'http://annualconference.nsba.org/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New Orleans, LA<br><strong>Venue:</strong> Ernest N. Morial Convention Center<br><strong>Contact:</strong> NSBA staff<br><strong>Phone:</strong> 703-838-6722 <br><strong>E-mail:</strong> conference@nsba.org ', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National School Boards Association (NSBA) Annual Conference: Transform Leadership: Imagine. Inspire. Empower. ..</span></span>
+
+			 (<a href="http://annualconference.nsba.org/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_37">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/05 - 05/08:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Smart Start Conference</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.smartstart.org/conference/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Greensboro, NC', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Smart Start Conference ..</span></span>
+
+			 (<a href="http://www.smartstart.org/conference/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_38">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/06:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Government Relations Team meeting (1 p.m.&ndash;2 p.m.)</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Government Relations Team meeting (1 p.m.&ndash;2 p.m.)</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_39">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/06:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Management Team meeting, 9:00 a.m. - 12:00 p.m.</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Management Team meeting, 9:00 a.m. - 12:00 p.m.</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_41">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/06 - 05/08:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Association for Compensatory Educators of Texas (ACET) Spring Conference </strong><br> <br><strong>Description:</strong> <p><p>The conference offers unique opportunities to meet with colleagues to discuss issues and share the most up-to-date information about successful programs for students in at-risk situations. Talk one-on-one with TEA consultants, receive current state and federal updates on programs and funding availability, and network with fellow ACET members who share the same concerns.</p></p><br><strong>Web site:</strong>  (<a href=\'http://www.acetx.org/index.php?option=com_content&view=article&id=64&Itemid=18\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Austin, TX<br><strong>Venue:</strong> Renaissance Hotel Arboretum<br><strong>Contact:</strong> Wade Burroughs<br><strong>Phone:</strong> 406-862-3275<br><strong>E-mail:</strong> wburroughs@bresnan.net', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Association for Compensatory Educators of Texas (ACET) Spring Conference  ..</span></span>
+
+			 (<a href="http://www.acetx.org/index.php?option=com_content&view=article&id=64&Itemid=18"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_40">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/07:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mdodson.jpg\' align=\'right\'><strong>Melissa Dodson</strong><br><br>On May 07, Melissa celebrates 7 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mdodson"><span style="color:#9e2e25;">Melissa Dodson</span></a> celebrates 7 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/08 - 05/11:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>LPCA 2014  26th Annual Convention and Regional Conference    : Exploring Cultural Differences in Today\'s Diverse World </strong><br> <br><strong>Description:</strong> <p><p>The Licensed Professional Counselors Association will hold its 26th Convention and Regional Conference and pre-conference May 8&ndash;11, 2014.</p></p><br><strong>Web site:</strong>  (<a href=\'http://lpcaga.org/index.php?customernumber=14358225579&pr=Convention&=SID\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Atlanta, GA<br><strong>Venue:</strong> Crowne Plaza Atlanta  Perimeter At Ravinia Resort<br><strong>Contact:</strong> Licensed Professional Counselors Association<br><strong>Phone:</strong> 404-370-0200<br><strong>E-mail:</strong> LPCAGA@mindspring.com', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">LPCA 2014  26th Annual Convention and Regional Conference    : Exploring Cultural Differences in Today's Diverse World  ..</span></span>
+
+			 (<a href="http://lpcaga.org/index.php?customernumber=14358225579&pr=Convention&=SID"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_42">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/09:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/mturner.jpg\' align=\'right\'><strong>Maria Turner</strong><br><br>On May 09, Maria celebrates 3 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=mturner"><span style="color:#9e2e25;">Maria Turner</span></a> celebrates 3 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/09 - 05/12:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>International Reading Association (IRA) Annual Convention: Reading . . . The Teachable Moment</strong><br> <br><strong>Description:</strong> <p><p>This annual conference offers an opportunity to network with literacy professionals and authors from around the world. General session speakers will be Jeff Kinney, Dav Pilkey, P. David Pearson, and Rafe Esquith. Speakers for the Teaching Edge Series will be Douglas Fisher &amp; Nancy Frey, Kelly Gallagher, and Debbie Diller.In addition to hundreds of educational sessions throughout the conference, eleven full-day institutes are scheduled for May 9.<br /><br /></p><br><strong>Web site:</strong>  (<a href=\'http://www.reading.org/annual-conference-2014\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New Orleans, LA<br><strong>Venue:</strong> Ernest N. Morial Convention Center<br><strong>Contact:</strong> IRA staff<br><strong>Phone:</strong> 800-336-7323<br><strong>E-mail:</strong> customerservice@reading.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">International Reading Association (IRA) Annual Convention: Reading . . . The Teachable Moment ..</span></span>
+
+			 (<a href="http://www.reading.org/annual-conference-2014"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_43">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/10:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/msalazar.jpg\' align=\'right\'><strong>Maria Salazar</strong><br><br>On May 10, Maria celebrates 10 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=msalazar"><span style="color:#9e2e25;">Maria Salazar</span></a> celebrates 10 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/13:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/dmeibaum.jpg\' align=\'right\'><strong>Debra Meibaum</strong><br><br>On May 13, Debra celebrates 18 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=dmeibaum"><span style="color:#9e2e25;">Debra Meibaum</span></a> celebrates 18 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/14 - 05/17:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Science Teachers Association (NSTA) STEM Forum and Expo: Integration for Innovation!</strong><br> <br><strong>Description:</strong> <p><p>This forum is hosted by the National Science Teachers Association. It has several objectives: <ul><li>Help educators better understand the significance of STEM Education<br><li>Bring an awareness and understanding of how STEM can be implemented, applied, and sustained in a K&ndash;12 setting<br><li>Provide examples of successful outreach programs and partnerships<br><li>Assist in identifying benchmarks for successful STEM programs</ul>Program strands include primary, upper elementary, middle level, high school, partnerships, and administrators.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.nsta.org/conferences/2013stl/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New Orleans, LA<br><strong>Venue:</strong> Ernest N. Morial Convention Center<br><strong>Contact:</strong> NSTA staff<br><strong>Phone:</strong> 703-243-7100<br><strong>E-mail:</strong> conferences@nsta.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Science Teachers Association (NSTA) STEM Forum and Expo: Integration for Innovation! ..</span></span>
+
+			 (<a href="http://www.nsta.org/conferences/2013stl/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_44">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/14 - 05/17:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Science Teachers Association STEM Forum and Expo</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://www.nsta.org/conferences/2014new/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> New Orleans, LA', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Science Teachers Association STEM Forum and Expo ..</span></span>
+
+			 (<a href="http://www.nsta.org/conferences/2014new/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_45">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/15:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/rghazal.jpg\' align=\'right\'><strong>Rita Ghazal</strong><br><br>On May 15, Rita celebrates 1 year at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=rghazal"><span style="color:#9e2e25;">Rita Ghazal</span></a> celebrates 1 year at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/15:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>ESS Virtual Unit meeting: 10:00 - 11:00 a.m.</strong><br><strong>Contact:</strong> Robin Jarvis<br><strong>Phone:</strong> 504-838-0606<br><strong>E-mail:</strong> robin.jarvis@sedl.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">ESS Virtual Unit meeting: 10:00 - 11:00 a.m.</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_46">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/16:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/eurquidi.jpg\' align=\'right\'><strong>Esmeralda Urquidi</strong><br><br>On May 16, Esmeralda celebrates 3 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=eurquidi"><span style="color:#9e2e25;">Esmeralda Urquidi</span></a> celebrates 3 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/16:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/lnail.jpg\' align=\'right\'><strong>Leslie Nail</strong><br><br>On May 16, Leslie celebrates 1 year at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=lnail"><span style="color:#9e2e25;">Leslie Nail</span></a> celebrates 1 year at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/17:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/ksulliva.jpg\' align=\'right\'><strong>Kate Sullivan</strong><br><br>On May 17, Kate celebrates 4 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=ksulliva"><span style="color:#9e2e25;">Kate Sullivan</span></a> celebrates 4 years at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/19 - 05/20:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Physics Teacher Education Coalition (PhysTEC) Conference</strong><br> <br><strong>Description:</strong> <p><p>This is the largest meeting of physics teachers in the nation, with workshops, panel discussions, and presentations by leaders from around the country. Conference strands:<ul><li>Leading through sustainability<br><li>Learning assistants<br><li>Pedagogical training for physics teachers<br><li>Recruiting and retaining physics teachers<br><li>Leading professional communities</li></ul>The PhysTEC Conference will be in conjunction with the UTeach Conference, featuring Arthur Levine, of the Woodrow Wilson Foundation, as the plenary speaker for the joint session.<p> Registration for both conferences will open in February.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://www.phystec.org/conferences/2014/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Austin, TX<br><strong>Venue:</strong> AT&T Executive Education and Conference Center<br><strong>Contact:</strong> Theodore Hodapp<br><strong>Phone:</strong> 301-209-3263<br><strong>E-mail:</strong> hodapp@aps.org', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">Physics Teacher Education Coalition (PhysTEC) Conference ..</span></span>
+
+			 (<a href="http://www.phystec.org/conferences/2014/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_47">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/20:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Early Childhood Inclusion Institute - Pre-Institute Workshops, Frank Porter Graham Child Development Institute</strong><br><strong>Web site:</strong>  (<a href=\'http://inclusioninstitute.fpg.unc.edu/schedule\'><span style=\'color:#9e2e25;\'>Web site</span></a>)', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Early Childhood Inclusion Institute - Pre-Institute Workshops, Frank Porter Graham Child Development Institute ..</span></span>
+
+			 (<a href="http://inclusioninstitute.fpg.unc.edu/schedule"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_50">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/20:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>Support Team meeting (9 a.m.&ndash;11 a.m.)</strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()">Support Team meeting (9 a.m.&ndash;11 a.m.)</span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_48">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/20 - 05/22:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>National Early Childhood Inclusion Institute, Frank Porter Graham Child Development Institute</strong><br> <br><strong>Web site:</strong>  (<a href=\'http://inclusioninstitute.fpg.unc.edu/\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Chapel Hill, NC', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">National Early Childhood Inclusion Institute, Frank Porter Graham Child Development Institute ..</span></span>
+
+			 (<a href="http://inclusioninstitute.fpg.unc.edu/"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_51">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/20 - 05/22:</td>
+<td valign="top"> <span onmouseover="Tip('<strong>UTeach Institute &#8211; National Math and Science Initiative (NMSI) Conference</strong><br> <br><strong>Description:</strong> <p><p>The UTeach conference is a venue for varied audiences, including teams from the program's 34 university partners, state policymakers, donors and foundations, and others interested in UTeach, which is a teacher preparation program for students in science mathematics, and computer science.The first day of the UTeach Conference, Tuesday May 20, will be in conjunction with the Physics Teacher Education Coalition Conference. Arthur Levine, from the Woodrow Wilson Foundation will be the plenary speaker at a joint session of the two organizations. Registration for both conferences will open in February.<br /><br /></p></p><br><strong>Web site:</strong>  (<a href=\'http://uteach-institute.org/conference\'><span style=\'color:#9e2e25;\'>Web site</span></a>)<br><strong>Location:</strong> Austin, TX<br><strong>Venue:</strong> AT&T Executive Education and Conference Center<br><strong>Contact:</strong> Shawna Renold<br><strong>Phone:</strong> 512-232-8471<br><strong>E-mail:</strong> renold@uteach.utexas.edu', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span style="color:#9e2e25;">UTeach Institute &#8211; National Math and Science Initiative (NMSI) Conference ..</span></span>
+
+			 (<a href="http://uteach-institute.org/conference"><span style="color:#9e2e25;">Web site</span></a>)
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_49">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/21:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/nsalas.jpg\' align=\'right\'><strong>Norma Salas</strong><br><br>On May 21, Norma celebrates 1 year at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=nsalas"><span style="color:#9e2e25;">Norma Salas</span></a> celebrates 1 year at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/23:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/gstoker.jpg\' align=\'right\'><strong>Ginger Stoker</strong><br><br>On May 23, Ginger celebrates 1 year at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=gstoker"><span style="color:#9e2e25;">Ginger Stoker</span></a> celebrates 1 year at SEDL</span></td></tr>
+<tr><td valign="top" width="50">05/26:</td>
+<td valign="top"> <span onmouseover="Tip('<strong><span class=\'text_red\'>SEDL Holiday: Memorial Day<br /></span></strong>', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><span class="text_red">SEDL Holiday: Memorial Day<br /></span></span>
+
+			
+			<span style="display: none; position:absolute; top:40px; left:-200px;background-color:#DCE8FA;width:200px;border-color:#6699CC; border-width: 2px; border-style: solid;padding:4px;" id="hiddentext_52">
+			<span style="font-size:12px;"><br>
+
+			
+			</span>
+		</span>
+		
+</td></tr>
+<tr><td valign="top" width="50">05/31:</td>
+<td valign="top"> <span onmouseover="Tip('<img src=\'/images/people/etobia.jpg\' align=\'right\'><strong>Edward Tobia</strong><br><br>On May 31, Edward celebrates 13 years at SEDL.', WIDTH, 240, DELAY, 500, FIX, [20, 210])" onmouseout="UnTip()"><a href="/staff/personnel/staffprofiles.cgi?id=etobia"><span style="color:#9e2e25;">Edward Tobia</span></a> celebrates 13 years at SEDL</span></td></tr>
+</table>

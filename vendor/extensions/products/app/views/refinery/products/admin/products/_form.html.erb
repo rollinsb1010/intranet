@@ -1,0 +1,120 @@
+<%= form_for [refinery, :products_admin, @product] do |f| -%>
+  <%= render '/refinery/admin/error_messages',
+              :object => @product,
+              :include_object_name => true %>
+
+  <div class='field'>
+    <%= f.label :name -%>
+    <%= f.text_field :name, :class => 'larger widest' -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :authors -%>
+    <%= f.text_field :authors -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :categories -%>
+    <%= f.text_field :categories -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :rel_categories -%>
+    <%= f.text_field :rel_categories -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :assigned_to -%>
+    <%= f.text_field :assigned_to -%>
+  </div>
+
+  <div class='field'>
+    <%= render '/refinery/admin/wysiwyg',
+                :f => f,
+                :fields => [:title, :description, :meta_desc, :meta_keywords, :testimonial, :citation],
+                :object => "products/product" -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :title2 -%>
+    <%= f.text_field :title2 -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :sales_id -%>
+    <%= f.text_field :sales_id -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :online_id -%>
+    <%= f.text_field :online_id -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :price -%>
+    <%= f.text_field :price -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :weight -%>
+    <%= f.number_field :weight -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :year_published -%>
+    <%= f.text_field :year_published -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :type -%>
+    <%= f.text_field :type -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :media -%>
+    <%= f.text_field :media -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :pages -%>
+    <%= f.number_field :pages -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :runtime -%>
+    <%= f.text_field :runtime -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :language -%>
+    <%= f.text_field :language -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :sedl_program -%>
+    <%= f.check_box :sedl_program, :checked => @product[:sedl_program] -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :update_content -%>
+    <%= f.check_box :update_content, :checked => @product[:update_content] -%>
+  </div>
+
+  <div class='field'>
+    <%= f.label :last_updated_by -%>
+    <%= f.text_field :last_updated_by -%>
+  </div>
+
+  <%= render '/refinery/admin/form_actions', :f => f,
+             :continue_editing => false,
+             :delete_title => t('delete', :scope => 'refinery.products.admin.products.product'),
+             :delete_confirmation => t('message', :scope => 'refinery.admin.delete', :title => @product.name) -%>
+<% end -%>
+
+<% content_for :javascripts do -%>
+  <script>
+    $(document).ready(function(){
+      page_options.init(false, '', '');
+    });
+  </script>
+<% end -%>

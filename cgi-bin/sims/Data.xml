@@ -1,0 +1,6 @@
+<chart caption='SEDL Budget Code Summary: 2007' subcaption='Budget Code 010-0-K5K5X' xAxisName='Month' yAxisName='Hrs Charged' numberPrefix=''>
+<set label='July' value='302' />
+	<set label='August' value='337.6' />
+	<set label='September' value='256.9' />
+	<set label='October' value='370.7' />
+	</chart>

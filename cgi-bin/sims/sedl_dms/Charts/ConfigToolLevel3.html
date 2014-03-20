@@ -1,0 +1,807 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FusionCharts For FileMaker Documentation</title>
+<link rel="stylesheet" href="Style.css" type="text/css" />
+</head>
+
+<body>
+<table width="98%" border="0" cellspacing="0" cellpadding="3" align="center">
+  <tr> 
+    <td> 
+      <h2 class="pageHeader">FusionCharts Visual Configuration Tool&gt;  Level 3 Properties </h2>    </td>
+  </tr>
+  <tr> 
+    <td valign="top" class="text"> <p> We will look at the properties based on the tabs in which they are present. In Level 3, the tabs that are present are shown below.</p>
+      <p class="header"><a name="Level2_Tabs" id="Level2_Tabs"></a>Level 3 Tabs  </p>
+      <table width="100%" cellpadding="3" class="tableAlternate text" cellspacing="2" border="0">
+        <tr class="tableAlternateHeader">
+          <td width="16%" valign="top"><strong>Tab Name</strong></td>
+          <td width="44%" valign="top"><strong>Description</strong></td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="codeInline">Pie/ Doughnut</td>
+          <td width="44%" valign="top">Configure the pie or doughnut charts using the properties in this tab. </td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Margin/ Legend</td>
+          <td valign="top">Define margins and customize the padding of various elements on the chart. <br>
+          Configure the functional and cosmetic properties of the legend.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Define Styles </td>
+          <td valign="top"> Define styles that can be applied to various objects.</td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Apply Styles </td>
+          <td valign="top">Apply the defined styles to  objects. </td>
+        </tr>
+        <tr class="text">
+          <td valign="top" class="codeInline">Miscellaneous</td>
+          <td valign="top">Configure other properties specific to a few charts. </td>
+        </tr>
+      </table>      
+      <p class="text">Each tab may have basic and advanced properties. We will now try to understand all the fields placed in these tabs. Note that the options Yes/No taken from the Value List <span class="codeInline">YesNoList</span> are internally converted to 0/1 to suit the FusionCharts QueryString format.</p>
+      <p class="text"><span class="header">Level 3 Properties</span></p>
+      <p class="text"><strong>&nbsp;<a name="_PieTab" id="_PieTab"></a><span class="header">Pie/Doughnut Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of Values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Pie/Doughnut Properties : Customize your pie/doughnut charts </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Slicing Distance</td>
+          <td width="16%" valign="top" class="codeInline">  slicingDistance  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> If you've opted to slice a particular pie/doughnut slice, using this attribute you can control the distance between the slice and the center of chart. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> In Pixels </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Pie Radius </td>
+          <td width="16%" valign="top" class="codeInline">  pieRadius  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> This attribute lets you explicitly set the outer radius of the chart. FusionCharts automatically calculates the best fit pie radius for the chart. This attribute is useful if you want to enforce one of your own values. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> In Pixels </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Starting Angle </td>
+          <td width="16%" valign="top" class="codeInline"> startingAngle  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> By default, the pie chart starts from angle 0 i.e., the first pie starts plotting from 0 angle. If you want to change the starting angle of the chart, use this attribute. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> 0-360 </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Enable Rotation </td>
+          <td width="16%" valign="top" class="codeInline">  enableRotation </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> The doughnut/pie charts have three modes: Slicing, Rotation and Link. If any links are defined, the chart works in Link mode. Otherwise, it starts in Slicing mode. If you need to enable rotation by default, set this attribute to 1. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> Yes/No </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Pie Inner Face Alpha </td>
+          <td width="16%" valign="top" class="codeInline">  pieInnerFaceAlpha  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Alpha of the pie inner face </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> 0-100 </span> </td>
+          <td align="left" valign="top">Pie3D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Pie Outer Face Alpha </td>
+          <td width="16%" valign="top" class="codeInline">  pieOuterFaceAlpha  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Alpha of the pie outer face </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> 0-100 </span> </td>
+          <td align="left" valign="top">Pie3D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Pie Y Scale </td>
+          <td width="16%" valign="top" class="codeInline">  pieYScale  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> This attribute alters the y-perspective of the pie in percentage figures. 100 percent means the full pie face is visible and 0 percent means only the side face is visible. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> 30-80 </span> </td>
+          <td align="left" valign="top">Pie3D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Pie Slice Depth </td>
+          <td width="16%" valign="top" class="codeInline">  pieSliceDepth  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> This attribute controls the pie 3D Depth. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> In Pixels </span> </td>
+          <td align="left" valign="top">Pie3D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Radius 3D </td>
+          <td align="left" valign="top" class="codeInline">radius3D </td>
+          <td align="left" valign="top">You can define the 3D Radius of chart in percentage using this attribute. It basically helps you set the bevel distance for the pie/doughnut (if in 3D Lighting Mode). </td>
+          <td align="left" valign="top">In Percent </td>
+          <td align="left" valign="top">Pie2D<br>
+Doughnut2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Enable Smart Labels </td>
+          <td width="16%" valign="top" class="codeInline">  enableSmartLabels  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Whether to use smart labels or not? </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Skip Overlap Labels </td>
+          <td width="16%" valign="top" class="codeInline">  skipOverlapLabels  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Whether to skip labels that are overlapping even when using smart labels? If not, they might overlap if there are too many labels. </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Is Smart Line Slanted </td>
+          <td width="16%" valign="top" class="codeInline">  isSmartLineSlanted  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> The smart lines (smart label connector lines) can appear in two ways: Slanted or Straight. This attribute lets you choose between them. </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Smart Line Color </td>
+          <td width="16%" valign="top" class="codeInline">  smartLineColor  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Color of smart label connector lines. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> Hex Code without the hash </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Smart Line Thickness </td>
+          <td width="16%" valign="top" class="codeInline">  smartLineThickness  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Thickness of smart label connector lines. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> In Pixels </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Smart Line Alpha </td>
+          <td width="16%" valign="top" class="codeInline">  smartLineAlpha  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Alpha of smart label connector lines. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> 0-100 </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Label Distance </td>
+          <td width="16%" valign="top" class="codeInline">  labelDistance  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> This attribute helps you set the distance of the label/value text boxes from the pie/doughnut edge. </span> </td>
+          <td width="8%" valign="top" class="tableGreyBorder"> <span class="text"> In Pixels </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Smart Label Clearance</td>
+          <td width="16%" valign="top" class="codeInline">  smartLabelClearance  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Clearance distance of a label (for sliced-in pies) from an adjacent sliced out pies. </span> </td>
+          <td width="8%" valign="top" class="trLightBlueBg"> <span class="text"> In Pixels </span> </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Pie/Doughnut Functional Properties </strong></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> showZeroPies </span> </td>
+          <td width="16%" valign="top" class="codeInline">  showZeroPies  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Configuration whether to show pies with 0 values (and their values). Otherwise, they won't show up in the chart. </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top"><p>Pie2D<br>
+            Pie3D<br>
+            Doughnut2D<br>
+            Doughnut3D
+          </p>          </td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> showPercentValues </span> </td>
+          <td width="16%" valign="top" class="codeInline">  showPercentValues  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Whether to show percentage values in labels of the chart? </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> showPercentInToolTip </span> </td>
+          <td width="16%" valign="top" class="codeInline">  showPercentInToolTip  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Whether to show percentage values in tool tip? </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">labelSepChar </td>
+          <td align="left" valign="top" class="codeInline">labelSepChar </td>
+          <td align="left" valign="top">The character to separate the data label and data values on the chart. </td>
+          <td align="left" valign="top">Character </td>
+          <td align="left" valign="top">Pie2D<br>
+Pie3D<br>
+Doughnut2D<br>
+Doughnut3D </td>
+        </tr>
+      </table>
+      <p><strong><strong><a name="_MarginTab" id="_MarginTab"></a> </strong><span class="header">Margin/Legend Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values </td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Margin Properties : Define margins and configure paddings of various elements </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Caption Padding </td>
+          <td align="left" valign="top" class="codeInline">captionPadding</td>
+          <td align="left" valign="top"> This attribute lets you control the space (in pixels) between the sub-caption and top of the chart canvas. If the sub-caption is not defined, it controls the space between caption and top of chart canvas. If neither caption, nor sub-caption is defined, this padding does not come into play. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">X Axis Name Padding </td>
+          <td align="left" valign="top" class="codeInline">xAxisNamePadding</td>
+          <td valign='top' class="trLightBlueBg"> Using this, you can set the distance between the top end of x-axis title and the bottom end of data labels (or canvas, if data labels are not to be shown). </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All except Pie2D, Pie3D, Doughnut2D and Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Y Axis Name Padding </td>
+          <td align="left" valign="top" class="codeInline">yAxisNamePadding</td>
+          <td valign='top' class="tableGreyBorder"> Using this, you can set the distance between the right end of y-axis title and the start of y-axis values (or canvas, if the y-axis values are not to be shown). </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All except Pie2D, Pie3D, Doughnut2D and Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Y Axis Values Padding </td>
+          <td align="left" valign="top" class="codeInline">yAxisValuesPadding</td>
+          <td valign='top' class="trLightBlueBg"> This attribute helps you set the horizontal space between the canvas left edge and the y-axis values or trend line values (on left/right side). This is particularly useful, when you want more space between your canvas and y-axis values. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All except Pie2D, Pie3D, Doughnut2D and Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top" class="text">Label Padding </td>
+          <td align="left" valign="top" class="codeInline">labelPadding</td>
+          <td valign='top' class="tableGreyBorder"> This attribute sets the vertical space between the labels and canvas bottom edge. If you want more space between the canvas and the x-axis labels, you can use this attribute to control it. </td>
+          <td align="left" valign="top" class="text">Number (in pixels) </td>
+          <td align="left" valign="top" class="text">All except Pie2D, Pie3D, Doughnut2D and Doughnut3D </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top" class="text">Value Padding </td>
+          <td align="left" valign="top" class="codeInline">valuePadding</td>
+          <td valign='top' class="trLightBlueBg">It sets the vertical space between the end of columns and start of value textboxes. This basically helps you control the space you want between your columns/anchors and the value textboxes. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All except Pie2D, Pie3D, Doughnut2D and Doughnut3D </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Canvas Padding </td>
+          <td align="left" valign="top" class="codeInline">canvasPadding</td>
+          <td valign='top' class="trLightBlueBg">Allows you to set empty space on the left and right side of columns on the chart canvas in case of column chart and Lets you set the space between the canvas border and first & last data points in case of area chart.</td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All except Bar2D, Column2D, Doughnut2D, Doughnut3D, Pie2D,Pie3D, ScrollColumn2D,StackedBar2D, StackedColumn2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Chart Left Margin </td>
+          <td align="left" valign="top" class="codeInline">chartLeftMargin</td>
+          <td valign='top' class="trLightBlueBg"> Amount of empty space that you want to put on the left side of your chart. Nothing is rendered in this space. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Chart Right Margin </td>
+          <td align="left" valign="top" class="codeInline">chartRightMargin</td>
+          <td valign='top' class="tableGreyBorder"> Amount of empty space that you want to put on the right side of your chart. Nothing is rendered in this space. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Chart Top Margin</td>
+          <td align="left" valign="top" class="codeInline">chartTopMargin</td>
+          <td valign='top' class="trLightBlueBg"> Amount of empty space that you want to put on the top of your chart. Nothing is rendered in this space. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Chart Bottom Margin</td>
+          <td align="left" valign="top" class="codeInline">chartBottomMargin</td>
+          <td valign='top' class="tableGreyBorder"> Amount of empty space that you want to put on the bottom of your chart. Nothing is rendered in this space. </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">All</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Plot Space Percent </td>
+          <td align="left" valign="top" class="codeInline">plotSpacePercent</td>
+          <td valign='top' class="tableGreyBorder"> <p>On a column chart, there is spacing defined between two columns. By default, the spacing is set to 20% of canvas width. If you intend to increase or decrease the spacing between columns, you can do so using this attribute. For example, if you wanted all columns to stick to each other without any space in between, you can set plotSpacePercent to 0. Similarly, if you want very thin columns, you can set plotSpacePercent to its max value of 80. </p>
+          <p>On a bar chart, there is spacing defined between two bars. By default, the spacing is set to 20% of canvas width. If you intend to increase or decrease the spacing between bars, you can do so using this attribute. For example, if you wanted all bars to stick to each other without any space in between, you can set plotSpacePercent to 0. Similarly, if you want very thin bars, you can set plotSpacePercent to its max value of 80. </p></td>
+          <td align="left" valign="top">0-80 (in percent) </td>
+          <td align="left" valign="top">Bar2D, Column2D, Column3D, MS Bar2D, MS Bar3D, MS Column2D, MS Column3D, Stacked Bar 2D, Stacked Column2D, Stacked Column3D, StackedColumn3DLineDualY, Combi2D, Combi2DDY, Column3DLine, Column3DLineDualY, ScrollCOlumn2D, ScrollCombi2D, ScrollCombiDY2D, ScrollStackedColumn2D</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Legend Properties : Lets you configure cosmetic and functional properties of the legend </strong></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top" class="text">Show Legend</td>
+          <td align="left" valign="top" class="codeInline">showLegend</td>
+          <td align="left" valign="top" class="text">Whether to show legend for the chart (only multi-series and combination charts)? </td>
+          <td align="left" valign="top" class="text">Yes/No</td>
+          <td align="left" valign="top" class="text">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY,
+MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text">   Position </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendPosition  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> The legend can be plotted at two positions on the chart - below the chart (BOTTOM) and on the RIGHT side of the chart. </span> </td>
+          <td align="left" valign="top">BOTTOM or RIGHT </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Bg Color </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendBgColor  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Background color for the legend. </span> </td>
+          <td align="left" valign="top"> Hex code without the # </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text">  Bg Alpha </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendBgAlpha  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Background alpha for the legend. </span> </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Border Color </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendBorderColor  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Border Color for the legend. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text">  Border Thickness </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendBorderThickness  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Border thickness for the legend. </span> </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text">  Border Alpha </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendBorderAlpha  </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> Border alpha for the legend. </span> </td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Shadow </span> </td>
+          <td width="16%" valign="top" class="codeInline">  legendShadow  </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> Whether to show a shadow for legend? </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Allow Drag </span> </td>
+          <td width="16%" valign="top" class="codeInline"> <span class="codeInline"> legendAllowDrag </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> The legend can be made drag-able by setting this attribute to 1. End viewers of the chart can drag the legend around on the chart. </span> </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Scroll Bg Color </span> </td>
+          <td width="16%" valign="top" class="codeInline"> <span class="codeInline"> legendScrollBgColor </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> If you've too many items on the legend, a scroll bar shows up on the same. This attribute lets you configure the background color of the scroll bar. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td width="16%" valign="top" class="tableGreyBorder"> <span class="text"> Scroll Bar Color </span> </td>
+          <td width="16%" valign="top" class="codeInline"> <span class="codeInline"> legendScrollBarColor </span> </td>
+          <td width='30%' valign='top' class="tableGreyBorder"> <span class="text"> If you've too many items on the legend, a scroll bar shows up on the same. This attribute lets you configure the bar color of the scroll bar. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td width="16%" valign="top" class="trLightBlueBg"> <span class="text"> Scroll Btn Color </span> </td>
+          <td width="16%" valign="top" class="codeInline"> <span class="codeInline"> legendScrollBtnColor </span> </td>
+          <td width='30%' valign='top' class="trLightBlueBg"> <span class="text"> If you've too many items on the legend, a scroll bar shows up on the same. This attribute lets you configure the color of buttons of the scroll bar. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">MS Column2D,MS Column3D,MS Line2D,MS Area2D,MS Bar2D,MS Bar3D,<br>
+StackedColumn3D,StackedColumn2D,StackedArea2D, StackedBar2D,StackedBar3D,Stacked Column3D LineDY, MS Combi2D,MS CombiDY2D, Column3DLineSingleY,Column3DLineDY,<br>
+ScrollColumn2D,ScrollArea2D,ScrollLine2D, ScrollStackedColumn2D,ScrollCombi2D,ScrollCombiDY2D</td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_StylesDefTab" id="_StylesDefTab"></a></strong><span class="header">Define Styles  Tab </span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Style Types Supporting This Property </td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Define Styles  Tab: Define the styles required in your configuration. Currently, style types supported are Font, Glow, Shadow and Bevel. The properties for Glow, shadow and bevel are similar. The properties for font vary. </strong></td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Select Style </td>
+          <td align="left" valign="top" class="codeInline">-</td>
+          <td align="left" valign="top">Select a style from the pop-up menu to modify it, or you could create a new style by clicking on the Add button. </td>
+          <td align="left" valign="top">Value from pop-up menu </td>
+          <td align="left" valign="top">&nbsp;</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top"> Style Name </td>
+          <td align="left" valign="top" class="codeInline">-</td>
+          <td align="left" valign="top">Name for the style being defined. The string provided here, has to be unique. </td>
+          <td align="left" valign="top">Unique value in the database</td>
+          <td align="left" valign="top">&nbsp;</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Font Name </td>
+          <td align="left" valign="top" class="codeInline">face</td>
+          <td align="left" valign="top">Sets the font family for the text.</td>
+          <td align="left" valign="top">String</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Font Size</td>
+          <td align="left" valign="top" class="codeInline">size</td>
+          <td valign="top" bordercolor="f1f1f1"><p>Specifies the font size</p></td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Font Color</td>
+          <td align="left" valign="top" class="codeInline">color</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>Sets the font color</p></td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Bold</td>
+          <td align="left" valign="top" class="codeInline">bold</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>Flag indicating whether font should be bold or not</p></td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Italics</td>
+          <td align="left" valign="top" class="codeInline">italics</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>Flag indicating whether font should be italics or not</p></td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Underline</td>
+          <td align="left" valign="top" class="codeInline">underline</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>Flag indicating whether font should be underlined</p></td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Bg Color</td>
+          <td align="left" valign="top" class="codeInline">bgColor</td>
+          <td valign="top" bordercolor="f1f1f1"><p>Sets the background color for a text box, should be hex color code without #</p></td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Border Color</td>
+          <td align="left" valign="top" class="codeInline">borderColor</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>If you need a border around your text, you can use this parameter</p></td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Is HTML </td>
+          <td align="left" valign="top" class="codeInline"> isHTML</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>Helps you set whether the text should be rendered as HTML or plain text.</p></td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Left Margin</td>
+          <td align="left" valign="top" class="codeInline">leftMargin</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The left margin of the text, in points</p></td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Letter spacing</td>
+          <td align="left" valign="top" class="codeInline">letterSpacing</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The amount of space that is uniformly distributed between characters of the text</p></td>
+          <td align="left" valign="top">Number (in pixels)</td>
+          <td align="left" valign="top">Font</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top">Glow, Bevel, Shadow Properties</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">BlurX</td>
+          <td align="left" valign="top" class="codeInline">blurX</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The amount of horizontal blur.  The default value is 4 for Bevel and Shadow, 8 for Glow. Values that are a power of 2 (such as 2, 4, 8, 16 and 32) are optimized to render more quickly than other values.</p></td>
+          <td align="left" valign="top">0 to 255.</td>
+          <td align="left" valign="top">Glow, Bevel, Shadow</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">BlurY</td>
+          <td align="left" valign="top" class="codeInline">blurY</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The amount of vertical blur.   The default value is 4 for Bevel and Shadow, 8 for Glow.  Values that are a power of 2 (such as 2, 4, 8, 16 and 32) are optimized to render more quickly than other values.</p></td>
+          <td align="left" valign="top"> 0 to 255</td>
+          <td align="left" valign="top">Glow, Bevel, Shadow</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Strength</td>
+          <td align="left" valign="top" class="codeInline">strength</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The strength of the imprint or spread. The higher the value, the more color is imprinted and the stronger the contrast between the glow/bevel/shadow and the background. The default is 1 for Bevel and Shadow, 2 for Glow.</p></td>
+          <td align="left" valign="top">0 to 255</td>
+          <td align="left" valign="top">Glow, Bevel, Shadow</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Quality</td>
+          <td align="left" valign="top" class="codeInline">quality</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The number of times to apply the shadow effect. The default value is 1 for Bevel and Shadow, 2 for Glow, which is equivalent to low quality. A value of 2 is medium quality, and a value of 3 is high quality. Lower values are rendered quicker</p></td>
+          <td align="left" valign="top">0-15</td>
+          <td align="left" valign="top">Glow, Bevel, Shadow</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Angle</td>
+          <td align="left" valign="top" class="codeInline">angle</td>
+          <td align="left" valign="top">The angle of the shadow. The default value is 45</td>
+          <td align="left" valign="top">0-360</td>
+          <td align="left" valign="top">Bevel, Shadow</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Distance</td>
+          <td align="left" valign="top" class="codeInline">distance</td>
+          <td align="left" valign="top">The offset distance for the shadow (in pixels). The default value is 4</td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">Bevel, Shadow </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Alpha</td>
+          <td align="left" valign="top" class="codeInline">alpha / shadowAlpha</td>
+          <td align="left" valign="top">The alpha transparency value for the shadow color.  For example, 25 sets a transparency value of 25%.</td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Glow, Bevel, Shadow </td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Color</td>
+          <td align="left" valign="top" class="codeInline">color / shadowColor </td>
+          <td align="left" valign="top">The color of the glow/bevel/shadow. The default value is CCCCCC for shadow, FF0000 for Glow and  for Bevel. </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Glow, Bevel, Shadow </td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Highlight Color </td>
+          <td align="left" valign="top" class="codeInline">highlightColor</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The highlight color of the bevel.The default value is FFFFFF</p></td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Bevel</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Highlight Alpha </td>
+          <td align="left" valign="top" class="codeInline">highlightAlpha</td>
+          <td valign="top" bordercolor="f1f1f1" class="text"><p>The alpha transparency value of the highlight color.  For example, 25 sets a transparency value of 25%. The default value is 50.</p></td>
+          <td align="left" valign="top">0-100</td>
+          <td align="left" valign="top">Bevel</td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_StylesAppTab" id="_StylesAppTab"></a></strong><span class="header">Apply Styles Tab</span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="text">
+          <td width="100%" align="left" valign="top"><strong>Apply Styles tab: Apply the styles to various chart objects. The Chart Objects are 
+
+
+ BACKGROUND, CANVAS, CAPTION, DATALABELS, DATAPLOT, DATAVALUES, DIVLINES, HGRID, LEGEND, SUBCAPTION, TOOLTIP, TRENDVALUES, VLINES, XAXISNAME, YAXISNAME, YAXISVALUES. </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top"><p>Select a object from the pop-up menu. <br>
+            Click on a Style Name in the left side portal to select it, click on the + button to apply the style to the selected object.<br>
+          Internally, the tool will create  style,application, applyTo tags and set the toObject attribute value to the object selected from the pop-up menu and add the values of selected styles to the styles attribute. </p>          </td>
+        </tr>
+      </table>      
+      <p><strong><strong><a name="_MiscTab" id="_MiscTab"></a></strong><span class="header">Miscellaneous Tab</span></strong></p>
+      <table width="100%" border="0" cellspacing="2" cellpadding="3" class="tableAlternate">
+        <tr class="tableAlternateHeader textBold">
+          <td width="16%">Property Setting </td>
+          <td width="16%">FusionCharts QueryString Attribute Name </td>
+          <td width="30%">Description</td>
+          <td width="8%">Type/Range of values</td>
+          <td width="30%">Chart Types Supporting This Property</td>
+        </tr>
+        <tr class="text">
+          <td colspan="5" align="left" valign="top"><strong>Miscellaneous  Tab: Configure a few chart-specific properties in this tab </strong></td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Scroll Charts &gt; <br>
+          Scroll Color </td>
+          <td align="left" valign="top" class="codeInline">scrollColor</td>
+          <td align="left" valign="top">Color for scroll bar. </td>
+          <td align="left" valign="top">Hex code without the #</td>
+          <td align="left" valign="top">ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Scroll Charts &gt; <br>
+            Scroll Height </td>
+          <td align="left" valign="top" class="codeInline"> scrollHeight</td>
+          <td valign='top' class="trLightBlueBg"><span class="text"> Required height for scroll bar. </span></td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Scroll Charts &gt; <br>
+            Scroll Padding </td>
+          <td align="left" valign="top" class="codeInline">scrollPadding</td>
+          <td valign='top' class="tableGreyBorder"><span class="text"> Distance between the end of canvas (bottom part) and start of scroll bar. </span></td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Scroll Charts &gt; <br>
+            Scroll Button Width</td>
+          <td align="left" valign="top" class="codeInline">scrollBtnWidth</td>
+          <td valign='top' class="trLightBlueBg"><span class="text"> Width of both scroll bar buttons (left &amp; right). </span></td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Scroll Charts &gt; <br>
+            Scroll Button Padding </td>
+          <td align="left" valign="top" class="codeInline">scrollBtnPadding</td>
+          <td valign='top' class="tableGreyBorder"><span class="text">Padding between the scroll buttons and the scroll track (background). </span> </td>
+          <td align="left" valign="top">Number (in pixels) </td>
+          <td align="left" valign="top">ScrollColumn2D, ScrollArea2D, ScrollLine2D, ScrollStackedColumn2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Stacked Charts &gt; <br>
+            Show Sum </td>
+          <td align="left" valign="top" class="codeInline">showSum</td>
+          <td align="left" valign="top">If you want to show the sum of all bars/columns in a given stack, set this attribute to Yes. </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">StackedColumn2D, StackedColumn3D, StackedBar2D, StackedBar3D, Stacked Column3D LineDY, ScrollStackedColumn2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">Combination Charts &gt; <br>
+            Connect Null Data          <br></td>
+          <td align="left" valign="top" class="codeInline">connectNullData</td>
+          <td align="left" valign="top">This attribute lets you control whether empty data sets in your data will be connected to each other OR would they appear as broken data sets? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Area2D, Line2D, MS Line2D,MS Area2D, StackedArea2D, Stacked Column3D LineDY, MS Combi2D, MS CombiDY2D, Column3DLineSingleY, Column3DLineDY, ScrollArea2D,ScrollLine2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">Combination Charts &gt; <br>
+  Area Over Columns <br></td>
+          <td align="left" valign="top" class="codeInline">areaOverColumns</td>
+          <td align="left" valign="top">If you've both area and column plots on the combination chart, this attribute lets you configure whether area chart will appear over column chart.  </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">MS Combi2D, MS CombiDY2D, ScrollCombi2D, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">DualY Charts &gt; <br>
+Show Secondary Limits </td>
+          <td align="left" valign="top" class="codeInline">showSecondaryLimits</td>
+          <td align="left" valign="top">Whether to show secondary axis chart limit values? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">DualY Charts &gt; <br>
+Show Div Line Secondary Value </td>
+          <td align="left" valign="top" class="codeInline">showDivLineSecondaryValue</td>
+          <td align="left" valign="top">Whether to show div line values for the secondary y-axis? </td>
+          <td align="left" valign="top">Yes/No</td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">DualY Charts &gt; <br> 
+            P Y Axis Max Value </td>
+          <td align="left" valign="top" class="codeInline">pYAxisMaxValue</td>
+          <td valign='top' class="trLightBlueBg"> <span class="text"> This attribute helps you explicitly set the upper limit of the primary y-axis. If you don't specify this value, it is automatically calculated by FusionCharts based on the data provided by you. </span> </td>
+          <td align="left" valign="top">Hex code without the # </td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">DualY Charts &gt; <br> 
+            S Y Axis Min Value
+</td>
+          <td align="left" valign="top" class="codeInline">sYAxisMinValue</td>
+          <td valign='top' class="tableGreyBorder"> <span class="text"> This attribute helps you explicitly set the lower limit of the secondary y-axis. If you don't specify this value, it is automatically calculated by FusionCharts based on the data provided by you. </span> </td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">DualY Charts &gt; <br> 
+            S Y Axis Max Value
+</td>
+          <td align="left" valign="top" class="codeInline">sYAxisMaxValue</td>
+          <td valign='top' class="trLightBlueBg"> <span class="text"> This attribute helps you explicitly set the upper limit of the secondary y-axis. If you don't specify this value, it is automatically calculated by FusionCharts based on the data provided by you. </span> </td>
+          <td align="left" valign="top">Number</td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="tableAlternateDark text">
+          <td align="left" valign="top">DualY Charts &gt; <br> 
+            P Y Axis Name Width
+</td>
+          <td align="left" valign="top" class="codeInline">pYAxisNameWidth</td>
+          <td valign='top' class="tableGreyBorder"> <span class="text"> If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to primary y-axis name. </span> </td>
+          <td align="left" valign="top">Number (In Pixels)		  </td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+        <tr class="text">
+          <td align="left" valign="top">DualY Charts &gt; <br> 
+            S Y Axis Name Width</td>
+          <td align="left" valign="top" class="codeInline">sYAxisNameWidth</td>
+          <td valign='top' class="trLightBlueBg"> <span class="text"> If you opt to not rotate y-axis name, you can choose a maximum width that will be applied to secondary y-axis name. </span> </td>
+          <td align="left" valign="top">Number (In Pixels)		  </td>
+          <td align="left" valign="top">Stacked Column3D LineDY, CombiDY2D, Column3DLineDY, ScrollCombiDY2D</td>
+        </tr>
+      </table>      
+      <p>&nbsp;</p></td>
+  </tr>
+</table>
+    
+  
+
+</body>
+</html>

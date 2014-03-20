@@ -1,0 +1,15 @@
+<chart caption='Budget Code Summary: 1/1/2014 - 1/31/2014' subcaption='Budget Code: 088-8-MXX65' xAxisName='Staff Member' yAxisName='Hours Charged' numberPrefix=''>
+<set label='ktheodor' value='40' />
+	
+<styles>
+
+      <definition>
+         <style name='CanvasAnim' type='animation' param='_xScale' start='0' duration='1' />
+      </definition>
+
+      <application>
+         <apply toObject='Canvas' styles='CanvasAnim' />
+      </application>   
+
+   </styles>
+</chart>

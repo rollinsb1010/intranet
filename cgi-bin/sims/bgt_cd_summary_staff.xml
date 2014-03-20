@@ -1,0 +1,8 @@
+<chart caption='SEDL Budget Code Summary: 12/1/2013 - 12/31/2013' subcaption='Budget Code Summary' xAxisName='Month' yAxisName='Hours Charged' showLegend='1'>
+		<categories>
+		<category label='Dec' />
+			</categories>
+		<dataset seriesName='076-0-J1XXX'>
+		<set value='32.5' />
+				</dataset>
+			</chart>

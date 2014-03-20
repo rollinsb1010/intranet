@@ -1,0 +1,57 @@
+<HTML>
+<HEAD>
+<script language="JavaScript" src="FusionCharts.js"></script>
+<script language="JavaScript" src="FCColors.js"></script>
+<script language="JavaScript" src="FusionChartsCreator.js"></script>
+</HEAD>
+<BODY style="margin:0px; overflow:hidden; padding:0px;border:none;" >
+<div id="chartdiv" align="left" style="border:none">
+  <p>This text will be replaced by the chart.</p>
+  <p>If you do not see the chart, make sure that:
+  <UL>
+    <LI>You've Flash Player 8 (or above) installed for this browser. If not, you may install it for FREE from <a href='http://www.adobe.com/products/flashplayer/'>http://www.adobe.com/products/flashplayer</a>
+    <LI>The FusionCharts URL (Querystring) built by your FileMaker code is correct. If not, use the FusionCharts debugger to debug it.
+    <LI>You've JavaScript enabled for your browser.
+  </UL>
+  </p>
+</div>
+<script type="text/javascript" >
+		var rawData = unescape(document.location.search);
+
+		/* This variable would accept any custom XML data 
+			which will be appended just before end of </chart> element. 
+			This would specifically be useful when user wants to create 
+			a global STYLE for all their charts in the solution. 
+			That ways, he can just define it here and all charts take it from here. 
+		*/
+
+		var customXML = "";
+		
+		if (rawData!="")
+		{
+			//detects if the application sunning on FileMaker for mac
+			var isMac=navigator.userAgent.search(/MSIE/i)<0;
+			//Detects whether the user wishes to print the charts
+			var toPrint=rawData.match(/toPrint=[t1]/i);
+			if(toPrint) toPrint=toPrint[0].replace(/toPrint=/i,"").search(/^[tT1]/)>=0;
+			
+			var FCC=new FusionChartsCreator(rawData);
+			
+			//Set scale mode to ShowAll if the platform is mac
+			//and toPrint is true
+			//Otherwize the scale mode is set to noScale
+			if(toPrint && isMac){
+				var chart = new FusionCharts("./"+FCC.getSWF()+FCC.getChartMSG() , "ChartId" , FCC.getWidth() , FCC.getHeight(), FCC.getDebugMode(), "0","","exactFit" );		
+			}else{
+				var chart = new FusionCharts("./"+FCC.getSWF()+FCC.getChartMSG() , "ChartId" , FCC.getWidth() , FCC.getHeight(), FCC.getDebugMode(), "0" );
+			}
+			
+	        //We pass customXML to getXML function only – and not to FusionChartsCreator constructor.
+    	    chart.setDataXML(FCC.getXML(customXML));
+			chart.render("chartdiv");
+		}
+
+
+</script>
+</body>
+</html>

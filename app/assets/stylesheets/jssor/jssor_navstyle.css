@@ -1,0 +1,114 @@
+
+                /* jssor slider thumbnail navigator skin 11 css */
+                /*
+                .jssort11 .p            (normal)
+                .jssort11 .p:hover      (normal mouseover)
+                .jssort11 .pav          (active)
+                .jssort11 .pav:hover    (active mouseover)
+                .jssort11 .pdn          (mousedown)
+                */
+                .jssort11
+                {
+                        font-family: Arial, Helvetica, sans-serif;
+                }           
+                /* used for thumbnail image */
+                /* .jssort11 .i, .jssort11 .pav:hover .i
+                {
+                        position: absolute;
+                        top:3px;
+                        left:3px;
+                        WIDTH: 60px;
+                        HEIGHT: 30px;
+                        border: white 1px dashed;
+                }
+                * html .jssort11 .i
+                {
+                        WIDTH : 62px;
+                        HEIGHT : 32px;
+                }
+                .jssort11 .pav .i
+                {
+                        border: white 1px solid;
+                } */
+                .jssort11 .t, .jssort11 .pav:hover .t /* default & active mouseover (for top section) */
+                {
+                        padding-left: 15px;
+                        padding-top: 15px;
+                        width: 447px;
+                        height: 25px;
+                        color: #000;
+                        font-size: 14px;
+                        font-weight:bold;              
+                }
+                .jssort11 .p:hover .t, .jssort11 .p:hover .c   /* active for prototype class, & normal mouseover (for top section)  */
+                {
+                        background: #FFC880;
+                }
+                .jssort11 .pav .t, .jssort11 .phv .t, .jssort11 .pav .c, .jssort11 .phv .c /* active,i.e. "automatic" & unknown mouse action */
+                {
+                        background: #FFC880;
+                }
+                .jssort11 .c, .jssort11 .pav:hover .c /* default & active mouseover (for bottom section) */
+                {
+                        position: absolute;
+                        top: 40px;
+                        padding-left: 15px;
+                        width: 447px;
+                        height: 33px;
+                        color: #000;
+                        font-size: 13px;                
+                }
+                .jssort11 .p:hover .c /*  protoype & normal mouseover (for bottom section) */
+                {
+                       /* background: #FFC880;*/
+                }
+                .jssort11 .pav .c, .jssort11 .phv .c /* active & unknown mouse action */
+                {
+                       /* background: #FFC880;*/
+                }
+                .jssort11 .t/* transition font color (for both sections) */
+                {     
+                        background-image: -webkit-linear-gradient(top, #e4fff8 0%, #a4decf 100%);
+                        background-image: -moz-linear-gradient(top, #e4fff8 0%, #a4decf 100%); /* For Firefox 3.6 to 15 */
+                        background-image: -ms-linear-gradient(top, #e4fff8 0%, #a4decf 100%); 
+                        background-image: -o-linear-gradient(top, #e4fff8 0%, #a4decf 100%);  /* For Opera 11.1 to 12.0 */
+                        background-image: linear-gradient(top, #e4fff8 0%, #a4decf 100%); /* Standard syntax (must be last) */    
+                }
+                .jssort11 .c
+                {
+                        background-image: -webkit-linear-gradient(top, #a9e0d1 0%, #a2ddcd 100%); 
+                        background-image: -moz-linear-gradient(top, #a9e0d1 0%, #a2ddcd 100%); 
+                        background-image: -ms-linear-gradient(top, #a9e0d1 0%, #a2ddcd 100%); 
+                        background-image: -o-linear-gradient(top, #a9e0d1 0%, #a2ddcd 100%); 
+                        background-image: linear-gradient(top, #a9e0d1 0%, #a2ddcd 100%); 
+                        border-bottom-style: solid;
+                        border-bottom-width: 2px;
+                        border-bottom-color: #FFF; 
+                }
+                .jssort11 .p:hover .t, .jssort11 .phv .t, .jssort11 .pav:hover .t, .jssort11 .p:hover .c, .jssort11 .phv .c, .jssort11 .pav:hover .c  /* all mouse actions (for both sections) */
+                {
+                        transition: none;
+                        -moz-transition: none;
+                        -webkit-transition: none;
+                        -o-transition: none;
+                }
+                .jssort11 .c, .jssort11 .t /* greenish div */
+                {
+                        /*background: #A0D0C4; */
+                        
+                }
+                .jssort11 .p /* p = protoype class (prototype class is used for dynamic javascript portions & individual navigator) */
+                {
+                                       
+                }        
+                .jssort11 .pav, .jssort11 .pdn /* active & mousedown color */
+                {
+                        background: #FFC880;
+                }
+                .jssort11 .p:hover, .jssort11 .phv, .jssort11 .pav:hover /* normal mouseover for protoype class, unknown, & active mouseover color */
+                {
+                        background: #FFC880;
+                }
+                #last-slideshow-item{
+                        border: none;
+                }
